@@ -18,7 +18,7 @@ var Gridfs = require('gridfs-stream');
 
 // to store in mongodb (GridFS):
 const multerGridFsStorage = multerGridFs({
-   url: 'mongodb://ongxx103:123456@ds227525.mlab.com:27525/hackisufall2017'
+   url: process.env.DB_URI
 });
 var upload = multer({ storage: multerGridFsStorage });
 

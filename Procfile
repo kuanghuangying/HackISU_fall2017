@@ -1,2 +1,2 @@
-worker: npm run nodemon
+dev: npm run nodemon
 
