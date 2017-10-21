@@ -12,7 +12,7 @@ const session = require('express-session');
 const MongoStore = require('connect-mongo')(session);
 const ensureLoggedIn = require('connect-ensure-login').ensureLoggedIn;
 
-// const auth = require('./auth');
+const auth = require('./auth');
 
 const index = require('./routes/index');
 const db = require('./routes/db');
