@@ -1,0 +1,67 @@
+Shivani Patil
+San Francisco Bay Area
+Software Engineer at INSZoom
+
+Summary
+Actively seeking full- timeSoftware Developer position.
+A recent graduate student at San Jose State University,California, I did my specialization in
+ Enterprise Software Technologies under the Software Engineering major. I have completed my
+ Bachelor's in Engineering, Computer Engineering from University of Pune,India.
+
+I have worked with Java, C, C++, MySQL, MongoDB, HTML, Javascript and Python.
+
+Strengths:
+- Studied and worked on Web Services, RESTful APIs and Agile development.
+- Good understanding of Design Patterns.
+- Ability to work in team and complete projects with the given time with required quality.
+- Good communication skills.
+
+Experience
+Software Engineer at INSZoom
+August 2016  -  Present  (1 year 3 months)
+
+Software Intern at Yahoo
+June 2015  -  August 2015  (3 months)
+
+• Developed an application to address search queries related to conversion of time between time
+ zones for Yahoo! Search Team.
+• Implemented user location detection.
+• Internal Frameworks used: React and Flux Architecture of Facebook, Dust.js and YUI.
+• Internal CICD Tool and OpenStack machine used.
+• Libraries used: moment.js and moment-­‐timezone.js
+• Programming Languages: JavaScript, HTML and CSS(Client side) and Node.js(Server side)
+
+Education
+San Jose State University
+Master's Degree, Computer Software Engineering, 2014 - 2016
+University of Pune
+Bachelor's Degree, Computer Software Engineering, 2014 - 2016
+
+Activities and Societies:  Organized an event in the MIT College of Engineering's Tesla 2011
+
+Shivani Patil
+San Francisco Bay Area
+Software Engineer at INSZoom
+
+2 people have recommended Shivani
+
+"Shivani was working in my team doing an internship this summer (2015). Within a short time she
+was able to accomplish a lot, worked very hard and built a dynamic component for complex time/
+currency conversion, for deployment on Yahoo's search page. Great impact!"
+—Reiner Kraft, VP Engineering of Search & Personalization,  Zalando SE,  managed Shivani at
+Yahoo
+
+"Shivani and I worked together in Yahoo Search during her summer internship in 2015. Her
+first task was to analyze the results of a test we did for Search and present findings to the rest
+of the team. She was able to start right away, and those findings led to useful insights and
+engaged the team in discussion. Shivani chose her own project for her internship and worked on
+it independently, and also collaborated on the projects of other interns on the team; this included
+learning multiple software frameworks and coordinating with members of other teams. She
+accomplished much in a short time. I would be happy to work with Shivani again. "
+—Tony Hairr, Senior Software Engineer in Platforms / Search,  Yahoo,  managed Shivani indirectly
+at Yahoo
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

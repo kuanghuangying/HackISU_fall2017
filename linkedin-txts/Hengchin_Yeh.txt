@@ -1,0 +1,72 @@
+Hengchin Yeh
+San Francisco Bay Area
+Software Engineer at Google
+
+Summary
+Experienced Software Engineer with a demonstrated history of working in the internet industry. Skilled
+ in C++ and Audio Processing. 
+
+Experience
+Software Engineer at Google
+July 2017  -  Present  (4 months)
+Spatial audio in Virtual Reality.
+
+Software Engineer at Google
+January 2014  -  June 2016  (2 years 6 months)
+
+Build infrastructure to make geo-tagged imagery searchable and servable from applications like
+ Google Maps and Google Search.
+
+Research Assistant at University of North Carolina at Chapel Hill
+January 2009  -  December 2013  (5 years)
+
+Physics-based sound simulation: liquid sound, contact sound, wave-ray hybrid sound propagation.
+Material parameter estimation through mathematical optimization.
+Crowd simulation.
+
+Research Associate at Disney Research
+May 2012  -  August 2012  (4 months)
+
+Researched a novel context-aware high dynamic range technique that applies different
+ enhancement methods to different subjects detected in an image (people, sky, landmarks, etc.).
+
+Research Associate at Disney Research
+May 2011  -  August 2011  (4 months)
+
+Developed a semi-automatic pipeline to seamlessly composite meshes of a human face and a
+ cartoon figurine. The algorithm is 20X faster than the manual process and is used in the "D-Tech
+ Me Princess" and "Carbon Freeze Me Experience" products.
+
+Software Engineering Intern at Google
+May 2009  -  August 2009  (4 months)
+
+Researched on speech recognition algorithms. Implemented a baseline algorithm
+against which future developments are to be compared.
+
+Research Assistant at The Physical Society of Republic of China (TAIWAN)
+2004  -  2006  (2 years)
+
+Helped build "NTU Heritage Hall of Physics", a museum dedicated to the early development of
+ physics in Taiwan and reconstructed the first particle accelerator in Asia.
+http://www.museums.ntu.edu.tw/english/museums_physics.jsp
+
+Participated in the production of two documentary films during the reconstruction process: 
+"Cracking the Nucleus" http://goo.gl/ZrzTBq
+"The Physics World of Old Glass Artist" http://goo.gl/8PUy7a
+
+Education
+University of North Carolina at Chapel Hill
+PhD, Computer Science, 2007 - 2013
+National Taiwan University
+Master of Science (MS), Computer Science, 2002 - 2004
+National Taiwan University
+Bachelor of Science (BS), Physics, 1997 - 2002
+
+Hengchin Yeh
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

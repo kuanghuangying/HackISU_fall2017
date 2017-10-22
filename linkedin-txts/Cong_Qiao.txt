@@ -1,0 +1,86 @@
+Cong Qiao
+Greater New York City Area
+Full-Stack FinTech Developer and Magician at Two Sigma, Ph.D. in Computational Physics,
+Quantitative Technologist
+
+Summary
+Full stack development
+JavaScript (ES6-8), React, Redux, GraphQL, Meteor, Next.js
+Node, Python, Java
+Parallel computing, MPI
+Mathematical modeling, Wolfram
+Molecular dynamics, HOOMD, LAMMPS
+Monte Carlo method
+Quantum mechanics
+Card tricks
+
+Experience
+Software Engineer at Two Sigma
+August 2016  -  Present  (1 year 3 months)
+
+I am one of the early adopters of React at Two Sigma. I enjoy building the backend and frontend
+ of web apps all by myself. I led the development of the company's first mobile app, using React
+ Native. I contributed to building the internal analytics platform, through solving difficult statistical
+ problems.
+
+I gave a talk to the company to promote JavaScript and functional programming, which received
+ overwhelmingly positive feedback.
+
+Research Assistant at Brandeis University
+May 2011  -  August 2016  (5 years 4 months)
+
+Software Engineering Intern at Airbnb
+June 2015  -  August 2015  (3 months)
+
+I am one of the early adopters of React at Airbnb. Under the guidance of my intern manager, I
+ rebuilt part of Airbnb.com using React, and the corresponding backend using Ruby on Rails.
+
+As React wasn't quite hyped at that time, resources were relatively scarce, and I was mostly on my
+ own figuring out the best approach and architecture of building Airbnb.com using React. Through
+
+ careful consideration and hard work experimenting, I succeeded in not only building the product,
+ but also in a way such that the code was of highest quality and maintainability.
+
+More importantly, I documented my research and findings, which influenced and helped the
+ frontend development of Airbnb after my internship completed.
+
+Teaching Fellow at Brandeis University
+September 2010  -  May 2012  (1 year 9 months)
+
+Undergraduate Research Assistant at Chinese Academy of Sciences
+June 2009  -  May 2010  (1 year)
+
+Education
+Brandeis University
+Doctor of Philosophy (Ph.D.), Physics, 2010 - 2016
+University of Science and Technology of China
+Bachelor of Science (B.S.), Physics, 2006 - 2010
+
+Cong Qiao
+Greater New York City Area
+Full-Stack FinTech Developer and Magician at Two Sigma, Ph.D. in Computational Physics,
+Quantitative Technologist
+
+3 people have recommended Cong
+
+"Cong has an aptitude for adapting to new situations. He is proactive in seeking out solutions to
+problems, and ensures that he has a complete understanding of the solution, rather than merely
+parroting back answers. He is very detail oriented and thinks through all sides of a problem before
+settling on a solution."
+—Kevin Sun, Software Engineer,  Airbnb,  managed Cong at Airbnb
+
+"Cong was an expert on the frontend stack, especially react.js. It was a great experience to work
+with Cong on our yearly hackathon event. He built a couple beautiful pages single-handedly within
+just two days. Overall, I was deeply impressed by his determination and ability to learn new things. "
+—Ye Wang, Software Engineer,  Airbnb,  managed Cong indirectly at Airbnb
+
+"I’ve had the privilege of working with Cong for 3 months. Cong has made impressive contribution
+to Airbnb payment team. He helped redesign Airbnb payout page using Reactjs. He is very strong
+in algorithm design and can learn new things very fast. He comes from physics background but he
+became an expert in Reactjs in a very short time. He works very hard and is self motivated."
+—Tao Cui,  worked directly with Cong at Airbnb
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

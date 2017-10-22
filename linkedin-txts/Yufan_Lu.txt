@@ -1,0 +1,87 @@
+Yufan Lu
+Greater Los Angeles Area
+Software Engineer at Snapchat, Inc.
+
+Experience
+Software Engineer at Snapchat, Inc.
+March 2016  -  Present  (1 year 8 months)
+
+1. Low Power Mode (iOS/Android)
+2. Stories loading animation (iOS)
+3. Spectacle Crash Reporter (iOS/Android)
+4. Spectacle Firmware Update Service (Backend/part of Frontend: iOS/Android)
+5. Drove down the Snapchat's disk size by finding abusive usage (iOS)
+6. Changed the architecture of Snapchat's caching layer (iOS)
+7. Designed the File Persistent Store Architecture and APIs
+
+Software Engineer at Bungie
+March 2015  -  March 2016  (1 year 1 month)
+
+• Owner of global variables management system
+  - Refactored the overall architecture to prevent potential memory leak issues
+  - Simplified user interfaces regarding memory handles
+  - Refactored multi-threading protection for dereferencing memory
+• Owner of datum arrays management system
+  - Refactored the code to clean up the data structure redundancy and improve manageability
+• Co-owner of multi-threading protection system
+  - Refactored the multi-threading protection system to set the flags to detect multi-threaded access
+ on shared variables
+  - Refactored parts of the code to add bit manipulation for performance improvements
+• Co-owner of async-file system
+  - Fixed bugs in async file system with sync/async modes switch
+  - Implemented unit tests and stress tests
+
+Software Engineer (Intern) at Avaya
+January 2014  -  July 2014  (7 months)
+
+• Avaya Client
+  - Prototyped an encrypted communication protocol using a hybrid of TCP and UDP protocols
+  - Implemented server side using Java, client side using C++/C#/WPF, and database with MySQL
+  - Designed the architecture that manages the communication among telephony service servers
+• SPOT Dashboard Data Visualization
+
+  - Prototyped the data retrieval and visualization service with PythonDjango, MySQL database
+
+Research Assistant at Northeastern University
+January 2013  -  January 2014  (1 year 1 month)
+
+• Power SVG Shop
+  - Implemented the library that can parse SVG file using C#
+  - Generated scenes that can transform the 2D SVG pictures into 3D models in Unity3D
+  - Designed and developed script system for generating the meshes
+
+Software Engineer Intern at EMC
+May 2013  -  August 2013  (4 months)
+
+-- Adding new features to the internal Core Library
+-- Developed automated test applications for storage platform systems using C#, XML, C++, and
+ Python
+-- Developed new software engineering methods or processes, and re-evaluated existing ones
+-- Designed simulation, test criteria and verifies functionality
+
+Junior Programmer Intern at Virtuos
+August 2011  -  March 2012  (8 months)
+
+-- Developed the threading interfaces for a gaming engine as a member of Research & Develop
+ Team
+-- Implemented some parts of the company’s low-level game engine for PS3, Xbox360, Wii, PSP,
+ and 3DS and debugged for it
+
+Education
+Northeastern University
+Master of Science (M.S.), Computer Science, 2012 - 2014
+Activities and Societies:  LevelShop Simulating Project (Research Assistant); Interactive Improv
+ Theater Project (Research Assistant); Rock Band;
+Shanghai University
+Bachelor of Engineering (B.E.), Computer Science and Technology, 2008 - 2012
+Activities and Societies:  ACM International Collegiate Programming Contest, MCM --Mathematical
+ Contest in Modeling (Associate Team Master), Rock Band
+
+Yufan Lu
+Greater Los Angeles Area
+Software Engineer at Snapchat, Inc.
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

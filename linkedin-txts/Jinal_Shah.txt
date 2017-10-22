@@ -1,0 +1,116 @@
+Jinal Shah
+Austin, Texas Area
+Senior Software Engineer at Visa
+
+Summary
+Areas of expertise:
+
+✔ Software Development: J2EE, Spring MVC / Boot, Hibernate, Struts, MEAN stack, MySQL
+✔ Web UI Development: AngularJS / Angular 2.0, HTML5, CSS3, jQuery, Ajax, Bootstrap
+✔ Data Analytics and Data Mining: Apache Spark
+✔ Cloud Computing Technologies: Amazon AWS
+✔ DevOps & Automation: Jenkins, Bitrise, Selenium, Cucumber, Junit, Jacoco, Mockito, Sonar Qube
+
+Experience
+Senior Software Engineer at Visa
+July 2016  -  Present  (1 year 4 months)
+
+✔ Winner of Engineer’s Choice award, for publishing a white paper and presenting a demo on a
+ next generation payment solution. 
+✔ Winner of Visa Global Hackathon 2016 for #MakeLifeEasier theme – “Self-Healing Services"
+✔ Working on B2B commercial web application using J2EE, MySQL, Spring, Hibernate and
+ Angular 2.0 technology stack (Full Stack Development).
+✔ Managing build cycle using Jenkins and performing various QA tasks including automation.
+
+Engineering Intern at Appthority
+February 2016  -  May 2016  (4 months)
+
+✔ Developed a test harness – a test automation solution for Appthority’s SaaS solutions and mobile
+ apps.
+✔ Configured continuous integration and mobile app distribution environment.
+
+Graduate Student and Teaching Assistant at San Jose State University
+February 2015  -  May 2016  (1 year 4 months)
+
+Cloud Computing | Enterprise Software Technologies | Precalculus | Calculus 
+✔ Involved in setting up the project codebase & technology stack for the professor.
+✔ Conducted project discussion sessions. 
+✔ Quiz and exam grader.
+✔ Proctor & Lab Assistant.
+
+Service Engineering Intern at TiVo
+
+June 2015  -  August 2015  (3 months)
+
+✔ Improved marshalling performance by 88% and reduced memory consumption by 99% by
+ replacing the existing marshaller with the customized Jackson marshaller and building a cached
+ validation map asynchronously.
+
+✔ Build and Deploy service components based on TiVo's feeds platform.
+
+Assistant System Engineer at Tata Consultancy Services
+December 2012  -  July 2014  (1 year 8 months)
+
+✔ Saved 50% of data entry time by developing a WYSWYG component which automatically
+ converts data to HTML. 
+✔ Implemented Assessment and Arrears & Recovery modules in Madhya Pradesh Government 
+ Taxation Management System using J2EE, Spring, Hibernate, JavaScript, AJAX, jQuery, CSS and
+ Oracle 11g.
+✔ Part of the TCS Master Craft testing (automation) team.
+
+Java Web Developer at Wishtree Technologies
+May 2012  -  November 2012  (7 months)
+
+✔ Proposed and implemented an idea which helps society users to quickly communicate with
+ service vendors.
+✔ Reduced 70% development cost by utilizing existing resources and implementing it using jQuery
+ mobile.
+
+Project Trainee at Tata Consultancy Services
+December 2011  -  April 2012  (5 months)
+
+✔ Learned the concepts of Web Development, J2EE and their implementation along with Struts,
+ Spring and Hibernate.
+
+Student Member at IEEE
+January 2009  -  January 2010  (1 year 1 month)
+
+Student Member
+
+Education
+San Jose State University
+Master’s Degree, Computer Software Engineering, 2014 - 2016
+Ganpat University
+Bachelor of Technology (B.Tech.), Computer Engineering, 2008 - 2012
+
+Jinal Shah
+Austin, Texas Area
+Senior Software Engineer at Visa
+
+4 people have recommended Jinal
+
+"During his time with Wishtree, Jinal exhibited good programming skills and was quick to
+understand the requirements. He would be a good addition to any software development team. All
+the best."
+—Ravishankar Iyer, Founder, Sqoolz,  Sqoolz,  managed Jinal at Wishtree Technologies
+
+"Jinal was very enthusiastic in his endeavors and eager to learn and implement new ideas which
+helped the project"
+—Aashka Shah, Senior Software Engineer,  Apttus,  worked directly with Jinal at Tata Consultancy
+Services
+
+"I mentored Jinal during his summer internship at Tivo. Jinal is a capable developer with a bright
+future. He was able to follow directions and complete his tasks. He is a good communicator and
+easy to work with. "
+—Hamza Zineddin, Cloud Service Architect,  Tivo,  managed Jinal at TiVo
+
+"Jinal was an exceptional intern: he was given the task of automating mobile app builds and did
+so quickly, efficiently, and elegantly. He proved his ability to work with little direction while still
+respecting requirements. On top of this, he was a great guy. I wish I could have worked more with
+Jinal!"
+—Billy Gong, Staff Engineer,  Slack,  managed Jinal at Appthority
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

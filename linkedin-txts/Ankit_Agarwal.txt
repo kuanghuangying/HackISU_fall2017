@@ -1,0 +1,73 @@
+Ankit Agarwal
+San Francisco Bay Area
+Engineering @Airbnb
+
+Summary
+Software Engineer
+
+Experience
+Software Engineer at Airbnb
+February 2016  -  Present  (1 year 9 months)
+
+I am an engineer on the Search - Decide team at Airbnb. We work on building stuff to help our
+ guests "decide" which listing is best for their unique trip.
+
+Sounds interesting? Send me a DM to know more.
+
+Software Engineering Intern at Palantir Technologies
+May 2015  -  August 2015  (4 months)
+
+Teaching Assistant at Carnegie Mellon University
+January 2015  -  May 2015  (5 months)
+
+Teaching Assistant for Distributed Systems (15440/640) under Professor Mahadev Satyanarayanan
+ and Prof. Babu Pillai
+
+Software Engineer at Google
+July 2012  -  July 2014  (2 years 1 month)
+
+B.Tech(H) in CSE at International Institute of Information Technology
+July 2008  -  June 2012  (4 years)
+
+B.Tech(H) in Computer Science,  International Institute of Information Technology, Hyderabad.
+
+Software Engineering Intern at Google
+2011  -  2011
+
+Static call path analysis of google3 java codebase where the design and implementation of a
+ module for pre-processing the codebase to build a call graph was taken up.
+
+Teaching Assistant at International Institute of Information Technology
+2011  -  2011
+
+Teaching assistant for:
+1. Freshman level course on computer programming.
+2. Sophomore level science courses on quantum and newtonian physics.
+
+Education
+Carnegie Mellon University
+Master's degree, Computer Science, 2014 - 2015
+International Institute of Information Technology
+Bachelors of Technology ( H ), Computer Science, 2008 - 2012
+
+Ankit Agarwal
+San Francisco Bay Area
+Engineering @Airbnb
+
+1 person has recommended Ankit
+
+"I mentored Ankit during his internship experience at Google. Ankit is enthusiastic, persistent and
+has excellent programming skills. He understands the nuances of working with a large codebase
+and writing modular extensible code. He has exposure to good design practices, writes unit tests for
+his code and is comfortable building something which can be extended upon later. At the start of his
+internship, Ankit was provided with an open-ended problem. He started off independently, doing his
+research by reading up on research papers, talking with senior people in the company to come up
+with initial algorithms which he later refined over the period of 2 months. He was able to completely
+demonstrate the solution, checkin all his code and unit tests and also provide documentation on his
+work during this short period. I wish him best of luck for all his future endeavors."
+—Deepank Gupta, Engineering Manager,  Airbnb,  managed Ankit at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

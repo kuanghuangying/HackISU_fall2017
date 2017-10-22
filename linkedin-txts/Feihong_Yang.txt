@@ -1,0 +1,72 @@
+Feihong Yang
+San Francisco Bay Area
+Software Engineer at Google, via Zenith
+
+Summary
+As a recent Computer and Information Science graduate student with a master degree at University
+ of Delaware in May 2015. I have solid knowledge of software engineering, artificial intelligence,
+ networking and machine learning. In my projects relate to data analysis in the field of AI, I found it  is
+ interesting to design a system and let it help to achieve the goal base on the knowledge provided by
+ the data set provided. During the education I spent in the university I also take some course relate to
+ statistics in order to strengthen my background in the field. Also in some projects relate to software
+ engineering which help me review the knowledge I got during undergraduate and also help me to get
+   experience such as requirement analysis, system design and software design.
+
+ Currently I'm working at SkyGlue as a Full Stack Software Engineer, I Implement and test a data
+ processing pipeline system to transform data in the proper format, the system is built by python. Also
+ I updated the system by applying Spark(Scala) to make it running in distributed environment. In order
+ to achieve data visualization, I designed a website using many web tchnologies like HTML, JQuery,
+ JSON, REST API, Flask, JavaScript(Highcharts) and CSS, also OAuth(Google Identity Toolkit) is
+ applied for user verification from gmail.
+
+  My areas of interest include artificial intelligence, data mining, business intelligence, information
+ retrieval, statistics, data driven marketing and software engineering.
+
+Experience
+Software Engineer at Google
+July 2016  -  Present  (1 year 4 months)
+
+ - Developed data processing pipelines and internal tools to support business processes for the
+ Sales & 
+Marketing organization.
+ - Refactored critical system by moving hardcoded configuration data into a scalable configuration
+ interface powered by more ridgede schemas in MySQL.
+ - Developed channel management tool for 1000+ users from Google sales team to support client in
+ getting better advertisement service, complete with an approval chain for moving Google clients 
+ between internal teams.
+
+- Optimized backend code to speed up synchronization process for account assignment with
+ internal tool.
+- Addressed daily escalations regarding internal AdWords account assignments.
+- Refactored email based alerting system for proactive engineering alerts.
+- Developed Google internal sales platform synchronization pipeline to update the decision made by
+ sales  manager from escalation process.
+
+Software Engineer at SkyGlue.com
+October 2015  -  July 2016  (10 months)
+
+I implement and test a data processing pipeline system to transform data in the proper format, the
+ system is built by python. Also updated the system by applying Spark(Scala) to make it running in
+ distributed environment. 
+
+In order to achieve data visualization, I designed a website using many web tchnologies like HTML,
+ JQuery, JSON, REST API, Flask, JavaScript(Highcharts) and CSS, also OAuth(Google Identity
+ Toolkit) is applied for user verification from gmail.
+
+student at UD
+August 2013  -  May 2015  (1 year 10 months)
+
+Education
+University of Delaware
+Master's Degree, Computer Science, 2013 - 2015
+Xidian University
+Bachelor of Science (BS), Computer Software Engineering, 2009 - 2013
+
+Feihong Yang
+San Francisco Bay Area
+Software Engineer at Google, via Zenith
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

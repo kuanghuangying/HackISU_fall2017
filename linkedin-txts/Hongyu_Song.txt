@@ -1,0 +1,80 @@
+Hongyu Song
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Summary
+I am a full stack developer who design and build high-performance web services. 
+I love trouble shooting complex problems and always look for new challenges.
+
+Specialization: Python, Ruby, Javascript, Java, PHP, Linux.
+
+Experience
+Software Engineer at Airbnb
+September 2017  -  Present  (2 months)
+
+Software Engineer II at Groupon
+February 2016  -  September 2017  (1 year 8 months)
+
+- Design and build scalable, high performance web services; solve big data problems for consumer
+ oriented features.
+- Collaborate with other engineering teams implementing a federated inventory model across all of
+ Groupon's lines of business.
+- Translate complex functional and technical requirements into detailed architecture and design.
+- Improved the performance of bulk import/export by 20x/40x for the systems that house, update
+ and export large amounts of product and inventory data.
+- Acted as project lead of team of 3, and ensured the project was conducted smoothly and
+ successfully.
+- Provided mentorship to junior team members.
+
+Software Engineer at Wellspring Worldwide
+June 2014  -  January 2016  (1 year 8 months)
+
+- Responsible for designing and writing high quality code for Sophia, a PHP, MVC-based web
+ framework.
+- Build integrations with third-party systems and other partners to import/export client data to/from
+ our system. 
+- Participate in best practices such as agile development, pair programming, code reviews and test
+ driven development to ensure quality of the application.
+- Conduct research projects to optimize the application framework for maintainability and efficiency.
+
+- Collaborate with Product and Automation team to ensure well defined product features and on-
+time product release.
+
+Software Engineering Intern at Trading Technologies
+June 2013  -  May 2014  (1 year)
+
+- Designed and built a lightweight web service from scratch, that supports the automation team of
+ 10 members.
+- Learned the trading software system and automation framework from bottom up, with limited
+ guidance.
+
+Software Engineer Intern at Beijing Junheihuixin Network & Technology Co. Ltd.
+February 2012  -  June 2012  (5 months)
+
+- Completed tasks under emergency as well as high pressure situation.
+- Assisted other interns to write high quality code and finish their tasks in timely manner.
+- Learned MapReduce and Linux from scratch.
+- Designed test scenarios and documented analysis report.
+
+Research Assistant at University of Electronic Science and Technology of China
+February 2011  -  June 2011  (5 months)
+
+- Participated in lab projects with graduated students.
+- Conducted project to optimize motion detecting system. Managed to improve detection efficiency
+ without loosing the accuracy.
+- Realized haze-removal algorithm using Matlab.
+
+Education
+Illinois Institute of Technology
+Master's Degree, Computer Science, 2012 - 2014
+University of Electronic Science and Technology
+Bachelor of Engineering (B.E.), Electronic Information Engineering, 2008 - 2012
+
+Hongyu Song
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

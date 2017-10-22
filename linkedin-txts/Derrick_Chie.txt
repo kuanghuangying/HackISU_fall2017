@@ -1,0 +1,128 @@
+Derrick Chie
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Summary
+I like building things! But rather than say it, I'll show you! Please check out my projects on my GitHub:
+ https://www.github.com/djchie
+
+Experience
+Software Engineer at Airbnb
+August 2017  -  Present  (3 months)
+
+Full Stack Software Engineer at hiQ Labs
+January 2016  -  June 2017  (1 year 6 months)
+
+● Orchestrated Rancher/Jenkins build and data deployment of the flagship product
+● Implemented multiple full-stack features using Django backend and React/Redux frontend such
+ as roles/permissions, file transfer, profiles, and more
+● Integrated an array of third party services such as Amazon S3, Mixpanel, Google Analytics, JIRA
+
+iOS Developer at Smilefish
+October 2013  -  June 2015  (1 year 9 months)
+
+● Developed state of the art iOS application with significant client-server integration via REST/
+JSON services
+● Optimized iOS applications to meet the esthetics and business objectives of several clients
+● Utilized agile collaboration with designers, werver development teams, as well as Android and
+ Windows Phone 8 counterparts
+
+Marketing and Tech Intern at Cloudy
+March 2013  -  November 2013  (9 months)
+
+● Utilized social media and networking skills to bring awareness to the UC Irvine campus
+● Setup meetings with local businesses to bring the Cloudy name to highly reviewed locations
+● Tested and analyzed the Cloudy app for any bugs or inconsistencies and reported them to the
+ designers/developers
+
+Product Management Intern at FindTheBest
+June 2013  -  August 2013  (3 months)
+
+● Developed web products from start to finish pertaining the Microsoft Word software, Super Smash
+ Bros. series, and online movies and TV shows streaming services
+
+● Consistently managed and analyzed FindTheBest platform products via Google Analytics, Google
+ Webmasters, and SEO processes
+● Utilized different forms of research to validate and prepare for entry in new markets and gained
+ an understanding for general software markets
+
+Student Assistant II at UC Irvine
+April 2011  -  May 2013  (2 years 2 months)
+
+● Performed clerical tasks like photocopying, filing, data entry
+● Prepared collections-related documents using MS Word and Excel
+● Processed bibliographic searching and verification such as the JSTOR journal list
+
+Education Consultant Intern at Junyi Consulting
+August 2012  -  September 2012  (2 months)
+
+● Collaborated with local agents to strengthen the relationship with educational offices acting as a
+ liaison
+● Researched the private high school in the U.S.A. to generate a report in the potential profit of the
+ market 
+● Contacted potential private schools to establish a contract with International Student Education
+ Services
+
+Langson Library Stacks Assistant at UC Irvine
+September 2010  -  September 2012  (2 years 1 month)
+
+● Recorded books that have been taken off the shelves for determining which books were in
+ demand
+● Assisted people in search of specific books, magazines, journals, and media items
+● Organized a daily set amount of books for further sorting
+
+Information Technology Intern at Gorjana & Griffin, Inc.
+June 2012  -  August 2012  (3 months)
+
+● Transitioned th company from the Interspire Shopping Cart to the Magento eCommerce system
+● Utilized SEO techniques and Google Analytics to attract visitors to the website
+● Provided general IT support, such as networking, troubleshooting, and VOIP setup
+
+Accountant Intern at Angelo Accounting C.P.A.
+January 2012  -  April 2012  (4 months)
+
+● Performed accounts payable for several companies
+● Monitored and recorded the expenses for our clients 
+● Scheduled client appointments and maintained up-to-date client files
+
+Student Assistant III at UC Irvine
+May 2011  -  July 2011  (3 months)
+
+● Assisted in maintaining and updating Social Science Data Archives website and related data
+ platforms
+● Utilized Unix-based data conversion programs and prepared data or analysis and data cleaning
+● Designed and debugged web pages and performed data input, text scanning, and text
+ conversions
+
+Advertising Assistant at Muffler Express
+August 2008  -  July 2010  (2 years)
+
+● Designed several advertisements for the business
+● Improved advertisement strategies through new mediums, such as Craigslist and the newspaper
+● Increased profitability for the business
+
+Education
+University of California, Irvine
+Bachelor of Science (BS), Business Information Management, 2010 - 2015
+Activities and Societies:  Delta Sigma Pi - Pi Sigma, Accounting Association, Undergraduate
+ Consulting Association
+University of California, Irvine
+Bachelor of Science (BS), Computer Science, 2010 - 2015
+Activities and Societies:  Association for Computing Machinery
+University of California, Irvine
+Minor, Philosophy, 2010 - 2015
+Pacifica High School
+2006 - 2010
+Activities and Societies:  California Scholarship Federation, Key Club, Chinese Club, SAT Club,
+ Philosophy Club, Xpeerimental Club, National Honors Society
+Hack Reactor
+Software Engineering, 2015
+
+Derrick Chie
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+
