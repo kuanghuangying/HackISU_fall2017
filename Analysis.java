@@ -20,7 +20,7 @@ class Analysis {
 
 		for (int i = 0; i < len; i++)
 		{
-			FileScan fs = new FileScan("/home/heather/myGithub/HackISU_fall2017/linkedin-txts/" + all_txt_files[i]);
+			FileScan fs = new FileScan("/home/mitchell/HackISU/Resume/HackISU_fall2017/linkedin-txts/" + all_txt_files[i]);
 			all_scanned[i] = fs.getFSFile();
 		}
 		return all_scanned;
@@ -52,14 +52,52 @@ class Analysis {
 		return edu;
 	}
 
+	private List<String> getExperience(String[] resume){
+                List<String> exp = new ArrayList<>();
+                int startIndex = resume.length;
+                int endIndex = resume.length;
+		System.out.println(resume[0]);
+                for (int i = 0; i<resume.length; i ++){
+                        if (resume[i]!=null &&resume[i].contains("Experience")){
+				int z = i + 1; // next line after exp
+				String position_company = resume[z];
+				String time_range = resume[z+1];
+
+				// now we get that #descrittion
+				String exp_desc = "";
+				for (z = z + 3; resume[z]!=null && (resume[z].equals("") == false); z++) {
+					exp_desc += resume[z] + " ";	
+				}	
+				System.out.println(position_company);
+				System.out.println(time_range);
+				System.out.println(exp_desc);
+				int at_ind = position_company.indexOf("at");
+				String pos = position_company.substring(0, at_ind-1);
+				String comp = position_company.substring(at_ind + 3, position_company.length());
+				System.out.println(pos);
+				System.out.println(comp);
+
+
+                        }
+                } /*
+                for (int temp = startIndex; temp<endIndex; temp++){
+                        if (resume[temp].contains("University") || resume[temp].contains("College")){
+                                edu.add(resume[temp]);
+                                edu.add(resume[temp+1].substring(0,resume[temp+1].indexOf(",")));
+                        }
+                }*/
+                return exp;
+        }
+
+
 	public static void main(String[] args)
 	{
 		Analysis a = new Analysis();
 		String[][] t = a.scanTxts();
 		List<String> education = a.getEducation(t[0]);
+		
+		List<String> experience = a.getExperience(t[0]);
 
-		System.out.println(education.get(0));
-		System.out.println(education.get(1));
 
 	}
 
