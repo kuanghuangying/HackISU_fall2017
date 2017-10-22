@@ -1,7 +1,13 @@
 import java.util.List;
 import java.util.ArrayList;
+import java.io.IOException;
+import java.io.FileWriter;
 
 class Analysis {
+	private static final String COMMA_DELIMITER = ",";
+	private static final String NEW_LINE_SEPARATOR= "\n";
+	private static final String FILE_HEADER = "name,comp0,tt0,descrip0,comp1,tt1,descrip1,comp2,tt2,descrip2,comp3,tt3,descrip3,comp4,tt4,descrip4,school,degree,skill_score";
+
 
 	/* findSchoolScore()
 	 * findGPA()
@@ -43,7 +49,7 @@ class Analysis {
 
 		for (int i = 0; i < len; i++)
 		{
-			FileScan fs = new FileScan("/home/mitchell/HackISU/Resume/HackISU_fall2017/linkedin-txts/" + all_txt_files[i]);
+			FileScan fs = new FileScan("/home/heather/myGithub/HackISU_fall2017/linkedin-txts/" + all_txt_files[i]);
 			all_scanned[i] = fs.getFSFile();
 		}
 		return all_scanned;
@@ -68,59 +74,141 @@ class Analysis {
 		}
 		for (int temp = startIndex; temp<endIndex; temp++){
 			if (resume[temp].contains("University") || resume[temp].contains("College")){
+				resume[temp]=resume[temp].replaceAll("\\W", " ");
+				resume[temp]=resume[temp].replaceAll("  "," ");
 				edu.add(resume[temp]);
 				edu.add(resume[temp+1].substring(0,resume[temp+1].indexOf(",")));
+				break;
+			}
+			else{
+				edu.add("0");
+				edu.add("0");
 			}
 		}
 		return edu;
 	}
 
 	private List<String> getExperience(String[] resume){
-                List<String> exp = new ArrayList<>();
-                int startIndex = resume.length;
-                int endIndex = resume.length;
-		System.out.println(resume[0]);
-                for (int i = 0; i<resume.length; i ++){
-                        if (resume[i]!=null &&resume[i].contains("Experience")){
-				int z = i + 1; // next line after exp
-				String position_company = resume[z];
-				String time_range = resume[z+1];
+	  List<String> exp = new ArrayList<>();
+	  int expStartIndex = resume.length;
+	  int endIndex = resume.length;
+
+		int eduStartIndex = resume.length;
+		for (int i = 0; i<resume.length; i ++){
+			if (resume[i]!=null &&resume[i].contains("Education")){
+				eduStartIndex = i;
+				break;
+			}
+		}
+
+    for (int i = 0; i<resume.length; i ++){
+      if (resume[i]!=null &&resume[i].contains("Experience")){
+				expStartIndex = i + 1; // next line after exp
+				break;
+    	}
+		}
+
+		for (int j =expStartIndex; j <eduStartIndex && exp.size()<15; j ++){
+			if(resume[j].contains("  -  ")){
+				String time_range = resume[j];
+				String position_company = "0";
+				if(resume[j-1].equals("")){
+					position_company = resume[j-2];
+				}
+				else{
+					position_company = resume[j-1];
+				}
 
 				// now we get that #descrittion
+				String pos = "0";
+				String comp = "0";
 				String exp_desc = "";
-				for (z = z + 3; resume[z]!=null && (resume[z].equals("") == false); z++) {
-					exp_desc += resume[z] + " ";	
-				}	
+				for (int z = j + 2; resume[z]!=null && (!resume[z].equals("")); z++) {
+					exp_desc += resume[z] + " ";
+				}
+				exp_desc = exp_desc.replaceAll("\\W", " ");
+				resume[temp]=resume[temp].replaceAll("  "," ");
+
 				System.out.println(position_company);
 				System.out.println(time_range);
 				System.out.println(exp_desc);
 				int at_ind = position_company.indexOf("at");
-				String pos = position_company.substring(0, at_ind-1);
-				String comp = position_company.substring(at_ind + 3, position_company.length());
-				System.out.println(pos);
-				System.out.println(comp);
+				if (at_ind < 0){
+					System.out.println(resume[0]);
+					System.out.println("pos_comp:" + position_company + "after is " + resume[j]);
+					pos = position_company;
+				}
+				else{
+				 	pos = position_company.substring(0,at_ind-1);
+				 	comp = position_company.substring((at_ind + 3), position_company.length());
+					System.out.println(pos);
+					System.out.println(comp);
+				}
+				exp.add(comp);
+				exp.add(pos);
+				exp.add(exp_desc);
+			}
+		}
+
+		while (exp.size()<15){
+			exp.add("0");
+		}
+    return exp;
+	 }
 
 
-                        }
-                } /*
-                for (int temp = startIndex; temp<endIndex; temp++){
-                        if (resume[temp].contains("University") || resume[temp].contains("College")){
-                                edu.add(resume[temp]);
-                                edu.add(resume[temp+1].substring(0,resume[temp+1].indexOf(",")));
-                        }
-                }*/
-                return exp;
-        }
-
-
-	public static void main(String[] args)
+	public static void main(String[] args) throws IOException
 	{
 		Analysis a = new Analysis();
 		String[][] t = a.scanTxts();
-		List<String> education = a.getEducation(t[0]);
-		
-		List<String> experience = a.getExperience(t[0]);
+		int numResume = t.length;
 
+
+		FileWriter fileWriter = null;
+
+		try {
+			fileWriter = new FileWriter("final.csv");
+
+			//Write the CSV file header
+			fileWriter.append(FILE_HEADER.toString());
+
+			//Add a new line separator after the header
+			fileWriter.append(NEW_LINE_SEPARATOR);
+
+			//Write a new student object list to the CSV file
+			for (int i =0; i<t.length; i++) {
+				fileWriter.append(t[i][0]);  //name
+				fileWriter.append(COMMA_DELIMITER);
+
+				// add work experience
+				List<String> experience = a.getExperience(t[i]);
+				for (int n=0; n<15;n++) {
+					fileWriter.append(experience.get(n));
+					fileWriter.append(COMMA_DELIMITER);
+				}
+
+				List<String> education = a.getEducation(t[i]);
+				fileWriter.append(education.get(0));  // school index 16
+				fileWriter.append(COMMA_DELIMITER);
+				fileWriter.append(education.get(1));  // degree index 17
+				fileWriter.append(COMMA_DELIMITER);
+				fileWriter.append(NEW_LINE_SEPARATOR);
+			}
+			System.out.println("CSV file was created successfully !!!");
+
+		} catch (Exception e) {
+			System.out.println("Error in CsvFileWriter !!!");
+			e.printStackTrace();
+		} finally {
+
+			try {
+				fileWriter.flush();
+				fileWriter.close();
+			} catch (IOException e) {
+				System.out.println("Error while flushing/closing fileWriter !!!");
+                e.printStackTrace();
+			}
+		}
 
 	}
 

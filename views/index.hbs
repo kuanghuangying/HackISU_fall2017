@@ -9,7 +9,7 @@
       <div class="file has-name" id="file-chooser-widget">
         <label class="file-label">
           <input class="file-input" id="theinputfield" type="file" name="thefile">
-          <span class="file-cta">
+          {{!-- <span class="file-cta">
             <span class="file-icon">
               <i class="fa fa-upload"></i>
             </span>
@@ -19,13 +19,13 @@
           </span>
           <span class="file-name" id="fn">
             ...
-          </span>
+          </span> --}}
         </label>
       </div>
 
       <p>
         <input class="button" type="submit" value="Send file (submit)" id="theSubmitButton">
-        <input class="button" type="button" value="Send file (ajax)" id="theAjaxButton">
+        {{!-- <input class="button" type="button" value="Send file (ajax)" id="theAjaxButton"> --}}
       </p>
     </form>
 
@@ -34,11 +34,27 @@
         <p>Want to know the Results?</p>
       </div>
       <div class="message-body">
-        <div id="ajaxResponse">(...)</div>
+        <div id="ajaxResponse"></div>
       </div>
     </article>
 
-    <h1>Resumes</h1>
+    <h1>We Turn This... Into That.</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="portfolio-item">
+          <a href="#">
+            <img class="img-portfolio img-fluid" style="width:80%;height:80%" src="img/resume-design-3.jpg">
+          </a>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="portfolio-item">
+          <a href="#">
+            <img class="img-portfolio img-fluid" style="width:75%;height:75%" src="img/elonmusk.jpg">
+          </a>
+        </div>
+      </div>
+    </div>
 
     <p>Total resumes uploaded: {{ numFiles }}</p>
 
