@@ -1,0 +1,96 @@
+Robert Mahieu
+Phoenix, Arizona Area
+Computer Vision Software Developer @ Intel's Autonomous Driving Group
+
+Summary
+http://robertmahieu.com/
+
+I'm a recent graduate from Stanford University (M.S.) with extensive experience in computer vision
+ and 3D graphics. I'm currently working as a part of Intel's autonomous driving group as a computer
+ vision software developer, where I'm building solutions to make self-driving cars a ubiquitous and
+ trusted part of daily life.
+
+I am passionate about the work I do and wish to play a part in making the future of technology a
+ reality.  Some of my greatest interests lie in the areas of AR, VR, and self-driving vehicles, where
+ my background in both vision and graphics become essential. I also have significant experience in
+ artificial intelligence and machine/deep learning. My skills represent both practical experience and a
+ strong understanding of mathematical theory.
+
+I'm seeking a fast-paced environment among experienced colleagues that are truly passionate about
+ building amazing ideas.
+
+Experience
+Computer Vision Software Developer at Intel Corporation
+June 2017  -  Present  (5 months)
+
+Currently leading project researching deep reinforcement learning methods for training driving
+ policies for autonomous vehicles. Previously worked on assessing and optimizing algorithms for
+ occupancy grid mapping (multi-target tracking) based on particle filtering. Also was involved in
+ optimization of deep neural networks for object detection and localization for deployment on Intel
+ computer vision accelerator.
+
+Video & Image Understanding Intern at Systems & Technology Research
+June 2015  -  August 2015  (3 months)
+
+Developed software for a surveillance tracking system that detected areas of shadow and occlusion
+ in 2D imagery by utilizing RADAR data (automatically selected from a large set based on the
+ geographical location of the photo) to generate a 3D rendering of the visible scene using C++/
+OpenGL. This environmental information then represented one part of a larger "context-aware"
+
+ multi-target tracker system being developed at the company for DoD airborne surveillance
+ applications.
+
+CVD Process Engineering Intern at IBM
+May 2014  -  August 2014  (4 months)
+
+Ran experiments to optimize the time and material usage of different processes in the chemical
+ vapor deposition (CVD) operations on silicon wafers. This work additionally contributed to
+ improving the availability of the tools. I also worked with my team to characterize newly installed
+ tools and to establish guidelines for implementing new procedures.
+
+Computer Vision Research Assitant at Rensselaer Polytechnic Institute
+January 2014  -  May 2014  (5 months)
+
+Worked as an undergraduate research assistant on a research project under the supervision of Dr.
+ Rich Radke. The product was a computer vision system with the ability to track the movement of
+ objects traveling through the field of view of multiple (distorted) camera lenses. Video streams from
+ each camera were processed separately, then accordingly stitched together into a single mosaic
+ video showing the entire scene, onto which bounding boxes were superimposed around subjects
+ of interest.
+
+Alarm Contractor at RAM Alarm Services, Inc.
+May 2012  -  August 2013  (1 year 4 months)
+
+Installed fire alarm and security systems at residential and commercial sites. Gained hands on
+ experience with large electrical systems.
+
+Audio Technician at UPAC Sound
+September 2012  -  January 2013  (5 months)
+
+Assisted in setting up equipment and mixing sound for live events on RPI’s campus. Became
+ familiar with audio wiring and routing, sound processing equipment, mic placement, and mixing
+ techniques.
+
+Camp Counselor at Discovery Museum & Planetarium
+May 2011  -  August 2011  (4 months)
+
+Worked as counselor at children's summer camp. Taught elementary school children about space
+ and other fun science lessons through various classes and activities.
+
+Education
+Stanford University
+Master of Science (M.S.), Electrical Engineering, 2015 - 2017
+Rensselaer Polytechnic Institute
+Bachelor of Science (B.S.), Electrical Engineering, 2011 - 2015
+University of Leeds
+
+Study Abroad Program, 2013 - 2013
+
+Robert Mahieu
+Phoenix, Arizona Area
+Computer Vision Software Developer @ Intel's Autonomous Driving Group
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

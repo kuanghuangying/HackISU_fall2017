@@ -6,7 +6,7 @@ import java.io.FileWriter;
 class Analysis {
 	private static final String COMMA_DELIMITER = ",";
 	private static final String NEW_LINE_SEPARATOR= "\n";
-	private static final String FILE_HEADER = "name,company0,job_title0,descrip0,company1,job_title1,descrip1,company2,job_title2,descrip2,company3,job_title3,descrip3,company4,job_title4,descrip4,school,degree,school_score,skill_score";
+	private static final String FILE_HEADER = "company0,job_title0,descrip0,company1,job_title1,descrip1,company2,job_title2,descrip2,company3,job_title3,descrip3,company4,job_title4,descrip4,school,degree,school_score,skill_score";
 
 
 	/* findSchoolScore()
@@ -178,8 +178,6 @@ class Analysis {
 
 			//Write a new student object list to the CSV file
 			for (int i =0; i<t.length; i++) {
-				fileWriter.append(t[i][0]);  //name
-				fileWriter.append(COMMA_DELIMITER);
 
 				// add work experience
 				List<String> experience = a.getExperience(t[i]);

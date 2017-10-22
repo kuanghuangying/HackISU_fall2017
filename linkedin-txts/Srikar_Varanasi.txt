@@ -1,0 +1,67 @@
+Srikar Varanasi
+Hyderabad Area, India
+Data science enthusiast, Associate at Merilytics Inc.
+
+Experience
+Data Scientist/Associate at Merilytics Inc.
+May 2016  -  Present  (1 year 6 months)
+
+Leading a team of 3 data scientists.
+
+Partnered with a financial services company to analyse credit risk of their loan applicants 
+- Helped the client in reducing their overall-write-off rate by predicting the risk from a loan applicant 
+  during their under-writing process
+- Developed Machine learning models using Logistic regression and Random-forest to predict the
+ applicant’s risk
+
+Partnered with a fitness company in U.S to help reduce their customer attrition
+- Developed machine learning models(using Random forest,  Adaboost) for predicting  churn
+ probabilities of customers. Data set contained an inherent bias. Normalized the data using under-
+sampling, over-sampling and SMOTE techniques. Built and tuned the models to fit the client needs.
+
+Designed algorithms to help build a single source of information. This helped in de-duplication and
+ record-linkage. The data spanned across multiple sources and consisted of half a million records
+
+Worked with millions of tweets, news articles and other forms of unstructured data. Used NLP and
+ machine learning techniques to mine patterns and information. Used techniques such as LDA,
+ POS tagging, Named entity recognition and grouping algorithms such as LSH to better understand
+ unstructured data.
+
+Primarily worked on R and Python. 
+
+Worked with Machine learning algorithms such as Neural networks, Random-forest,  SVM, boosting
+ algorithms, K-means and K- Medoids. Made visuals in R using ggplot2.
+
+Software Development Engineer at Stayzilla.com
+June 2015  -  April 2016  (11 months)
+
+Worked on the booking and feedback vertical which involved collaborating with the technical,
+ product and marketing team
+
+Designed and developed APIs for external channel managers tool using Node.js
+
+Intern at Amazon
+July 2014  -  December 2014  (6 months)
+
+• Worked on implementation of logging system. 
+• Analyzed data to create dashboards and measure feature 
+effectiveness 
+• Helped in increasing customer clicks by suggesting changes in 
+the flow of the system (E-ink kindle)
+
+Education
+Birla Institute of Technology and Science
+Bachelor of Engineering (B.E.), Computer Science, 2011 - 2015
+Activities and Societies:  Department of Photography
+D.A.V Public School,Hyderabad
+2009
+Activities and Societies:  Debate, Captain of school house
+
+Srikar Varanasi
+Hyderabad Area, India
+Data science enthusiast, Associate at Merilytics Inc.
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

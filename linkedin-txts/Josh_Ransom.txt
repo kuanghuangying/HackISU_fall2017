@@ -1,0 +1,86 @@
+Josh Ransom
+Phoenix, Arizona Area
+Lifelong Engineer and Entrepreneur
+
+Summary
+Lifelong Engineer passionate about delivering innovative enterprise solutions on a global scale.
+
+Technical leader experienced with delivering world class service to customers through heavily utilizing
+ automation.
+
+Experience
+Senior Software Engineer at American Express
+April 2017  -  Present  (7 months)
+
+Software Engineer 1 at American Express
+January 2016  -  April 2017  (1 year 4 months)
+
+[React, redux, NodeJS]
+
+Engineered an application framework responsible for enabling teams to deliver continuous web
+ experiences on a global scale. 
+
+Enabled micro developer teams with the ability to drive company wide value through providing click
+ analytics, logging, internationalization and performance optimizations out of the box.
+
+Technical Director at Primary Book Club LLC
+May 2015  -  August 2016  (1 year 4 months)
+
+Software Development Engineer at Intel Corporation
+May 2015  -  January 2016  (9 months)
+
+[nodejs, AngularJS, C#, .NET, SQL Server]
+
+Responsible for innovating exceptional software that drives one of the worlds top supply chains.
+
+Technical Advisor and Developer at TableTop
+August 2014  -  November 2015  (1 year 4 months)
+
+Young startup devoted to revolutionizing philanthropy through mobile platforms. 
+
+Responsible for driving technology decisions aligned with company vision. 
+
+Manages software development and ensure a consistent user experience.
+
+Software Engineer Intern at Intel Corporation
+May 2014  -  August 2014  (4 months)
+
+[Distributed Computing, Parallel Computing, C#, .NET, SQL Server] 
+
+Utilized distributed technologies to create a server fail-over solution to pass load balancing
+ responsibility to another node in the event of failure. 
+
+Developed a job scheduling application responsible for launching hundreds of batch files daily used
+ for  supply planning for major Intel customers. 
+
+Reduced job throughput time by 50% by implementing more intelligent load balancing procedures. 
+
+Utilized agile development methods to create an application to replace an existing internal tool and
+ connect to an existing SQL database for data warehousing.
+
+Business Owner / Technical Trainer at CPR - Cell Phone Repair
+April 2010  -  June 2013  (3 years 3 months)
+
+Constructed software modules for integrating with point of sale systems to automate data retention
+ for business intelligence and data analysis. 
+
+Managed team of 5 - 10 computer and mobile device technicians to deliver top tier technical service
+ to corporate organizations and consumers. 
+
+Developed an consistently replicated training curriculum that reduced training time for a new
+ employee to become proficient and profitable by 75%.
+
+Education
+Ira A. Fulton Schools of Engineering at Arizona State University
+Bachelor of Science (BS), Computer Science, 2013 - 2015
+University of Oklahoma
+Petroleum Engineering, 2008 - 2011
+
+Josh Ransom
+Phoenix, Arizona Area
+Lifelong Engineer and Entrepreneur
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

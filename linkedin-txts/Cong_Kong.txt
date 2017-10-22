@@ -1,0 +1,42 @@
+Cong Kong
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Experience
+Software Engineer at TripAdvisor
+February 2017  -  Present  (9 months)
+
+Search Engine Marketing - Platform & Infrastructure team
+
+Software Engineering Intern at Google
+May 2016  -  August 2016  (4 months)
+
+- Interned on Business Platform team.
+- Worked on project Calchas (internal tool) as a full-stack developer to visualize sales and forecast
+ data.
+- In backend, added new RPC service to accommodate functions needed to implement in frontend.
+- In frontend, added new feature to show submitted forecast results by forecast in both aggregation
+ and non-aggregation forms implementing with Polymer and Google Charts in ES6. 
+
+Undergraduate Research Assistant at University of Science and Technology of China
+January 2014  -  June 2014  (6 months)
+
+- Proposed and implemented two algorithms based on non-local correlations to extract high-
+dimensional statistical features to detect hidden information embedded in images.
+- Improved detection accuracy over traditional features which are based on local correlations.
+
+Education
+Carnegie Mellon University
+Master's degree, Computational Data Science, 2015 - 2016
+University of Science and Technology of China
+Bachelor's degree, Electrical Information Engineering, 2010 - 2014
+Activities and Societies:  University Student Union
+
+Cong Kong
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

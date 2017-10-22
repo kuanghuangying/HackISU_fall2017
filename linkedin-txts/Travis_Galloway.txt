@@ -1,0 +1,111 @@
+Travis Galloway
+Greater Minneapolis-St. Paul Area
+Software Engineer at Best Buy
+
+Summary
+Full stack developer and consultant with experience across multiple platforms. Successfully worked in
+ organizations and teams of all sizes in several industries; including education, advertising, retail, and
+ banking.
+
+Experience
+Software Engineer - Contract at Best Buy
+May 2017  -  Present  (6 months)
+
+- Infrastructure and Operations development, focusing on automation of application deployments
+- Develop and extend custom in-house libraries and tools for environment creation and application
+ deployment to OpenShift and AWS
+- Work primarily with Ruby and internally developed Gems, along with Rails web projects and
+ Angular frontends
+
+Adjunct Teaching Specialist at University of Minnesota
+August 2016  -  Present  (1 year 3 months)
+
+- Adjunct instructor for senior capstone course where students develop projects for a corporate
+ sponsor
+- Help fill and teach any technology or development skills gaps students may have
+- Work with corporate sponsor to define requirements and scope of the project
+
+Web Application Developer at University of Minnesota
+April 2015  -  May 2017  (2 years 2 months)
+
+- Created and supported applications and tools to assist instruction and instructional design
+- Deployed and administer virtual machines for multiple application stacks (Rails and other 3rd party
+ tools)
+- Developed web applications primarily using Ruby on Rails, with Angular frontends
+- Developed mobile applications using Unity for cross-platform development
+- Integrated third-party services, particularly Google APIs and services, with internal applications
+
+Sr. Developer at Mithun Agency
+December 2013  -  April 2015  (1 year 5 months)
+
+- Web and mobile development for advertising and creative agency’s digital group
+- Built and maintained mobile apps and websites for large national brands
+
+- Developed online presence (websites) using Angular, ASP.NET, Ruby on Rails, Umbraco and
+ Wordpress
+- Built cross-platform mobile tool using Apache Cordova and Ionic Framework
+Clients: Purina, Popeye’s, General Mills 
+
+Software Developer - Contract at United Hardware Dist. Co
+September 2013  -  December 2013  (4 months)
+
+- Developed middleware for the rollout of a new .NET ERP system
+- Corrected issues with data movement between POS, ERP and WMS systems
+- Implementation of projects primarily focused on C#/VB.net applications backed by SQL Server
+- Updated database schema and SSIS packages to migrate data
+
+Software Engineer - Contract at Be The Match operated by National Marrow Donor Program
+August 2013  -  September 2013  (2 months)
+
+- Documented and refined donor query processes
+- Applied schema improvements to increase database efficiency
+- Maintained a .Net-based donor registry backend in IIS and SQL Servers
+- Developed, refined and implemented SSIS packages for large queries and data requests
+
+Implementation Specialist at TempWorks Software
+February 2013  -  August 2013  (7 months)
+
+- Performed software implementations and upgrades for proprietary staffing and payroll software
+- Implemented C# / .Net / WPF based applications heavily reliant upon SQL Server
+- Responsible for migrating or upgrading data from client’s existing software
+- Modified application logic in database schema with T-SQL functions, stored procedures and
+ triggers
+- Designed and revised reports using SQL Server Reporting Services
+
+Client Support Specialist at Target
+July 2012  -  February 2013  (8 months)
+
+- Maintained a global mixed-environment IT infrastructure (Windows, Linux, WMS) 
+- Assisted corporate, distribution center and retail desktop clients remotely
+- Resolved issues with retail assets protection, point of sale and warehouse management software
+
+Specialist (Contract Position) at US Bank
+December 2011  -  July 2012  (8 months)
+
+- Financial research and approvals, implemented cash and treasury management systems
+- Focused on ensuring online ACH, wire transfer and tax payment system services were active,
+ functioned optimally for approved users
+- Maintained SharePoint for sales and support tracking; including, creating new tools to estimate
+ client account and service costs
+
+Analyst (Contract Position) at Wells Fargo Home Mortgage
+October 2011  -  December 2011  (3 months)
+
+- Analyzed electronic mortgage records for inaccuracies; applied batch updates to bring various
+ data current 
+- Utilized Microsoft Access and SharePoint for reporting and record tracking
+
+Education
+University of Minnesota-Twin Cities
+Master’s Degree, Software Engineering, 2014 - 2016
+University of Idaho
+Bachelor's Degree, Political Science, Spanish, 2003 - 2007
+
+Travis Galloway
+Greater Minneapolis-St. Paul Area
+Software Engineer at Best Buy
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

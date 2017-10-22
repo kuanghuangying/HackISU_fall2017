@@ -1,0 +1,99 @@
+Dipan Padsumbia
+San Francisco Bay Area
+C/C++ Developer | Software Development Engineer at Dell Data protection
+
+Summary
+5+ years of development experience in primary and backup storage appliances.
+5+ Years experience in the Storage area in various aspects including but not limited to Virtualization,
+ RAID, Storage Applications both as HBA products and in the SAN.
+In-Depth understanding in developing concurrent, distributed and multi-threaded applications
+Good knowledge in Linux system programming internals and file systems.
+Good experience in debugging system problems and handling customer escalations
+
+Areas of Interest: Operating systems, File systems, Distributed systems and Storage system
+ management software.
+
+Skills: C, Shell, UNIX/LINUX, Computer Data Structures and Algorithms, multithreading.
+
+Experience
+Software Development Engineer at Dell
+September 2011  -  Present  (6 years 2 months)
+
+• Currently, part of the control plane and platform team responsible for designing and implementing
+ various features and enhancements of control plane and platform in existing backup and data
+ recovery appliances (Dell DR series products).
+• Design and implemented hardware health monitoring and reporting infrastructure which can be
+ utilized across numerous Dell storage platforms.
+• Designed and implemented strategies for optimal database schemas to store system configuration
+ information.
+• Designed and implemented RPC mechanisms for effective and scalable client-server
+ communication in multi-threaded environment.
+• Designed and implemented entire CLI frame work for Dedupe based back-up and recovery
+ products.
+
+Student: Masters of Computer Engineer (Major: Network System) at San Jose State University
+August 2009  -  December 2011  (2 years 5 months)
+
+My course works are Computer Network Protocols, Network Programming, Network Security,
+ Network Testing, Database System, BI, Software Development and Testing.
+
+STORAGE DEVELOPMENT ENGINEERING INTERN at Dell
+May 2011  -  September 2011  (5 months)
+
+• Worked on Dell–Ocarina storage platform as a part of the core development team.
+• Solely designed and implemented Error Injection Framework to test and simulate the various
+ negative error paths dynamically at run time.
+• Wrote various custom developer tools for different data IO paths in Dedupe file systems which
+ can be used by developers/QA to unit test various components of Dell Data Recovery/Backup
+ Appliance.
+• Designed and implemented custom tools to generate performance matrix of the product.
+
+Intern Project Engineer at BISAG,Gandhinagar,Guj,India
+January 2009  -  June 2009  (6 months)
+
+GIS-Geo Graphic Information System Project
+
+Education
+San Jose State University
+MS, Computer Engineering (Network System), 2009 - 2012
+Gujarat University
+BE, Computer Engineering, 2005 - 2009
+Activities and Societies:  Organizing Team Member, ISTE student committee.
+Curriculum Projects
+Curriculum Projects (Cont.)
+
+Dipan Padsumbia
+San Francisco Bay Area
+C/C++ Developer | Software Development Engineer at Dell Data protection
+
+3 people have recommended Dipan
+
+"Dipan and I worked together for a short span of time but it was a critical project for us as
+undergraduates. That short span of time was very productive and more importantly a learning
+experience. He has clarity – whether it is in terms of ideas or words. He knows what a team is and
+what working together in a team means. He has the rare quality of understanding what hard work
+of every individual brings to a group. I have not seen him shy away from accepting things he may
+not be know, instead he goes that “extra mile” to learn it. He takes time to understand the premises
+before forming an opinion. There have hardly been any knee-jerk reactions from him He has all the
+right elements – punctuality (we never missed a deadline), sincerity, and the passion to learn. He
+surely would add value to any organization or team that he works in."
+—Ushma Desai, Manager - Strategic Management and Business Excellence,  Collabera,  worked
+directly with Dipan at BISAG,Gandhinagar,Guj,India
+
+"Had Dipan in our Systems Management Team for the DR4xxx/DR6xxx team handling the
+hardware management and alerting system for the platform. It was a tall order for a junior and he
+pulled it through and got the project on time. He also handled the customer escalations for the
+product. Has an excellent design and debugging skillset. "
+—Parthi Munusamy, Founder,  Beckon Technologies, Inc,  worked directly with Dipan at Dell
+
+"I worked with Dipan on the DR4000/6000 storage platforms at Dell. He is diligent, results-oriented,
+and analytical in his approach to solving problems and developing code for Linux based storage
+platforms and embedded systems. He is also excellent at design skills, breaking down a complex
+software module into its different components during the implementation phase."
+—Murali Bashyam, Co Founder and Chief Architect,  CloudLanes,  worked directly with Dipan at
+Dell
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

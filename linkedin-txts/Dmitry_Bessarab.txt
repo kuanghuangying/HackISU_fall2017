@@ -1,0 +1,128 @@
+Dmitry Bessarab
+Israel
+Senior Software Engineer, Cloud Developer at Intel Corporation
+
+Summary
+Software development expert with 10+ years of experience
+Design, architecture and development of distributed systems, client server side application.
+Experienced in all stages of a development life-cycle, leading end-to-end products development to
+ successful completion.
+
+Professional Skills: 
+* Experienced in design, software architecture and clodud oriented systems
+* Expert in with Server Side, multithreaded, scalable and distributed services
+* Deep knowledge in the data security
+* Experience with full development life cycle (design, planning, testing, devops..)
+* Experience in Agile SCRUM methodology
+* Experience as Team Lead
+* Responsible, hard worker, quick learner, wide technical knowledge excellent communication skills.
+
+Key technological proficiencies:
+* Microsoft .NET C#, JavaScript, NodeJS
+* WCF / MVC / Web API / RESTful Services
+* ORM EF, MS-SQL / NoSQL Couchbase, Elasticsearch
+* Multithreaded and Async programming
+* Client side technologies – HTML 5 / CSS / JavaScript Frameworks JQuery, Angular
+* Experience with AWS cloud services (EC2, S3, SQS, Kinesis, DynamoDB, etc.)
+* Experience in automatic unit testing, load testing
+* Experience with Design Patterns (DI, Repository, Unit of Work, Decorators, Factory etc.)
+* Developing based on OOD, TDD, SOLID, IoC, AOP methodologies
+* Strong in multiple platforms such as Windows / Linux
+* Debuging & Profiling.
+
+Familiar with:
+* C++, PHP, Python, NodeJS
+* Mobile developing for Android
+
+* Principles of Big Data
+
+Experience
+Senior Software Engineer at Intel Corporation
+2016  -  Present  (1 year)
+
+Developing of cloud based solutions at Infrastructure & Networking Team.
+Design of security-focused, distributed and high scaled services.
+Wide usage of AWS services like Lambdas, API Gateway, DynamoDB and more.
+Full development life cycle, research, PoC of solutions and new technologies.
+
+Senior Software Developer & Team leader at Sarine Technologies
+2014  -  2016  (2 years)
+
+Senior Software developer of Cloud Based Products at Infrastructure Team.
+Design and development of intranet and internet Web systems, PaaS, based on NoSQL databases
+ like Couchbase, and ElasticSearch.
+Wide usage of AWS services EC2, SQS, RDS, S3, Kinesis, DynamoDB and more.
+Full development life cycle - from requirements throughout maintenance and scaling.
+Research, PoC of solutions and new technologies.
+
+Team leader and responsible for one of the most important companies project.
+
+Software System Architect, Full Stack Developer at Cellopark
+2007  -  2014  (7 years)
+
+Architect, Team Leader and developer at Cellopark Technologies (global car parking service and
+ more).
+
+-Designed and implemented frontend and backend services, B2C web-based applications with high
+ traffic.
+-As chief developer I was responsible for Architecture design, technologies and environment
+-Responsible for security, delivery, DevOps, monitoring and maintenance.
+-Integration with all kind of third party services like Payment, SMS, Parking operators.
+-Integration with IOT based on Serial Port, modbus, TCP protocols.
+-Developed and designed from scratch at least 5 complex projects, migration from VB, ASP, C++ to
+  .NET
+-Developed IVR based on Asterisk FastAGI and VoIP service.
+-As a Team leader I was responsible for coordination, coaching, hiring, code review
+-Worked closely with CTO and CEO
+-Collaborated with other company’s teams
+
+-Wrote software documentations
+
+Key technological proficiencies:
+* Microsoft .NET C#, C++
+* WCF / MVC / Web API / RESTful Services
+*  VoIP, IVR, Asterisk FastAGI
+* ORM EF, Nhibernate, MS-SQL
+* Multithreaded and Async programming
+* Client side technologies – HTML 5 / CSS / JavaScript Frameworks JQuery
+* Strong in multiple platforms such as Windows / Linux
+
+Junior Web Developer at UME
+2006  -  2007  (1 year)
+
+Junior Web Developer at Digma Web Technology
+2005  -  2006  (1 year)
+
+Education
+Belarusian National Technical University
+Bachelor of Science (BSc), Computer Sciences, 2013 - 2016
+ORT Technikum, Givatayim
+Abitur, Software Engineering, 2001 - 2005
+
+Dmitry Bessarab
+Israel
+Senior Software Engineer, Cloud Developer at Intel Corporation
+
+2 people have recommended Dmitry
+
+"I’ve been working with Dmitry for 2 years. We were a part of a team, which developed
+infrastructure and platform services, using Cloud Services & Big Data. Dmitry is a very talented
+software engineer and a leader. He has a wide and deep knowledge in software architecture and
+in a variety of technologies. His communication skills, responsibility and experience make him a
+unique person to work with. Dmitry is always willing to help and share from his experience, working
+with him is always pleasing. I highly recommend him."
+—Alexander Budnik, Senior Software Developer Team Lead,  Sarine Technologies,  worked
+directly with Dmitry at Sarine Technologies
+
+"I have had the pleasure of working with Dmitry for the past 2 years. He did not fail me a single
+time. Dmitry is an innovative developer, with good sense of humor and communication skills. Very
+good, hardworking, forward thinking and delivery focused leader - his professional skills, ability to
+analyze and understanding of system architecture made the project a real. Dmitry is ready to deal
+with difficult situations and solve the problems on time."
+—Rostislav Aronov, Senior System Architect,  Sarine Technologies,  managed Dmitry at Sarine
+Technologies
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

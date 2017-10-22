@@ -1,0 +1,170 @@
+Mohammed Abdelkhaliq
+Munich Area, Germany
+ISAQB Certified Software architect , ISO 26262 Software Expert
+
+Summary
+Experienced Software Design Engineer with a demonstrated history of working in the automotive
+ industry. Strong engineering professional with focus on embedded systems and Software
+ architecture
+
+Experience
+Software Architect (automotive\AUTOSAR\ISO26262) at ++++
+March 2017  -  Present  (8 months)
+
+Software Design Engineer at Nippon Seiki Europe BV.
+February 2014  -  February 2017  (3 years 1 month)
+
+HUD [AUTOSAR] 
+-- Bootloader customization and maintenance including Compatibility check feature, Diagnostics,
+ and Memory map . 
+-- Designing and maintaining The SW architecture, and the AUTOSAR software components.
+-- Assigning Requirements to SW components. 
+-- Planing and Participation in the Code reviews activities, Design reviews, and internal Spec.
+ acceptance meeting.
+-- Preparation of the SW release package.
+-- Establishing the Configuration management using SVN according to SUP.8 Automotive SPICE.
+-- Leading and management of Remote engineering team.
+
+BMW Cluster [AUTOSAR]   
+--Designing and Maintaining software architecture of the Diagnostics, CAN, and HMI.
+--Handling Change requests and Software issues, including SW release process.
+--BMW HMI FuBi debugging and integration.
+--Integration of BMW Graphics packages, and Fonts.
+-- Configuration and integration of Vector AUTOSAR R3.x CAN stack, Diagnostics stack.
+
+NSEU Process improvement and Automotive SPICE
+-- Leading, and planning the Diagnostics ISO14229 Competence Group and managing training
+ plans across NSEU, [Software, System, and Test teams]
+-- Establishing Software design guidelines for NSEU engineering process.
+
+-- Establishing NSEU coding standard and best practices for NSEU engineering process .
+-- Participating in VW Software potential analysis Audit and achieving a result that is recognized by
+ Nippon Seiki group CEO. 
+-- Establishing a strong knowledge base to handle Diagnostics requirements according to UDS
+ 14229.
+
+Embedded Software engineer at Valeo
+February 2013  -  January 2014  (1 year)
+
+Ford Europe B515, B232 Climate Control Systems
+
+--Design and implementation of UDS ISO14229 stack.
+--Integration of RAMT, ROMT standard software components.
+--Handling of Validation team issue.
+--Planning and executing unit test, and integration test.
+--Executing regression test plans.
+--Shared variable analysis
+--Handling of remote team issues in the Diagnostics component.
+--Full Software integration on PowerPC target
+--Maintenance of Build system and make files.
+
+Embedded Software engineer at Intel Corporation
+February 2010  -  January 2013  (3 years)
+
+- Designing LTE_UE finite State machine (FSM)
+- Designing and coding FSM Test Plan and documentation
+- Designing and implementing Perl scripts to enhance coding and testing quality.
+- Designing and coding encode/decode 3GPP 36.331 ASN.1 air messages.
+o  Release8 (XMM7060).
+o  Release9 (XMM7160).
+o  Release10 (XMM7260). 
+- Implementing encode/decode for LTE Positioning Protocol (LPP) ASN.1 air messages
+- Fixing reported bugs by testing teams, and reviewing fixes by local and remote teams
+- Designing Air message dynamic memory allocation feature
+- Implementing Inter-component messages and dynamic architecture.
+
+EW software engineer at SySDSoft (acquired by intel)
+February 2010  -  February 2011  (1 year 1 month)
+
+- Designing, coding and testing eNodeB operation and configuration manager module (OCM).
+- Coding femto eNodeB state machine.
+- Coding the eNodeB CLI user interface and System APIs.
+- Designing, coding and testing eNodeB user interface via serial communication.
+
+- Designing and coding a script managing Hudson build profiles.
+- Coding Perl script that update and apply coding guidelines
+- Coding Perl scripts that manage, update and cleanup SDS-Verify test suite.
+- Coding Perl scripts that calculates functions complexity.
+- Coding encode/decode function of S1-Interface, X2- Interface ASN.1 air messages.
+- Coding air message error handling S1-Interface, X2- Interface.
+- Testing CLI, and Air messages error handling components in the eNodeB product.
+
+Trainee at Orange Egypt
+August 2008  -  August 2008
+
+General training on GSM network engineering services.
+
+Trainee at Belayiem petroleum company - Petrobel
+July 2008  -  July 2008
+
+General training on the telecommunication systems used in the Field
+
+Trainee at SYSTEL
+July 2008  -  July 2008
+
+General training on GSM technology and 2-way systems technolgy
+
+Education
+Delft University of Technology
+online training, Leadership, 2016 - 2016
+Delft University of Technology
+Online Training, Project Management, 2016 - 2016
+Cairo University
+B.S, communication and electronics, 2004 - 2009
+Activities and Societies:  -Representative of communication and electronics engineers Alumni -
+Member of Cairo university students union.
+
+Mohammed Abdelkhaliq
+Munich Area, Germany
+ISAQB Certified Software architect , ISO 26262 Software Expert
+
+7 people have recommended Mohammed
+
+"Mohammed is for sure a hard worker. He had spent a lot of nights to solve problems or finish
+a release on time with minimal supervisions. Mohammed has special experience and skills in
+embedded software and systems, wireless systems,scripting and software debugging. Mohammed
+volunteers for tasks and issues to solve, help others and always seeking to learn. I hope you
+success in your career and life."
+—Yasser Nour El-Din Mohammed, Senior Software Engineer,  Cavium Inc,  managed Mohammed
+at Intel Corporation
+
+"Mohammed is a natural problem solver. He makes sure the issue at hand is well defined before he
+tackles it. Then he persistently works his way to a solution taking all factors into consideration. He
+also does a good jobs of bouncing ideas off of his peers to make sure that his line of thought has
+been rigorously reviewed."
+—Ali Abu El Magd, Chief Software Engineer,  Valeo,  managed Mohammed at Valeo
+
+"Mohammed is a very professional Software engineer especially in Automotive area. He has very
+good experience in AUTOSAR SW projects, specialized in Diagnostic and other SW components
+development. Not only in SW implementation, he has also contributed many creative ideas in
+SW design, configuration management and A-SPICE process. He has also very nice and friendly
+personality. It was a pleasure to work with him. "
+—Qichen Huang, Senior Software Engineer,  Nippon Seiki (Europe) B.V.,  worked directly with
+Mohammed at Nippon Seiki Europe BV.
+
+"Mohamed is one of the most active engineers in the team, with his strong technical background
+and knowledge in the embedded systems, I can see him fitting in many positions in many
+embedded systems fields."
+—Mena Nagiub Takwa HANNA, Laserscanner Software Architect,  Valeo,  worked directly with
+Mohammed at Valeo
+
+"It was fun to work with Mohammed on cross-department topics. He is result oriented and able to
+take the broader view to achieve goals that can be only achieved by combining talents from various
+departments. Thanks Mohammed for your contribution to our development system!"
+—Stefan Feneberg, IT Operational Manager,  Nippon Seiki (Europe) B.V.,  worked with Mohammed
+at Nippon Seiki Europe BV.
+
+"Mohamed is a talented software Engineer, with a state of the art in Perl scripting."
+—Mohamed Khalifa, Senior Engineer,  Qualcomm,  worked directly with Mohammed at Intel
+Corporation
+
+"I had the pleasure of working with Mohammed for a year at Nippon Seiki. He has a very good
+knowledge on Automotive domain especially in AUTOSAR related projects and Diagnostics. He is
+result oriented and fun to work with. All the very best Mohammed."
+—Ugesh Gurram, Software Engineer,  e.solutions GmbH (AUDI & EB Company),  worked directly
+with Mohammed at Nippon Seiki Europe BV.
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

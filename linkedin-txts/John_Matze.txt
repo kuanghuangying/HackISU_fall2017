@@ -1,0 +1,94 @@
+John Matze
+Las Vegas, Nevada Area
+Software Manager and iPhone App Developer
+
+Experience
+Small Business Owner at Seaboden
+January 2016  -  Present  (1 year 10 months)
+
+- iPhone Apps, Android Apps, Websites, REST Endpoints, Database Management
+- Oversee team of developers who create and manage products for our clients
+- Seaboden.com
+- Office 10 minutes from the Vegas strip
+
+Software Development Manager at CarePICS
+August 2015  -  Present  (2 years 3 months)
+
+- Manage team of Android, iOS, Web Application, and REST Server Developers
+- Develop UI for the application
+- Plan Database and REST designs
+- Created vector art for in App use to reduce build size
+- Created a custom API for CarePICS which had multiple fail-safes and a connection retry
+- Built custom image recognition software which will calculate wound area, width and length, and
+ uses contrasts to auto detect wounds
+- Develop software in Objective-C/C++ following HIPPA standards
+- Worked with: Socket-IO, AFNetworking, CocoaPods, UIAnimations, Crashlytics, Twillio
+- Designed the Rest API and lead a team of developers to perform the implementation
+- Custom built a multi-key and alternating key system for data encryption using Postgresql for data
+ storage
+- Meet with clients such as the Veterans Association for custom enterprise installations and client
+ feedback
+- Received requirements from the CEO/CTO and delegated tasks to the team. Anytime a deadline
+ approached, I would do whatever necessary to ensure no dates were missed.
+- Overhauled an iOS application which was previous unable to be accepted by the Apple app store
+ and made it iOS 9.0 compatible
+
+Software Development Engineer at Amazon
+May 2017  -  July 2017  (3 months)
+
+Lead iOS Developer at BridgeSTOR
+March 2015  -  May 2017  (2 years 3 months)
+
+- Lead the development of the Coronado iPhone application (Comparable to Dropbox)
+
+XML API
+- Presented application to clients at shows such as NAB in Las Vegas Lead testers remotely
+ through - Crashlytics and Apple Test Flight Created all vector art PDFs using Adobe Illustrator
+
+Software Engineer at Base10 Technology Solutions
+August 2013  -  December 2015  (2 years 5 months)
+
+Mobile applications and website development
+Wordpress website customization 
+Develop analytical applications in C++ and Java in combination with various networking tools such
+ as google finance data scraping
+Develop websites from scratch using Javascript, CSS, HTML, PHP, SQL
+
+Software Engineer at General Atomics
+June 2014  -  March 2015  (10 months)
+
+Programmed aeronautical components under a strict development process for GA Special Projects
+Worked weekends in order to complete critical software changes which effected mission eligibility
+Completed software change requests in C++ using Linux and Windows environments
+Wrote test plans in extreme detail for employees who may not specialize in GCS software
+
+Web Developer at Alere, Inc.
+June 2012  -  September 2013  (1 year 4 months)
+
+Managed interns during the migration from a standard HTML environment to a Java based CQ5
+ system
+Assisted other employees during the company CQ5 training sessions
+Worked with Alere employees from around the world to build customer web portals
+
+Intern at Nexus Biosystems
+June 2010  -  August 2010  (3 months)
+
+Disassembled and assembled large robotic refrigeration units
+Assisted engineers in new product development
+Created polyurethane molds for refrigeration units
+
+Education
+University of Denver
+BS, Computer Science, 2011 - 2014
+Activities and Societies:  Lambda Chi Alpha
+Poway High School
+2007 - 2011
+
+John Matze
+Las Vegas, Nevada Area
+Software Manager and iPhone App Developer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

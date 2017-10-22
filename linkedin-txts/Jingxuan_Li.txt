@@ -1,0 +1,71 @@
+Jingxuan Li
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Summary
+Interested in big data analytics, large scale data mining, and information retrieval. 
+
+Hands-on experience in processing and analyzing various kinds of large scale data (including the
+ text, music, images, and etc.) with data mining and information retrieval techniques. 
+
+Good at identifying and addressing the real world problems, familiar with publishing the research
+publications and patterns.
+
+Experience
+Software Engineer at TripAdvisor
+May 2014  -  Present  (3 years 6 months)
+
+Research Assistant at KDRG Group, School of Computer Science, Florida International University
+September 2012  -  April 2014  (1 year 8 months)
+
+-- Conducted research exploration on Mimic2 medical dataset.
+-- Research on the data mining techniques for associating images and patient's cases from
+Mimic2 data.
+
+Research Internship at Xerox Innovation Group
+February 2012  -  August 2012  (7 months)
+
+-- Explored sentiment and topic based tweets and experimented the interaction of sentiment and
+ topic labels in terms of the classication results.
+-- Designed and implemented algorithms for batch and streaming event detection from tweets.
+-- Designed and implemented a crawler for collecting the global Twitter social graph continuously.
+-- Designed and implemented an algorithm for identifying influential users and predicting their
+ influence in the social network.
+-- Implemented a crawler for collecting the conversation tweets from Twitter
+
+Research Assistant at KDRG Group, School of Computer Science, Florida International University
+January 2010  -  January 2012  (2 years 1 month)
+
+-- Collected research author/publication dataset from ACM.
+-- Implemented a search engine over the research author/publication dataset based on Apache
+ Lucene.
+
+-- Designed and implemented a hierarchical co-clustering algorithm.
+-- Applied the hierarchical co-clustering algorithm over music tag/mood/style dataset to perform
+ analysis.
+-- Designed and implemented a multi-document summarization framework based on
+ Submodularity.
+-- Implemented a Multimedia Objects (e.g., images) classication algorithm with the assistance of
+ cross-domain knowledge (e.g., the association of images and text descriptions).
+-- Designed and implemented a storyline generation algorithm to help users generate story lines
+ from enormous tweets.
+-- Collected tweets (more than 400 GB) with general topics via Twitter streaming API.
+
+Teaching Assistant at School of Computer Science, Florida International University
+August 2008  -  December 2009  (1 year 5 months)
+
+-- Assisted in tutoring students in the computer laboratory for courses including: Introduction to
+ Micro Computer, Computer Data Analysis.
+
+Education
+Florida International University
+Doctor of Philosophy (Ph.D.), Computer Science, 2008 - 2014
+
+Jingxuan Li
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

@@ -1,0 +1,76 @@
+Sachin Nambiar Nalavattanon
+San Francisco Bay Area
+Software Engineer at Uber
+
+Experience
+Software Engineer at Uber
+April 2016  -  Present  (1 year 7 months)
+
+Security R&D
+
+Graduate Teaching Assistant for Computer Security at The University of Arizona
+August 2015  -  December 2015  (5 months)
+
+Helped a class of 60+ with Computer Security concepts such as cryptography, OS, network and
+ web security
+
+Full Stack Developer at Scholarship Universe at The University of Arizona
+June 2015  -  August 2015  (3 months)
+
+• Developed Fast-Track application process enabling students to fill application once and get
+ applied for multiple scholarships
+• Improved the scholarship application process by creating a custom form builder in JavaScript
+• Created optimised web services for the front-end AJAX requests
+
+Graduate Assistant at Scholarship Universe at The University of Arizona
+February 2014  -  August 2015  (1 year 7 months)
+
+• Developed and supported different interfaces of Scholarship Universe, an award-winning
+ scholarship .NET web application used by more than 40,000 students of the University
+• Developed instant insight of scholarship statistics using Kendo UI and JavaScript
+• Improved grading process by creating document viewer for various file formats in C# and JQuery
+• Developed Thank-you letters feature which replaced the manual paper process using C# and
+ ASP.NET
+• Denormalized data to achieve faster data retrieval in MS SQL
+
+Developer Intern at Scholarship Universe at The University of Arizona
+May 2014  -  August 2014  (4 months)
+
+• Improved speed of loading all scholarship applications by 600 percent
+• Extended Telerik API’s to achieve Excel like filtering in Radgrid
+• Standardized processes such as maintaining version history, session timeout and deployment
+ process
+• Mentored a junior developer intern in understanding the business process and technological setup
+
+Associate Software Engineer at Accenture
+
+August 2012  -  July 2013  (1 year)
+
+• Member of the World Wide Sales Database (WWSDB) team
+• Contributed in data summarization and application of business logic
+• Implemented performance tuning by query optimization and achieved faster ETL process
+• Automated the load balancing task which ensures that no data gets dropped out during the 
+                ETL process and achieved a total time saving of 20 man hours per week
+• Modelled multi-dimensional OLAP cubes
+• Solved data issues reported by business users
+
+Intern at Accenture
+April 2012  -  July 2012  (4 months)
+
+• Implemented ETL process using Informatica for an independent Data Mart
+• Created customized Web Intelligence reports using SAP Business Objects
+
+Education
+University of Arizona
+Master's degree, Computer Science, 2013 - 2015
+SRM University
+Bachelor of Technology (B.Tech.), Computer Science and Engineering, 2008 - 2012
+
+Sachin Nambiar Nalavattanon
+San Francisco Bay Area
+Software Engineer at Uber
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

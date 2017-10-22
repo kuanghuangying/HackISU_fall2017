@@ -1,0 +1,115 @@
+David Yin
+Vancouver, Canada Area
+Software Engineering Intern at Uber
+
+Summary
+Experienced Computer Science Teaching Assistant with a demonstrated history of working in the
+ higher education industry. Skilled in Discrete Mathematics, Software Development, Data Analysis,
+ Financial Modeling, and Operations Research. Strong technical professional with a Bachelor’s
+ Degree focused in Statistics and Computer Science from The University of British Columbia.
+
+Experience
+Software Engineering Intern at Uber
+September 2017  -  Present  (2 months)
+
+• Maps - Sensor Intelligence
+
+Actuarial Data Science Intern at Sun Life Financial
+May 2017  -  August 2017  (4 months)
+
+• Corporate Risk - Predictive Analytics
+
+Computer Science Teaching Assistant at The University of British Columbia
+September 2016  -  April 2017  (8 months)
+
+Courses:
+• CPSC 221 - Algorithms and Data Structures
+• CPSC 110 - Computation, Programs, and Programming
+• Assisted students in grasping function design, data structures and algorithms in C++
+• Responsible for instructing, marking, and helping students during labs and office hours
+
+Statistical Genetics Intern at Institute for Heart + Lung Health
+May 2016  -  August 2016  (4 months)
+
+• Recipient of the Canadian Institutes of Health Research – Undergraduate Summer Fellowship
+• Used statistical and data mining methods to test for disease association
+• Debugged Perl program in order to perform gene ontology enrichment analyses with statistical
+corrections on genotype/phenotype data
+• Gave presentation of personal research (Gene Ontology Enrichment Analysis of Asthma Genome-
+Wide
+Association Studies) to professors and students at the Center
+
+Data Analyst at Applied Quantitative Methods (AQM)
+October 2015  -  August 2016  (11 months)
+
+• Proposed to TransLink (Greater Vancouver public transit company) System Analytics with a bus
+ scheduler model theorized to increase bus operation efficiency by 87% and rider comfort by 22% •
+ Enhanced prediction skills with regression, validation and data visualization techniques on R/C++ •
+ Worked with historical data alongside 10 motivated undergraduate and graduate data analysts
+
+Competitive Programmer at ACM International Collegiate Programming Contest
+September 2015  -  August 2016  (1 year)
+
+• Represented Team UBC% and ranked 5th out of 74 teams in division at the 2016 ACM-ICPC –
+Pacific Northwest Regionals
+• Improved C++ implementation and problem solving skills in weekly practices
+
+Instructor at Elite Educational Institute
+May 2016  -  July 2016  (3 months)
+
+• Instructor for high school/AP/IB/SAT Math, Calculus, Biology, Chemistry, Physics, Economics
+
+Council Member, Academic Committee Member, Statistics Department Representative at Science
+Undergraduate Society of UBC Vancouver
+September 2015  -  June 2016  (10 months)
+
+• Informed students about the growing field of statistics and the UBC Statistics major at events;
+• Enhanced public and professional speaking skills
+• Addressed students’ questions and needs in office hours
+
+Executive Board Member at Greater Vancouver High School Science Association
+September 2013  -  June 2016  (2 years 10 months)
+
+• Cofounder, Vice President (2013-2014); Program Director of Vancouver High School Science
+ Olympics (2013-2015); Portal Tours Coordinator (2015-2016)
+• Introduced GVHSSA’s programs to students at local conferences
+• Coordinated hands-on science competitions across Greater Vancouver
+• Responsible for contacting research facilities, organizes science-themed tours
+• Active in organization management, event planning, and curriculum development
+
+Mentee at University of Toronto Actuarial Science Club
+November 2015  -  May 2016  (7 months)
+
+• Online meetings with an actuary from Sun Life Financial
+• Learned about types of work involving asset management, risks associated with interest rate
+ fluctuations, and the importance of hedging in capital markets
+
+Instructor at Kumon North America, Inc.
+November 2011  -  January 2015  (3 years 3 months)
+
+• Taught reading and math to students from grades 1 to 12
+
+Jr. Researcher at Camp Euclid at The University of Georgia
+
+July 2013  -  August 2013  (2 months)
+
+• Researched and attempted to prove hypotheses related to Hamiltonian cycles in polyhedra,
+ Collatz conjecture, and Odd perfect numbers
+• Worked and shared ideas in a friendly team environment.
+
+Education
+The University of British Columbia
+Bachelor’s Degree, Statistics and Computer Science, 2015 - 2018
+Activities and Societies:  Actuarial Student National Association Case Competition, UBC Finance
+ Association Portfolio Management Competition, UBC Science Undergraduate Society, UBC Applied
+ Quantitative Methods, UBC Finance Academy Club, UBC Consulting Club, UBC ECON Club, UBC
+ Math Circle, National Strategy Consulting Conference & Competition 2015, nwHacks 2016
+
+David Yin
+Vancouver, Canada Area
+Software Engineering Intern at Uber
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

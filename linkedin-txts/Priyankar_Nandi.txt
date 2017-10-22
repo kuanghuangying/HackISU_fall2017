@@ -1,0 +1,68 @@
+Priyankar Nandi
+Greater Seattle Area
+Software Development Engineer at Amazon
+
+Summary
+- Knowledge and hands-on experience on working with distributed systems and big data with
+ technologies like Hadoop, HBase, Hive, Pig, Kafka, Storm and Elasticsearch
+
+- Full-stack web application developer with experience in front-end application development and
+ server side programming.
+
+- Hands-on experience in utilizing Java related tools, which includes Java Enterprise Edition (Java
+ EE), Spring, Hibernate, iBATIS, Java Server Pages (JSP), and Java Database Connectivity (JDBC)
+ technologies, in client-server environments.
+
+- Exposure to UI development using HTML, CSS, JavaScript, AJAX and Flex
+
+- Experience with building automated scripts in UNIX and Python for build, deployment and testing
+ large-scale systems
+
+Experience
+Software Development Engineer at Amazon
+March 2016  -  Present  (1 year 8 months)
+
+Software Engineering Intern at Reflektion
+May 2015  -  August 2015  (4 months)
+
+• Designed and developed a data pipeline to capture the user activities from the browser and store
+ it in Cassandra using Kafka and Storm, thereby using the data for search result personalization
+ and improve click through rate.
+• Increased the performance of the search queries by 20% by caching the MongoDB calls,
+ optimizing product indexing and introducing filters in the existing Elasticsearch queries.
+• Automated monitoring of search servers by developing a cron job with appropriate notifications for
+ events and failures.
+• Delivered an internal tool to compare the search results and performance of various development
+ versions and production version, which prevented any unwanted modification in the existing
+ functionality with newly added features.
+
+Software Engineer at Cognizant Technology Solutions
+November 2009  -  July 2014  (4 years 9 months)
+
+• Spearheaded complex business functionality within short period of time using Java and Flex
+ by agile mode of development for one of the top investment banks in the world for their client
+ onboarding process.
+• Emphasized and collaborated in building a common framework project which consisted of
+ reusable service layer code and rich user interface components using HTML, JavaScript, AJAX,
+ jQuery for being used as a library in other projects of the client.
+• Automated the maven build and deployment process by writing a shell script reducing hours of
+ manual efforts to minutes.
+• Developed web services to communicate with external systems like document management
+ system and contact repositories.
+• Trained new team members to understand the existing system, business functionality and new
+ technologies which increased the team productivity significantly.
+
+Education
+University at Buffalo
+Master’s Degree, Computer Science, 2014 - 2015
+West Bengal University of Technology
+Bachelor of Technology (B.Tech.), Computer Science and Engineering, 2005 - 2009
+
+Priyankar Nandi
+Greater Seattle Area
+Software Development Engineer at Amazon
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

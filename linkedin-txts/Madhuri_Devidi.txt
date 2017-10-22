@@ -1,0 +1,50 @@
+Madhuri Devidi
+San Francisco Bay Area
+Tech lead
+
+Experience
+Senior Software Engineer at Apple
+February 2014  -  Present  (3 years 9 months)
+
+Associate Architect at Costco Wholesale
+February 2012  -  Present  (5 years 9 months)
+
+Lead Software Developer at RapidIT Inc
+September 2007  -  October 2011  (4 years 2 months)
+
+As a consultant, I worked at Amazon - Target & Marks and Spencer websites, Cisco Systems - Flip
+ video group designing and developing Java/J2EE applications using programming/enterprise best
+ practices.
+
+Software Developer at Makeup.com
+October 2005  -  August 2007  (1 year 11 months)
+
+Experience in requirements gathering, design, enhancements
+
+Software Engineering Intern at Nokia Mobile Phones
+September 2004  -  December 2004  (4 months)
+
+Wrote C++ like scripts for testing CDMA phone's features using the STIF (S60 Test Integration
+ Framework) - a toolkit for test case development. These scripts tested all regression cases.
+
+Developed a master test plan for unit testing code developed by the SMS team and co-ordinated
+ with the functional testing team to identify any duplicate tests.
+
+Education
+Stanford University Graduate School of Business
+LEAD Certificate, Corporate Innovation, 2016 - 2018
+The University of British Columbia
+MS, Software Systems, 2003 - 2005
+Activities and Societies:  Developed software programs using RMI,CORBA and worked a lot on multi-
+threaded applications. Also worked on projects where I developed GUI apps using SWING. Wrote
+ more than 10000 lines of code for the presentation tier which was a thin client application. Also used
+ JBuilder's Swing Designer to code similar tools.
+
+Madhuri Devidi
+San Francisco Bay Area
+Tech lead
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

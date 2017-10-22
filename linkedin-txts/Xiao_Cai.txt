@@ -1,0 +1,132 @@
+Xiao Cai
+San Francisco Bay Area
+Machine Learning Engineer at Uber
+
+Summary
+I am interested in designing prototype machine learning, data mining algorithm as well as
+ implementing code to transfer the research algorithm to the real application & product. 
+
+I have published 15 full papers in top artificial intelligence conference and journal papers during my
+ Ph. D. study with more than 1000 citations according to Google scholar, including,
+Computer Vison: 1 paper in CVPR, 2 papers in ICCV, 1 paper ECCV, 
+Data Mining: 1 paper in SIGKDD, 2 papers in ICDM,
+Medical Image Analysis: 1 paper in MICCAI,, 1 paper in ISMB.
+Machine learning: 1 paper in NIPS, 2 papers in IJCAI, 1 paper in ECML, 1 paper in AAAI 
+
+Keywords: Image feature extraction, SIFT, HOG, GIST, CENTRIST, Color moment, Local binary
+ pattern (LBP), motion segmentation, 
+regression, large scale feature learning, clustering, semi-supervised learning, sparse learning, logistic
+ regression, SVM, SVR, multi-modal(multi-view) learning, transfer learning. recommendation system,
+ collaborative filtering, information retrieval, convex optimization，deep learning (CNN, RNN and etc)
+
+Software development : 
+version control: Git, SVN, TFS 
+OS: Windows, Linux, OSX 
+IDE: MS visual studio, Eclipse, IntelliJ
+Product Language: C/C++, Java, 
+Scripts Language: Shell, Python, Matlab
+Big data: Hive, Spark, Hadoop 
+
+I am looking for research scientist, data scientist or data software engineering jobs related to big data,
+ data mining, machine learning, information retrieval, computer vision and statistical learning.
+
+Experience
+Software Engineer II at Uber
+April 2016  -  Present  (1 year 7 months)
+
+Machine learning, data mining research and application in routing, ETA, map navigation
+
+Research Software Engineer II at Abbott
+August 2013  -  March 2016  (2 years 8 months)
+
+working on image based artificial intelligence hematology device for point of care:
+(1) designing prototype computer vision algorithm for cell shape and texture feature extraction;
+(2) designing prototype machine learning algorithm for large scale cell classification, clustering,
+ abnormality detection;
+(3) designing prototype machine learning algorithm for feature selection and feature learning;
+(4) implementing product code using C++
+(5) version control using both SVN and TFS
+(6) unit testing
+
+Graduate research assistant and Ph.D. Candidate at University of Texas at Arlington, computer
+science department, computational science lab
+August 2009  -  November 2013  (4 years 4 months)
+
+Research interest: machine learning, computer vision, data mining, medical image analysis.
+
+systematically studied machine learning and published 14 full research papers in the top machine
+ learning, data mining and computer vision international journals and conferences with more than
+ 250 citations. For detail information, please refer to my Google Scholar and dblp pages 
+
+http://scholar.google.com/citations?hl=en&user=YtDC7VUAAAAJ
+
+http://www.informatik.uni-trier.de/~ley/pers/hd/c/Cai:Xiao
+
+Research Intern at Abbott Point of Care
+May 2012  -  December 2012  (8 months)
+
+(1) Design classification algorithm for the White Blood Cell classification using Matlab;
+(2) Design new visual features to describe the shape and texture of the cells using Matlab
+(3) Implement the algorithm in C++ on Windows platform. 
+(4) Version control via team foundation server. 
+(5) system optimization using Intel IPP library. 
+(6) Unit test
+
+intern system programming engineering at Abbott Laboratories
+January 2009  -  August 2009  (8 months)
+
+-develop and test the camera calibration algorithm, find out the calibration methods to remove
+ shading and DSNU and PRNU of the CMOS and CCD cameras.
+- Design and implement NUnit based unit testing framework for in-house image processing and
+ classification libraries.
+- Manage version control using SVN (with apache server).
+
+- Support product software regular built and testing.
+- Develop and test C++ code using Intel IPP library for image preprocessing program performance
+ optimization
+Design SVM classification framework
+
+intern hardware testing at Siemens
+January 2007  -  April 2007  (4 months)
+
+-Read the technological books on the IP data communication and collected abundant market
+ information about routers as well as Ethernet switches information
+
+-testing routers
+
+Education
+The University of Texas at Arlington
+Ph.D., Computer Science, 2009 - 2013
+New Jersey Institute of Technology
+MSEE, signal and image processing, 2007 - 2008
+Tianjin University
+bachelor of engineering, electrical engineering, 2003 - 2007
+The Experimental High School Attached to Beijing Normal University
+high school
+
+Xiao Cai
+San Francisco Bay Area
+Machine Learning Engineer at Uber
+
+2 people have recommended Xiao
+
+"Xiao has solid knowledge and research experience in machine learning and feature extractions.
+He is a major contributor in developing our image based blood cell classification system. He is a
+quick learner and enthusiatic in solving difficult real-world problems."
+—Changhua Yu, Sr. Principal Engineer,  Abbott,  managed Xiao at Abbott Point of Care
+
+"I couldn't thank Xiao more for his tremendous contributions to our project. About two years ago,
+we worked on a problem which was crucial to the success of the project and Xiao spent just a a
+few days including the weekends to implement a working module in our prototype. Over a few more
+weeks, he worked to fine tuning the module to yield results that help us to pass a major milestone.
+Currently some results from his work are included as part of our product development. During his
+internship with our team, Xiao also worked on several other parts of our projects and delivered very
+satisfying results. Xiao is also very easy-going and very fun to work with. I highly recommend him
+to work in any team that his expertise matches the requirement and I would definitely want to work
+with him again."
+—Zhizhou Wang, Software Developer,  Bloomberg,  managed Xiao indirectly at Abbott Laboratories
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

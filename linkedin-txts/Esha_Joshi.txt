@@ -1,0 +1,94 @@
+Esha Joshi
+San Francisco Bay Area
+Software Engineer at Apple
+
+Summary
+Esha is a recent graduate from Cal Poly, San Luis Obispo with a B.S. degree in Software
+ Engineering. She has avid interests in entrepreneurship, product management, and public speaking
+ and is keen on exploring software engineering fields related to mobile development, machine
+ learning, and Big Data.
+
+Experience
+Software Engineer at Apple
+September 2016  -  Present  (1 year 2 months)
+
+Girls Who Code Facilitator - Sunnyvale, CA at Girls Who Code
+September 2016  -  June 2017  (10 months)
+
+Brought together a cohort of 20 wonderfully talented middle-school female students to help them
+ learn and use computer science to impact the community and build sisterhood among other
+ girls within the Club. Empowered and tutored the girls as they conceptualized, designed, and
+ programmed together an application based on shared interests.
+
+Instructional Student Assistant at California Polytechnic State University
+September 2015  -  June 2016  (10 months)
+
+Held office hours and graded assignments/tests for students in the Fundamentals of Computer
+ Science I (CPE 101) and Introduction to Database Systems (CPE 365) classes.
+
+Software Engineering Intern at Apple
+June 2015  -  September 2015  (4 months)
+
+Apple Music Reporting
+
+Front-end web development project.
+Created dashboard for efficient and dynamic data loading/refreshing, from front-end UI to service
+ layer framework.
+Dashboard generates financial reports for use by the iTunes community.
+Built in ReactJS, HTML, CSS.
+
+Software Engineering Intern at Intuit
+June 2014  -  September 2014  (4 months)
+
+Designed and developed UIs in Java and Go for the Public Cloud Access Service (PCAS) team.
+ Interfaces help with the on-boarding of new AWS accounts to Cloud Access Service and integrate
+ with AWS, Splunk, and internal APIs.
+
+Electronic Programmer Intern at WD, a Western Digital company
+June 2013  -  September 2013  (4 months)
+
+Learned Visual Basic 6.0, basic SQL, and Microsoft Access Databases to build modules for testing
+ magnetic recording heads/media. Modules enabled WD customers to submit job requests for their
+ hard drive testers and instantaneously retrieve updates about their requests.
+
+Air Traffic Management Research Intern at NASA Ames Research Center
+June 2011  -  August 2011  (3 months)
+
+Responsible for analyzing and modeling data responses from Ames air traffic controllers and
+ pilots to develop more robust software for avoiding collisions during the terminal phase of flight.
+ Mathematical and statistical modeling included use of SPSS and Excel software.
+
+Product Developer Intern at Looxcie
+June 2010  -  August 2010  (3 months)
+
+Oversaw the company’s first product, the first wearable camcorder, by engaging in the concept
+ development, technical implementation, and compatibility user testing with various operating
+ systems. Defined and performed tests for the wireless camcorder on its mobile applications and
+ bluetooth headset profiles.
+
+Education
+California Polytechnic State University-San Luis Obispo
+Bachelor of Science (BS), Software Engineering, 2012 - 2016
+Activities and Societies:  Women Involved in Software and Hardware (WISH), College of Engineering
+ Tour Guide, Center for Innovation and Entrepreneurship (CIE), Cal Poly Ignite Speaker, Society of
+ Women Engineers (SWE)
+Archbishop Mitty High School
+2008 - 2012
+Activities and Societies:  Student Newspaper, Mock Trial, Tennis, Robotics Team
+
+Esha Joshi
+San Francisco Bay Area
+Software Engineer at Apple
+
+1 person has recommended Esha
+
+"Esha integrated very well with the rest of the team, working diligently in all projects assigned to
+her. Esha is a very capable person whom easily grasped the concept of the projects and wrote the
+code to deliver the requested results."
+—Rene Martinez, Principal Engineer,  Western Digital,  managed Esha at WD, a Western Digital
+company
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

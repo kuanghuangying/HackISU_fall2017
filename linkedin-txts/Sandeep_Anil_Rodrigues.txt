@@ -1,0 +1,70 @@
+Sandeep Anil Rodrigues
+Bengaluru Area, India
+Senior Software Engineer at Dell
+
+Summary
+• 5.1 years of experience in windows application development using C#.NET and .NET Core 2.0 in
+ the areas of multimedia, public safety, Commodity(Banking) and Identity and access Management
+ products Environment.
+• Currently Working in Dell Software (One Identity) India Private Limited as senior software Engineer.
+• Proficient in developing WINDOWS application using WPF+MVVM+PRISM, WCF and Entity
+ Framework.
+• Design and development of web applications using HTML5, CSS3, AJAX, JavaScript, JQuery,
+ AngularJS,  NodeJs and WebAPI+MVC.
+• Hands on experience in NOSQL (MongoDB, Couchbase) and Knowledge on SQL (MS SQL Server
+ 2008/2008 R2/2012) Database.
+• Hands on experience in web services REST and SOAP.
+• Hands on experience in Windows Azure.
+• Adept in end-to-end development of software products from requirement analysis to system study,
+ designing, coding, testing, de-bugging, documentation and implementation.
+
+Experience
+Senior Software Engineer at Dell
+May 2016  -  Present  (1 year 6 months)
+
+Be a key part of the full product development lifecycle of software applications offered by Dell One
+ Identity Manager.
+- Implement Dell One identity Connectors for integrating in Dell Boomi.
+- Research, validate and recommend key technology decisions for the core platform and other
+ customer facing offerings.
+- Mentoring of other Boomi engineers, including design collaboration and code reviews.
+- Responsible for design, development and unit testing of the D1IM products including
+ enhancements and/or resolution of any issues that may be reported.
+- Support the QA team during System/Integration testing.
+- Work independently with a moderate level of guidance from engineering management.
+
+Senior Software Engineer at Societe Generale Global Solution Centre
+August 2015  -  April 2016  (9 months)
+
+The application is used by Forex and Fixed Income teams for real-time monitoring of trading activity
+ and periodic reporting. using an Agile development approach.
+
+Design and development of the GUI, Middle Tier and database functionality using C#, WPF
++MVVM, WCF, multithreading. Design and development of web applications using ASP.NET
++MVC. Construction of a rule engine that exhibits Complex Event Processing behaviors. It provides
+ services of characteristics, low latency, high frequency, high volume, high accuracy. It includes a
+ rule parser (compiler construction) and generates code automatically (automatic code generation).
+
+Senior Software Engineer at Motorola Solutions
+August 2012  -  July 2015  (3 years)
+
+Real-Time Video Intelligence (RTVI) software delivers high-quality video to and from the patrol
+ car and the command center and between personnel in the field. In wireless environments, RTVI
+ adjusts to available bandwidth, ensuring that real-time, live video gets through at the best possible
+ quality.With its user-friendly interface, RTVI allows cameras to be selected from a list, a map, or
+ an emailed link, and accepts video from multiple camera and recorder vendors. Whether it’s a
+ supervisor monitoring another officer’s pursuit from his patrol vehicle, or a SWAT team captain
+ watching building security footage on her handheld.
+
+Education
+Visvesvaraya Technological University
+Master of Computer Applications (MCA), Computer Software and Media Applications, 2009 - 2012
+
+Sandeep Anil Rodrigues
+Bengaluru Area, India
+Senior Software Engineer at Dell
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

@@ -1,0 +1,132 @@
+Marcus Williams
+Portland, Oregon Area
+SDN Software Engineer at Intel
+
+Summary
+SDN Software Engineer working on OpenDaylight (ODL), Open vSwitch, OpenStack and Open
+ Network Automation Platform (ONAP) to enable Network Vitrualization, NFV and Dynamic Service
+ Function Chaining.
+
+I work in Intel Corporation's Data Center Network Solutions Group on the Software Defined
+ Networking Controller Team focusing on OpenDaylight NetVirt, deploying OpenDaylight with
+ OpenStack and working on nascent Open Network Automation Platform as a committer in Software
+ Define Networking Controller project, Application controller project and Common Controller SDK
+ project. I am also a committer on ODL Releng project (Infrastructure as code) and for Controller
+ Performance Testing (CPERF) project in Open Network Function Virtualization (OPNFV).
+
+I hold a Bachelor of Science: Information Technology in Software Development from Western
+ Governors University, Oracle Certified Professional - Java SE 6 Programmer, Rackspace Openstack
+ Essentials Certificate, CompTIA A+, Network+, Project+, Security+ and Storage+ certifications
+ and CIW Web Development Professional, Perl Specialist, Database Design Specialist, JavaScript
+ Specialist, Web Design Specialist and Web Foundations Associate certifications.
+
+Experience
+Network Software Engineer at Intel Corporation
+October 2014  -  Present  (3 years 1 month)
+
+Software Defined Networking engineer enabling  the SDN, NFV and cloud transformation.
+ Committed to OpenSource.
+
+Most recent work has been enabling and creating containerized OpenStack extending OpenStack
+ Kolla. Completed OpenDaylight enablement in Kolla which deploys multi-node HA ODL/OpenStack
+ utilizing NetVirt in 15 minutes and facilitates deployment onsite at customer meetings and for
+ evaluation, easy HA development environments and another vector for large production deploys. 
+
+Enabling dynamic software defined networks with revolutionary flexibility in the same way hardware
+ virtualization provided dynamic flexibility and on-demand scale for compute and storage hardware.
+
+ I work on OpenDaylight (ODL), Open vSwitch, OpenStack and Open Network Automation Platform
+ (ONAP) to enable Network Virtualization, NFV and Dynamic Service Function Chaining.
+
+Worked in past on S3P (Security, Scalability, Stability and Performance) testing and enabling
+ for OpenDaylight. I also contributed to enabling DPDK support for OpenDaylight. I led the S3P
+ Workgroup in the OpenDaylight Community and I had been instrumental in the Testing and
+ Publishing of OpenDaylight's Performance Reports 1.0, 1.1.
+
+Software Validation Engineer at Intel Corporation
+August 2013  -  October 2014  (1 year 3 months)
+
+Test and validate Intel network drivers on Red Hat Enterprise Linux. Focus on Data Center Bridging
+ (DCB) and Fibre Channel over Ethernet (FCoE), including user space tools (open fcoe and open
+ lldpad). Develop automated tests and run automated regression on drivers and tools. Manage
+ validation process, develop test plans and direct a team of testers.
+
+Network Storage Software Validation Engineer at Confidential Semiconductor Chip Maker through
+SCIGON Solutions
+April 2012  -  August 2013  (1 year 5 months)
+
+Validated network storage drivers through work with FCoE / FC / iSCSI equipment / devices such
+ as forwarders, switches, storage arrays, and host bus adapter (HBA) / converged network adapter
+ (CNA). Worked in Windows, Linux and virtualization (Hyper-V). Used storage and network testing
+ tools, such as IOmeter, IOzone, dt, netperf, ntttcp, iperf, etc. Measured performance and analyzed
+ network storage drivers and their output. Automated test cases and added features to and update
+ automated test code base.
+
+Consultant - Network & System Admin. at Propeller Heads
+January 2009  -  April 2012  (3 years 4 months)
+
+Worked with business owners providing technology recommendations and budget for existing and
+ future technology requirements. 
+Supported Windows active directory domains, Windows and Linux servers plus an assortment of
+ client PCs. Managed, maintained, supported and designed small business networks including
+ security hardening and testing. Created physical, data-flow and use case network diagrams.
+ Provided end user support and repair service.
+
+Reporter - Intern at Gannett / Statesman Journal
+May 2009  -  September 2009  (5 months)
+
+Wrote news pieces including front page story on Cash for Clunkers Salvage and front of section
+ story about hiking Opal Creek. Convinced a variety of people to interview and divulge useful
+ information. Executed an Oregon Public Employees Retirement System data analysis project
+ supporting an investigative exposé.
+
+Hardware Aide - Student at Whitman College
+September 2006  -  May 2007  (9 months)
+
+Repaired, tested and maintained enterprise Dell computer network. Setup and tested Dell and
+ Apple computers. Networked PCs by running network cables and setting up OS configuration.
+ Tested network with netperf, iperf.
+
+Computer Lab Aide at Walla Walla Community College
+September 2005  -  April 2006  (8 months)
+
+Supported a 20 system computer lab. Trained others in the use of Microsoft Office and other
+ complex applications. Provided personalized support.
+
+Computer Technician at D.S.E Computers
+January 2001  -  January 2002  (1 year 1 month)
+
+Built, upgraded and fixed a variety of client and server computers. Traveled to businesses and
+ homes to fix computer and network errors.
+
+Education
+Western Governors University
+Bachelor of Science (B.S.), Information Technology - Focus in Software Development, 2012 - 2014
+Whitman College
+Art & Rhetoric, 2006 - 2009
+Activities and Societies:  Whitman College Pioneer columnist, KWCW politics radio show host
+Walla Walla Community College
+General Studies, 2005 - 2006
+Activities and Societies:  Computer & Technology Club President (raised funds from $2,000 to
+ $10,000, executed Consumer Electronics Show trip to Las Vegas), Dean’s list, Martin Luther King Jr.
+ Essay Contest Winner, Honors Initiative Scholarship, President of the TRIO Club (Organized food
+ drive for Helpline, netted over 1000lbs of food - Ran “Stress Free Zone” which included free food,
+ drink and massages for students & staff during finals), Statewide College Civics Commission
+
+Marcus Williams
+Portland, Oregon Area
+SDN Software Engineer at Intel
+
+1 person has recommended Marcus
+
+"Marcus has a high aptitude for technology and is quick to learn in the ever changing world of
+technology. He possesses excellent customer service skills and develops a good repertoire with
+clients. I remember I was working on a web app with a mysql database and php web interface and
+ran into a problem that was over my head. Marcus went in blind without previous knowledge of the
+languages and was able to reprogram a solution in a couple of days."
+—Dale Alling, Owner,  Design Render,  worked directly with Marcus at D.S.E Computers
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

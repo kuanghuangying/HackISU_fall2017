@@ -1,0 +1,90 @@
+CJ Sorensen
+Greater Minneapolis-St. Paul Area
+Software Engineer at Best Buy
+
+Summary
+Software Engineer at Best Buy working on search for BestBuy.com
+
+Experience
+Software Engineer at Best Buy
+December 2016  -  Present  (11 months)
+
+Java Apprentice at The Software Guild
+September 2016  -  December 2016  (4 months)
+
+Store Inventory
+
+Designed and developed an object-oriented, tiered application that tracked store inventory using
+ Java 8 features including lambdas and streams.  Each part of the inventory system was unit tested
+ using Junit in Netbeans.  The final program allowed users to add items to the store inventory while
+ calculating totals and products that needed restocking.
+
+Flooring Application
+
+Designed and implemented an application for ordering flooring from a multi-state company. 
+ Worked closely with team member to integrate codebase using Agile Development.  Tracked
+ features and development using Git version control. Users were able to create, track, and adjust
+ orders through our application which used Java best practices including encapsulation and
+ dependency injection. All code was comprehensively tested, first through Unit Testing and later
+ through Integration Testing.
+
+Spring MVC Media Library Web Application
+
+Built a robust Spring MVC web application using Java, Apache Tomcat, Maven and Spring that
+ allowed users to manage their media library.  The web application front-end used Google’s
+ Material Design Lite framework to create a friendly UI that focused on beautiful and meaningful
+ interactions for the user.  The application integrated with a MySQL database on the backend and
+ used Spring and Java Annotations  to handle Dependency Injection, Validation, and Database
+ management. 
+
+Capstone Web Application
+
+Worked in a small team using agile development to create a fully featured blogging platform.  The
+ project incorporated client-side technologies such as Bootstrap, Jquery, and HTML5 as well as
+ solid back-end architecture using Java, Spring, Tomcat, and MySQL.
+
+Language Arts Teacher at Eastview High School
+2014  -  2016  (2 years)
+
+American Literature (11th Grade)
+
+Instructed 200 students every school year in a survey course focused on core language arts areas
+ and on contemporary authors as well as more traditional texts.
+
+Web Developer at Freelance
+2013  -  2016  (3 years)
+
+Designed and developed custom Wordpress Themes using CSS, HTML, and PHP.   Provided
+ hosting, network management, and domain transfer to clients. Analyzed and optimized search
+ engine ranking for several websites for Twin Cities businesses.
+
+CrossfitTemplar.com | DreamSteamMN.com | AdviceYouAlreadyKnow.com
+
+Expert use of Adobe Creative Suite including Photoshop, Illustrator, and InDesign to craft and
+ deploy stunning visual assets.  
+
+Language Arts Teacher at White Bear Lake High School
+1997  -  2013  (16 years)
+
+Modern Literature: Media and Film (12th Grade):
+A standards based course that focuses on media literacy and applying analysis skills to film and
+ media as texts.
+
+AP Literature and Composition and AP Language and Composition:
+Taught advanced level literature course based on the rigorous and demanding AP curriculum.
+ Focused on students reading both broadly and deeply, and writing analytically complex essays.
+
+Education
+University of Minnesota-Twin Cities
+Master's degree, Learning Technologies - Design and Development, 2009 - 2013
+University of Wisconsin-Madison
+BS, Education--Secondary English, 1993 - 1997
+
+CJ Sorensen
+Greater Minneapolis-St. Paul Area
+Software Engineer at Best Buy
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

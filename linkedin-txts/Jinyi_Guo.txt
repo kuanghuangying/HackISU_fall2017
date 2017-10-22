@@ -1,0 +1,47 @@
+Jinyi Guo
+Baltimore, Maryland Area
+Software Engineer at Bloomberg LP
+
+Experience
+Software Engineer at Bloomberg LP
+March 2017  -  Present  (8 months)
+
+- Built the terminal application to manage trade settlement info, focused on UI (JavaScript) and
+ backend (C++).
+- Optimized the Oracle database logic to accelerate finding entitlement mismatch in Market Data
+ API.
+- Added a full-stack feature to show/fix client the violations of Exchange ID usage.
+
+Software Development Engineer Intern at Amazon
+May 2016  -  August 2016  (4 months)
+
+- Interned at the Identity Service Team under  eCommerce Platform Services Group (eCSG).
+- Added address auto-population feature on Amazon’s address web service (based on Spring
+ Framework).
+- Integrated the team’s web service with 3rd party geocoding API like Google Map as well as
+ Amazon’s internal API.
+- Implemented multiple metrics and deployed the new feature to Amazon’s WebLab for internal/
+external test.
+
+Research Assistant at The Johns Hopkins Center for Language and Speech Processing (CLSP)
+November 2015  -  December 2015  (2 months)
+
+Advisor: David Yarowsky
+
+Software Engineer Intern at Anhui USTC iFLYTEK Co
+July 2014  -  August 2014  (2 months)
+
+Education
+The Johns Hopkins University
+Master’s Degree, Computer Science, 2015 - 2016
+Beijing University of Post and Telecommunications
+Bachelor's Degree, E-Commerce Engineering, 2011 - 2015
+
+Jinyi Guo
+Baltimore, Maryland Area
+Software Engineer at Bloomberg LP
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

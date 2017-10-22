@@ -1,0 +1,117 @@
+Greg Silk
+Greater Denver Area
+Engineer - Embedded Software at Ball Aerospace
+
+Experience
+Engineer - Embedded Software at Ball Aerospace
+October 2012  -  Present  (5 years 1 month)
+
+Senior Embedded Software Engineer, Satellite Simulators (2012-Present)
+• Led Blackbird Program Simulator project, a classified spacecraft design used to demonstrate
+ functionality to potential customers as part of Ball’s RFP process.
+o Responsible for strategic planning of simulator functionality, execution of build, and presentation
+ and exhibition to buyers, including present capabilities and future scope.
+o In its six months’ existence, simulator has successfully secured customers.  Two demonstrations
+ have resulted in a $3MM development contract and a likely $100MM product contract, effective
+ end of year, 2017.
+• Selected to head effort at customer location to implement structure and educate customer on
+ design of mission controls and ground system of P992 program.
+• Responsible for design, implementation, and verification of Satellite Systems Simulators including
+ Skyfox (classified), JPSS – 1 (NASA), WorldView – 3 (Digital Globe).
+o Wrote embedded driver-level code to control multi-function IO, 1553 Bus, and serial devices
+ (RS432). 
+o Implemented and maintained full suite of tests to verify customer requirements.
+o Created test plans, applied process controls, supported and responded to customer audit
+ reviews.
+
+Component Design Engineer at Intel
+January 2010  -  June 2012  (2 years 6 months)
+
+Component Design Engineer - Scan DFT (Design for Test) (2010-2012)
+• Responsible for design and verification of Scan logic, a method used in the manufacturing stage
+ of processor production.  Scan logic verifies logic connectivity and integrity of the processor’s
+ physical design.
+• Wrote and maintained an extensive suite of tests to verify scan chains and logic arrays.
+• Implemented RTL (Register Transfer Layer) features and improvements.
+• Conducted validation progress and “synch meetings” to unite all affected functional design areas.
+  To this end, I defined and managed both customer and stakeholder needs and incorporated
+ expectations.
+
+Software Engineer at Intel Corporation
+
+March 2007  -  December 2010  (3 years 10 months)
+
+ Logic Verification Engineer (2007-2010)
+• Verified and contributed to design for DAF (Digital Activity Factor) Block of Poulson (Itanium®)
+ Chip to maintain power thresholds by throttling back the dispersion queues.  This moderated the
+ number of simultaneous instructions allowed based on power consumption.
+• Owned random code generator (Falcon) which created assembly code instructions which
+ exercised and verified the processor core and system interface.
+o Triaged failures in RTL, tools and checkers.
+o Continually enhanced Falcon’s capabilities to support testability of new RTL features. 
+
+Firmware Developer - Technical Team Lead at Intel Corporation
+February 2004  -  March 2007  (3 years 2 months)
+
+Technical Team Lead, Server Management Firmware (2006 – 2007)
+Firmware Development Engineer (2004-2006)
+• Owned firmware product area on 4-way Xeon® enterprise server, including scope and feature set
+ of firmware deliverables.
+• Responsible for firmware product area schedule, scope and feature set.
+• Maintained functional responsibility and performance oversight for daily for teams of up to 7
+ engineers, managing new feature deliverables and drive defect resolution.
+• Served as customer interface to Fujitsu-Seimens Corporation Firmware Development Team.
+o Chaired both official weekly meetings and spot gatherings as needed with FSC engineers to
+ resolve technical issues encountered in firmware development.
+o Acted as customer consultant to offer insight and recommendations for design decisions.
+o Resolved and debugged (remotely and on-site) any defects and suggested feature
+ enhancements.
+• Wrote embedded server management firmware for Intel’s enterprise-class servers. 
+o Developed in C; ARM architecture, and ThreadX RTOS.
+o Owned build and release of code on bi-weekly schedule.
+o Implemented Intelligent Platform Management Interface (IPMI) features.
+o Maintained open communication with BIOS, Hardware, and Validation engineers to maintain
+ coordination amongst functional groups.
+o Responsible for feature documentation in Firmware External Product Specifications for customer
+ delivery.
+Accomplishments: 
+• Promoted to Senior Engineer and selected to take on a new role in Fort Collins’ PDC (Processor
+ Design Center).
+• Successfully launched Server Management Firmware for Intel’s Harwich Enterprise Server both
+ on schedule and with full feature set.
+
+• Successfully enabled FSC’s Enterprise Server launch, receiving FSC’s award of
+ acknowledgement.
+
+Firmware Validation Engineer at Intel Corporation
+January 2002  -  February 2004  (2 years 2 months)
+
+Firmware Validation Engineer, Server Management Firmware Validation (2002-2004)
+Firmware Validation Engineer – Intern (Summer, 2001)
+• Developed and maintained tools and test scripts for firmware validation written in TCL scripting
+ language.
+• Created test plans from development documentation including IPMI v.1.5, IPMI v.2.0, and
+ Firmware EPS.
+• Managed the daily schedule and workload of contracted student employee staff, including
+ responsibility for team productivity and deliverables.
+• Led training sessions (face-to-face and remotely) and authored corresponding training
+ documentation for offshore teams in India and Taiwan.
+Accomplishments: 
+• One of two summer interns receiving an offer for full time employment out of a class of 12.
+
+Education
+University of Colorado Boulder - Leeds School of Business
+Master of Business Administration (M.B.A.), 2015 - 2017
+University of Washington
+MS, Computer Science, 2004 - 2006
+Brigham Young University
+BS, Computer Engineering, 1997 - 2001
+
+Greg Silk
+Greater Denver Area
+Engineer - Embedded Software at Ball Aerospace
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

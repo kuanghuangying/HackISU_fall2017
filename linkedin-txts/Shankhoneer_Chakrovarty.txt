@@ -1,0 +1,111 @@
+Shankhoneer Chakrovarty
+San Francisco Bay Area
+Software Engineer at Google
+
+Summary
+Skilled with functional and object oriented languages. Focus on high-performance, high-reliability
+ servers. Expertise in object-oriented, extensible, thread-safe design and development.
+
+Currently in OPT. Willing to help early stage startups on managing git, developing and creating  build
+ and deployment platforms and analytics pipeline for a cs:go skin
+
+Specialties: Programming Languages in C++/C, Java, Python, Bash, MySQL, MongoDB
+
+Experience
+Software Engineer at Google
+August 2016  -  Present  (1 year 3 months)
+
+Software Engineer at Yahoo
+June 2015  -  August 2016  (1 year 3 months)
+
+* Designed and developed the backend using Apache Storm and YQL+ for 2016 primary elections
+ delegates tracker
+
+* Developed tools to create, update and manage tags for articles using Java and NoSql database
+
+* Designed schemas in mysql to store config in order to facilitate dynamic changes and sitemap
+ generation
+
+Software Developer Engineer - Intern at Amazon
+May 2014  -  August 2014  (4 months)
+
+* Designed and developed tools to create rosters in order to schedule workers in large fulfillment
+ centers of Amazon using node, angular.js and DynamoDB
+
+Graduate Research Assistant at Information Sciences Institute - USC
+October 2013  -  May 2014  (8 months)
+
+Worked on extracting features from scanned copies of handwritten text and creating testing and
+ training models for classification of these texts
+
+Software Engineer at Vedantu
+May 2012  -  April 2013  (1 year)
+
+* Architected, designed and implemented content management tool at Vedantu for easy
+ management and distribution of content on play! framework
+
+* Architected, designed and developed analytics using map-reduce on mongodb
+
+* Designed and developed test creation feature from selected set of questions and integrated it with
+ the content management tool for one click creation and publishing of tests on play! framework
+
+* Architected, designed and implemented Document Conversion pipeline for making document
+ searchable
+
+* Worked on different aspects at Vedantu like Server Administrations ensuring availability of the
+ system, distributed system issues, searching platform using Elasticsearch & MongoDB.
+
+Software Engineer at Texas Instruments
+July 2010  -  April 2012  (1 year 10 months)
+
+* Develop battery monitoring tools on Eclipse.My main work is to develop tools to interact with
+ the firmware in the battery monitoring chip and help customers to calibrate, update chemistry of
+ the battery monitoring firmware and other tools to simplify a number of tasks required for mass
+ production of such battery monitoring devices
+
+* Made efficiency improvements in firmware team output by innovative software approaches,
+ notably a StackTrace program (as an eclipse plugin) that operated on symbol information and
+ assembly to determine stack usage, faults with capabilities to show impact of changes in functions,
+ supports user input in case of function pointers and generates report for all the functions where
+ stack push is unequal to stack pop.
+
+* Develop eclipse plugins and apps on Rich Client platform provided by eclipse
+
+* GUI development using jface and SWT (Eclipse)
+
+* Use Java native interfaces to develop communicating agents between the tools and the firmware.
+
+* Comprehensive testing of the tools using latest technologies such as Google Window Tester
+ Pro,SWTBot etc
+
+Environment: Java, Eclipse, WindowsXP/7
+
+Trainee Software Engineer at Intel Corporation
+January 2010  -  July 2010  (7 months)
+
+1. Comprehensive testing of Graphics drivers
+2. Develop test plan to test graphics driver
+3. Debug and add features on existing testing platform
+4. Devise a new test framework for next gen graphics drivers
+
+MCIT sponsored TDIL Project at IIIT Allahabad at IIIT Allahabad
+March 2008  -  November 2009  (1 year 9 months)
+
+OCR of Indian Languages: Image to text conversion of old Tibetan manuscript in order to preserve
+ them in digital format.
+
+Education
+University of Southern California
+Master of Science (MS), Computer Science, 2013 - 2015
+Indian Institute of Information Technology
+B.Tech, Computer Science, Information Technology, 2006 - 2010
+Activities and Societies:  Drama team,Universal Digital Library
+
+Shankhoneer Chakrovarty
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

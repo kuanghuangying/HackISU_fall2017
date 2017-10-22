@@ -1,0 +1,57 @@
+Kei Kudose
+Austin, Texas Area
+Software engineer at Dell
+
+Summary
+Currently on my second year of professional experience and a lifetime of curiosity. As an active team
+ player at Dell, I work diligently to create defects to ensure the SDETs have total job security. I know
+ enough to know what I don't know, and I'm an active, relentless, and self-motivated learner.
+
+In the past, I've helped teach over 100,000 students embedded systems and essential programming
+ skills, both on-campus at UT and online on edX. I thoroughly enjoyed explaining everything with a
+ kitchen metaphor, and as a nice side benefit, students seemed to appreciate and understand my
+ explanation, too.
+
+Experience
+Software Engineer 2 - IT at Dell
+June 2016  -  Present  (1 year 5 months)
+
+Developed full-stack shipping feature (HTML, CSS, AngularJS, .NET Web API, SQL Server)
+ with RESTful APIs. Implemented custom pricing mode feature used in millions of transactions;
+ supported throughout full product development lifecycle. Maintained both current and legacy
+ pricing systems by analyzing and resolving defects, refactoring to coding standards, writing end to
+ end tests.
+
+Teaching Assistant at The University of Texas at Austin
+August 2014  -  May 2016  (1 year 10 months)
+
+Taught embedded system design, debugging techniques (Assembly, C), and general knowledge
+ of ARM architecture to 50+ students in-person each semester and thousands online on the edX
+ platform. Evaluated student projects; reviewed, proctored, and graded exams.
+
+Intern Sr. Analyst at Dell
+May 2015  -  August 2015  (4 months)
+
+Implemented internal web-based tool that collects and processes client data to automate custom
+ pricing requests. Technologies used include ASP.NET MVC, Web API, AngularJS, and Bootstrap.
+
+Student Technology Assistant at The University of Texas at Austin
+August 2012  -  December 2014  (2 years 5 months)
+
+Designed and developed websites in small teams involving technologies such as HTML, CSS,
+ Bootstrap, JS, WordPress, and Cascade Server. Graphic design and manipulation using Adobe
+ Photoshop, Illustrator.
+
+Education
+The University of Texas at Austin
+Bachelor’s Degree, Electrical and Computer Engineering, 2012 - 2016
+Activities and Societies:  IEEE, Pi Sigma Pi (Minority Academic Engineering Society)
+
+Kei Kudose
+Austin, Texas Area
+Software engineer at Dell
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

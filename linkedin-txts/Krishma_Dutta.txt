@@ -1,0 +1,145 @@
+Krishma Dutta
+San Francisco Bay Area
+Software Engineer
+
+Summary
+- Partner with fellow engineers to architect and build mission critical software and systems that can
+ stand the test of scale and availability, while reducing operational overhead.
+- Drive efficiencies in systems and processes: capacity planning, performance tuning, monitoring and
+ root cause analysis.
+-Troubleshoot and monitor production systems (Linux and Windows) to ensure SLAs are met
+- Participate in an on-call rotation and be available for escalations.
+
+Experience
+Contract Software Engineer at Apple
+March 2017  -  Present  (8 months)
+
+Work as a full-stack engineer within core hardware team to develop in-house application .
+
+Responsible for practicing technical design, developing new functionality and maintaining existing
+ components for the web application developed using Python, Perl, MySQL, Java Script (Jquery)
+
+Conduct design and code reviews, fix bugs, and resolve production issues for the application
+Expertise in SQL, optimized number of existing queries for faster response times
+
+Software Engineer at Taos
+March 2017  -  Present  (8 months)
+
+Sr. Systems Engineer at Stanford Health Care
+January 2014  -  March 2017  (3 years 3 months)
+
+Create service capacity planning models to forecast growth and performance analysis for upcoming
+ fiscal year.
+
+Develop queries, reports, tools and scripts to improve availability and effectively monitor production
+ applications
+
+Sr. Systems Engineer at Sun Life Financial
+April 2011  -  January 2014  (2 years 10 months)
+
+Implemented monitors and alerts to ensure early detection of impacting issues within applications
+ and production environments.
+
+Automated new and existing scripts to help teams achieve 100% automation of daily tasks.
+
+Worked with incident managers to detect service-impacting issues, triage and escalate issues to
+ the respective stakeholders, work with ops to get service restoration and impact containment.
+
+Technical Support Engineer at IBM Global Services
+August 2009  -  March 2011  (1 year 8 months)
+
+Worked as a Linux and MySQL administrator for maintaining customer production environment.
+
+Worked as Lead that was involved with installation, enhancement, and maintenance of client
+ website and back end claims department.
+
+Developed client website using PHP (Drupal Modules), back end web services (ASP.net) and
+ MySQL
+
+Software Engineer at TEKsystems
+April 2008  -  August 2009  (1 year 5 months)
+
+• Development and support of applications client website using Asp.Net and performance tuning of
+ Java claim splitter applications
+• Developed tools and automation that eliminated repetitive tasks
+
+Education
+Stanford University
+Stanford Advanced Project Management, Project Management, 2015 - 2016
+Concordia University
+Masters, Computer Science, 2005 - 2007
+
+Krishma Dutta
+San Francisco Bay Area
+Software Engineer
+
+8 people have recommended Krishma
+
+"Krishma brings about a calm, insightful, and selfless approach to supporting and growing
+business critical IT applications. A phenomenal team player, Krishma brought the right balance of
+enforcing business controls to the work, and ensuring business deliveries take place. Perhaps most
+impressive of all was her focus in times of urgency, and not partaking in the "blame game" when
+many others would give in to the temptation. I'd be delighted to work with Krishma again."
+—Peter Rode, Director of Application Development,  Constellation HomeBuilder Systems,  was
+Krishma's client
+
+"I had a wonderful experience working with Krishma for 1.5 years. She is an exceptional support
+developer with a deep understanding of business processes. She is great at designing creative
+solutions, negotiating and managing expectations. Krishma is extremely capable, responsible
+and has a positive attitude. And I’m always amazed that she is consistently like this. I’ve noticed
+that, because of this and the fact that she is just very good at what she does, Krishma is very well-
+respected and trusted by her business partners, colleagues and team. Krishma also has a talent
+for building strong relationships. People just really enjoy working with her. Krishma is someone you
+want to work with, and I highly recommend her. "
+—Barbara Gentry, Director Operation,  Cigna,  managed Krishma at TEKsystems
+
+"Krishma is a great team player, is not afraid to tackle new types of development problems and
+to date I have not met someone who approaches work with the level of positivity she consistently
+brings. During the 2 years I worked with Krishma she was able to successfully multi-task on a
+number of core responsibilities that spanned multiple technologies and disciplines. She quickly
+became a go-to person for several different roles within the organization including business
+analysts, test lead, software development lead, audit manager and the director of operations.
+Krishma was a vital member of the team and proved to be key to our success!"
+—Raj Kotecha, Sr. Product Manager / Cloud Adoption Strategy,  TD,  managed Krishma at IBM
+Global Services
+
+"Krishma is a real professional who is not only strong technically but always delivers on time. Would
+be happy to work with her again some time in the future."
+—Robert Kellestine, Facility Manager/Project Manager,  Computer Horizons/TEKsystems, 
+managed Krishma indirectly at TEKsystems
+
+"I had the pleasure of working alongside Krishma for over a year. Krishma has a stong grasp
+of our client's business as a 'subject matter expert’ and with high level of commitment, she has
+provided value added service in an efficient and effective manner. Krishma always maintained an
+excellent attitude despite peaking pressures or needing to work long hours. Krishma always put
+100% into every project she completes with utmost integrity and she consistently demonstrates
+strong problem and resolution skills. When the team is under time pressure, Krishma is always
+willing to accept additional responsibilities to assist the team. Krishma is a team player, reliable and
+punctual."
+—Thi Guerrero, General Accountant,  GLH Asset Management Corp,  worked with Krishma at IBM
+Global Services
+
+"Krishma was smart, hard worker, organised, team player, very friendly."
+—Nacer Tagziria, ETL Developer,  Tek Systems,  worked directly with Krishma at TEKsystems
+
+"Krishma is a well organised and detailed oriented analyst. Krishma worked diligently and ensured
+that all of her deliverables were always completed on time. She has a very positive attitude and
+was always willing to accept additional responsibility. It was a pleasure working with Krishma on my
+last project and I have no hesitation in recommending her, as she would be a valuable asset to any
+organisation."
+—Mila Levit, PMP, Functional consultant - Oracle Package Application Services,  IBM Global
+Services,  worked directly with Krishma at IBM Global Services
+
+"During my work with Krishma, she established herself as a solid developer with both technical
+and business knowledge of the company. I should also point out that even in times when she had
+a lot on her plate she would always suggest helping if she saw that there was an opportunity to
+do so even if it was at her own expense. I highly recommend Krishma for any type of software
+development project."
+—Arseny Persik, Owner,  Persik Consulting Inc.,  worked directly with Krishma at IBM Global
+Services
+
+Profile Notes and Activity (1)
+
+10/22/2017—View by Shane Ong
+
+

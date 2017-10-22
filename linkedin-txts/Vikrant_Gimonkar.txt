@@ -1,0 +1,45 @@
+Vikrant Gimonkar
+San Francisco Bay Area
+Software Development Engineer at Anritsu
+
+Experience
+Software Development Engineer at Anritsu
+August 2014  -  Present  (3 years 3 months)
+
+Application Development in C++, Qt , Linux environment. Implementing IEEE 488.2 standard SCPI
+ commands
+Python scripting for automated testing,writing of low level drivers and user level application for
+ embedded Linux kernel
+Knowledge about shell scripts, version control in git, google test framework, java script 
+
+Software Engineering Intern at Intel Corporation
+February 2014  -  May 2014  (4 months)
+
+Worked on Intelligent Text Recognition Software, gained extensive experience in parallel
+ programming in Linux environment using pthreads, open mp and  MPI communication
+
+Computer Engineering Intern at Blue Highway, Inc.
+October 2012  -  December 2013  (1 year 3 months)
+
+Work on board design projects,debug prototypes, work with new wireless communication
+ technologies
+
+Tutor at Syracuse University
+September 2012  -  October 2012  (2 months)
+
+•Taught multiple integrals, partial differential, vectors, calculus to undergraduate students
+
+Education
+Syracuse University
+Master of Science (M.S.), Computer Engineering, 2012 - 2014
+VJTI
+Bachelor of Technology (B.Tech.), Electrical and Electronics Engineering, 2008 - 2012
+
+Vikrant Gimonkar
+San Francisco Bay Area
+Software Development Engineer at Anritsu
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

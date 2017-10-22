@@ -1,0 +1,101 @@
+Santosh Shankar
+San Francisco Bay Area
+Software Engineer
+
+Summary
+Software engineer with avid interests in Algorithms, Natural Language Processing, Web
+ Development, Mobile Application Development, Machine Learning, Product Development and Data
+ Analysis.
+
+I completed my Master's in computer science from University of Southern California. During my
+ study there I was a part of USC ICT working on building robot models mainly for search and rescue
+ operations.
+
+I had a great experience working as an Software intern at Expedia. I worked with the Social team and
+ applied NLP and Machine Learning techniques to make use of User Reviews.
+
+I was a Software Engineer at National Instruments for 2 years with expertise in designing,
+ developing .NET APIs for Hardware Devices in C#. I was also a Technical lead and a Mentor to
+ junior engineers.
+
+Before working at National Instruments I was a research intern at Indian Institute of Sciences and
+ worked at IBM India Software Labs as an intern.
+
+Experience
+Software Engineer at Apple
+February 2015  -  Present  (2 years 9 months)
+
+Artificial Intelligence Student Programmer at USC Institute for Creative Technologies
+August 2014  -  December 2014  (5 months)
+
+Worked on building intelligent robot models using POMDPs which could navigate through a map
+ and assist in search and rescue and rescue operations.
+
+Software Developer Intern at Expedia, Inc.
+May 2014  -  August 2014  (4 months)
+
+- Developed a Ensemble Model for sentiment analysis on the user reviews for Hotels.
+- Developed a Data Visual tool on Qlikview to facilitate business decisions based on the User
+ ratings data for Realtime Flight Reviews.
+
+ - Developed a tool to analyze sentiments and extract keywords and summary of comments for
+ Realtime Flight Review and Hotels Review data.
+
+Software Technical Lead at National Instruments
+March 2013  -  July 2013  (5 months)
+
+Led a team of 3 engineers and accomplished the development of Switch framework from start to
+ finish.
+
+Software Engineer at National Instruments
+July 2011  -  July 2013  (2 years 1 month)
+
+-Architected and developed framework for various devices (Switches, RF Signal Analyzers/
+Generators)
+using Design patterns
+-Researched on optimizations of space and memory usage of these frameworks between interfaces
+ of C#, C and LabVIEW (marshalling).
+-Actively took part in campus requirements to hire entry level positions.
+
+Convener - Student Head - Incident at National Institute of Technology Karnataka, Surathkal
+May 2010  -  May 2011  (1 year 1 month)
+
+-Incident is the annual cultural festival of National Institute of Technology Surathkal. 
+- With a budget of over INR 5000000 (approx USD100000) and with a footfall count of over 20000
+ Incident is one of the biggest cultural festivals in India.
+- As the head of the festival my responsibilities included :
+   - Marketing and Channelizing budget for the festival.
+   - Publicity of the entire event to colleges throughout the country.
+   - Organizing, Planning and Scheduling of over 100 events spread over 5 days.
+   - Managed over 700 student volunteers.
+
+Software Development Intern at IBM India Software Labs
+April 2010  -  July 2010  (4 months)
+
+-Developed a UI tool- SMART(Smart Miscompare Analysis Reporting Tool) which is being used by
+ the Hardware Test team at IBM.
+-SMART is an Intelligent Debugging and Reporting Tool Developed used supervised learning
+ algorithms to detect, analyze and classify bugs on various hardware devices.
+
+Software Engineer Research Intern at Indian Institute of Science
+December 2009  -  January 2010  (2 months)
+
+Classified multidimensional image data by implementing a variation of k-means clustering algorithm
+and analyzed its performance against conventional algorithms
+
+Education
+University of Southern California
+Master of Science (MS), Computer Science, 2013 - 2015
+National Institute of Technology Karnataka
+Bachelor of Technology (BTech), Computer Science, 2007 - 2011
+Activities and Societies:  IEEE, ROBOTICS
+Chetan
+
+Santosh Shankar
+San Francisco Bay Area
+Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

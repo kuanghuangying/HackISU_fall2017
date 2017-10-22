@@ -1,0 +1,97 @@
+Dmytro Kashyn, PhD
+Washington D.C. Metro Area
+Software Engineer at Apple
+
+Summary
+Software Developer and Engineer, currently working as SDET in Big Data environment. I have
+ broad range of experience from numerically modelling electromagnetic systems to cloud computing,
+ analyzing transaction data from US stock markets. 
+I am a big fan lean approach in general and agile methodology in particular, test-drive development,
+ behavior driven development and continuous delivery. 
+Experienced with Java, Scala, C/C++, cloud technologies, Spark, Hadoop, Data bases and Amazon
+ Web Services
+
+Experience
+Software Engineer at Apple
+September 2017  -  Present  (2 months)
+
+Software Development Engineer in Test at Financial Industry Regulatory Authority (FINRA)
+January 2015  -  Present  (2 years 10 months)
+
+Working on Big Data, Cloud platforms that are responsible for collecting,  processing and analyzing
+ the data from received from majority of US stock market participants. These platforms utilize wide
+ range of technologies to ensure that the application is capable of routinely processing, storing and
+ accessing terabytes of data on daily basis.
+As a member of agile team participate in the Agile software development an using the required
+ tools. Including daily Scrum, Spring Planning, Code Reviews, Test Case reviews. Using JIRA,
+ Jenkins and other tools that facilitate agile development.
+
+As member of Agile Team my main responsibility is to ensure the quality of the system by
+ designing, maintaining and extending automated test frameworks. These frameworks are capable
+ of exercising testing of the system components in local mode (for instance, using Local Spark
+ mode, mocking HBase, etc), in cluster mode (using persistent and/or EMR clusters) and using
+ automated Jenkins builds.
+
+The test frameworks covers various components of the system ranging from ETL Hadoop/Spark
+ jobs to Relational and NoSQL databases and communication to remote servers, setting up virtual
+ machines and so on.
+
+Performed analysis of the data to create model that would effectively represent of the behavior of
+ real data
+
+Primary responsibilities include design, creation and expansion of automated frameworks that
+ ensures the quality of various component of the system, including functional test, stress /load tests
+ and testing on the cluster.  Use Java, Scala and various tools, like Cucumber, JUnit to test various
+ components of the system
+Mission critical system
+Use wide range of technologies, 
+Programming Languages: Java, Scala, C++
+Software development tools: Cucumber
+Data Bases: Oracle SQL, Hive, Pig, MySQL, Hbase
+Cloud Technologies: AWS 
+Apache Spark, Apache Hadoop, Cloudera CDH
+Linux/Windows
+
+Graduate Research Assistant at University of Maryland
+February 2009  -  August 2014  (5 years 7 months)
+
+Proposed and developed a stochastic model for electromagnetic radiation propagation in
+ atmosphere
+Devised and practically realized a sophisticated numerical scheme that required application of
+ advanced algorithms and data structures
+Numerically optimized the design of novel microwave device and as a result obtained record output
+ characteristics in subsequent experiments
+Participated in multidisciplinary international projects that required exceptional communication and
+ collaboration skills
+Independently learned Python and developed scripts to interact with an advanced numerical code
+Designed and assembled complex experimental system for acquisition (with C++) and processing
+ (MATLAB and VEE) of large volumes of data from radiation detection experiments
+Published the results in recognized technical journals
+
+Teaching Assistant at University of Akron
+January 2007  -  December 2008  (2 years)
+
+Performed statistical pattern recognition of data obtained from satellite measurements
+Based on developed Monte Carlo code suggested a way to improve the characteristics of polymers
+ used in rubber production
+Participated in testing and debugging of an advanced code for analysis of biological molecules
+Mentored undergraduate students and taught various graduate and undergraduate courses
+
+Education
+University of Maryland College Park
+Doctor of Philosophy (PhD), Electrical and Computer Engineering, 2009 - 2014
+University of Maryland College Park
+Master's Degree, Electrical and Computer Engineering, 2009 - 2014
+The University of Akron
+Master of Science (M.S.), Physics, 2007 - 2008
+National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+Bachelor of Applied Science (B.A.Sc.), Computational and Applied Mathematics, 2002 - 2006
+
+Dmytro Kashyn, PhD
+Washington D.C. Metro Area
+Software Engineer at Apple
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

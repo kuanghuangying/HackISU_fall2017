@@ -1,0 +1,49 @@
+Abhinit Sinha
+San Francisco Bay Area
+Software Engineer
+
+Summary
+I am a graduate student at State University of New York at Buffalo with interests in Software
+ Development, Database Systems and Information Retrieval. I am actively looking for full time
+ opportunities.
+
+I have 4 years of work experience in Oracle PL/SQL, Java/J2EE based products and applications in
+ Retail domain at Amazon and Infosys.
+
+Specialties: Java, Oracle PL/SQL, SQL,Unix Shell Scripting
+
+Experience
+Software Engineer 2 at eBay
+August 2016  -  Present  (1 year 3 months)
+
+Software Engineer at Wayfair
+April 2016  -  July 2016  (4 months)
+
+Involved in development of web based applications for giving customer a better shopping
+ experience with Wayfair. 
+
+Software Development Engineer Intern at Amazon
+May 2015  -  August 2015  (4 months)
+
+Developed Analytics dashboard to validate the  predicted inventory and compare with actual
+ inventory. This automation reduced the manual effort in validating predicted inventory and eased
+ sharing with stakeholders. Developed full stack with Oracle database, backend in java  and front
+ end in HTML/CSS and JQuery.
+
+System Engineer at Infosys Technologies Ltd
+June 2010  -  July 2014  (4 years 2 months)
+
+Education
+University at Buffalo
+Master's Degree, Computer Science, 2014 - 2016
+Jaypee Institute of Information Technology
+Bachelor of Technology (B.Tech.), Electronics and Communication Engineering, 2006 - 2010
+
+Abhinit Sinha
+San Francisco Bay Area
+Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

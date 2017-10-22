@@ -1,0 +1,78 @@
+Tiffany Tung
+Greater Seattle Area
+Software Engineer at Avanade
+
+Summary
+Experienced Software Engineer with a demonstrated history of working in the information technology
+ and services industry. Skilled in Java, JavaScript, JQuery, React JS, HTML/CSS, Node, C#,
+ ASP.NET, SQL,  Teamwork, and Project Management.  Strong engineering professional with a
+ Bachelor of Science (BS) focused in Informatics (a.k.a. Computer Science, Software engineering,
+ Human-computer interaction) from University of Washington, Seattle. 
+
+Experience
+Software Engineer at Avanade
+July 2016  -  Present  (1 year 4 months)
+
+Developing next generation business solutions for key clients in multiple projects:
+- Personal assistant app for Microsoft CEO: responsible for building APIs with C#, ASP.NET to
+ integrate our PowerApp with different technologies including Outlook, Twitter, LinkedIn, and
+ OneNote. 
+- Gamification website product for training internal employees at many different companies: worked
+ on UI and game development using JQuery, HTML/CSS, C# and ASP.NET
+- Website for Modern Muse to empower and connect women in technology: responsible for all front
+ end feature development using ReactJS, Node and Java
+
+Web Development Intern at The Walt Disney Company
+June 2015  -  September 2015  (4 months)
+
+Worked with cross-site disney engineer teams, building next generation Web Ux solutions
+- Helped develop internal SDK for user authentication for all Disney websites using JQuery, HTML/
+CSS
+- Contributed to Disneyland, DisneyWorld and Disney Cruise Line websites with new front end
+ features using JQuery, HTML/CSS, PHP (Zend Framework)
+- Pushed code to production for the Walt Disney World, Disneyland, and Disney Cruise Line official
+ websites.
+- Gained experience with scrum development by working with an agile team. 
+- Gained experience with other rtools, such as Apache2, Grunt, Gulp and Git. 
+
+Lead ETL Engineering Intern at CONNX Solutions
+January 2015  -  March 2015  (3 months)
+
+Worked with CONNX engineers and led 2 other engineering  interns in developing secure, real-time
+ SQL data access and integration.   
+- Led data migration from an old database to the latest MS SQL database
+- Gained experience with prioritizing development tasks, defining specifications and documenting
+ project processes. 
+- Established ETL skills by designing a technical solution related to data access, manipulation and
+ migration.
+- Gained experience with SQL Server 2012, SQL Server 2001, PostgreSQL and CONNX specific
+ software such as DataSync. 
+
+Software Engineering Intern at Intel Corporation
+June 2014  -  September 2014  (4 months)
+
+Worked with senior Intel Lab engineers in developing advanced "IoT (Internet of things)" solutions. 
+  
+- Developed a Proof-of-Concept prototype using Intel Galileo board to create an EKG that detects
+ heart irregularities
+- Developed an Smart Green House application, using Intel Galileo board, to create a self
+ regulating green house
+- Assembled sensors, breadboard, Galileo board and other hardware necessary for the
+ demonstrations. 
+- Gained experience in collecting data and developing algorithms as well as translating that to
+ Intel's own unique coding language. 
+
+Education
+University of Washington
+Bachelor of Science (BS), Informatics (a.k.a. Computer Science, Software engineering, Human-
+computer interaction) , 2012 - 2016
+Sunset High School
+
+Tiffany Tung
+Greater Seattle Area
+Software Engineer at Avanade
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

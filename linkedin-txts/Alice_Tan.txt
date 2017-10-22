@@ -1,0 +1,37 @@
+Alice Tan
+Toronto, Canada Area
+Software Development Engineer at Amazon
+
+Experience
+Software Development Engineer at Amazon
+June 2017  -  Present  (5 months)
+
+Software Developer at Citi
+July 2015  -  May 2017  (1 year 11 months)
+
+Research Assistant at University of Waterloo
+September 2013  -  October 2014  (1 year 2 months)
+
+Implemented numerical algorithms for solving nonlinear Partial Differential Equations: Policy
+ iteration, Gauss-Seidel, Damped Relaxation with MATLAB;
+Analyzed dynamic Bertrand mean field games with exhaustible capacities and modeled it with
+ Hamilton-Jacobi-Bellman equation system;
+Designed a Multigrid method with Full Approximation Scheme to solve HJB equations and
+ improved the convergence rate of solutions
+
+Education
+University of Waterloo
+Master's degree, Computational Mathematics, 2013 - 2014
+Beijing University of Aeronautics & Astronautics
+Master's degree, Electronics and Communications Engineering, 2010 - 2013
+Beijing University of Posts and Telecommunications
+Bachelor's degree, Electrical, Electronics and Communications Engineering, 2006 - 2010
+
+Alice Tan
+Toronto, Canada Area
+Software Development Engineer at Amazon
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

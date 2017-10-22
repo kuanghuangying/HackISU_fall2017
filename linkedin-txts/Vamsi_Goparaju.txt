@@ -1,0 +1,168 @@
+Vamsi Goparaju
+Austin, Texas Area
+Program & Portfolio Manager, Performance Analytics
+
+Summary
+MBA with 8+ years of progressive responsibility in project phases from concept creation to delivery.
+ Proven leader with demonstrated success in Technology Consulting, Project Management, Process
+ Engineering, Analytics, Strategy & Planning, and Client Management. Excellent track record of
+ finding & bridging technology gaps in businesses and effectively executing critical implementations
+ for Fortune 500 companies. 
+
+Specialties: 
+Project Management, Business Development, Process Improvement, Analytics Transformation,
+ Supply Chain Analytics, Strategy and Planning. 
+
+Technology skills 
+Tableau, DataWatch, SAS, PL/SQL, MS Project, SharePoint, Java, J2EE, XML, C/C++, UNIX,
+ Oracle, and SDLC in both Waterfall and Agile Methodologies.
+
+Experience
+Business Intelligence Sr. Advisor (Program/Portfolio Manager) at Dell
+February 2015  -  Present  (2 years 9 months)
+
+Program/Portfolio Mgmt., Strategy & Planning, BI Architecting for Business & Supply Chain
+ Operations’ analytics.
+1.  Analytics portfolio manager: Maintain 14 projects with a group of 10 analysts, for projects
+ ranging from cycle time prediction to order management, using various analytical and machine
+ learning techniques.
+2. Program managed and architected delivery of a fully integrated Inventory, BMS, and Command
+ Center suit, enabling leadership to effectively utilize teams and showcase deliveries (SVP
+ Quarterly Highlight)
+3. Delivered Demand/Supply accountability and governance suite with global adoption, having a
+ direct yearly saving of at least $0.5M (SVP Award)
+4. Program managed delivery of a solution to validate order volumes and part costs outsourced to
+ an external fulfillment center, directly saving at least $300K yearly for Dell
+5. Head Tableau & data governance with a group of 5 local admins, directly saving at least $50K
+ yearly.
+
+6. Align BI to Dell’s Strategy, and plan next fiscal initiatives for BI/IT funding.
+
+Co-Op MBA Intern at Dell
+September 2014  -  December 2014  (4 months)
+
+Business Intelligence Team - Global Sales Operations
+1. Concept creation and Integration of discrete business management systems to create a one stop
+ business management solution. 
+2. Analyzing and mapping current business processes along with standardizing metrics, creating a
+ common ground for predictive and prescriptive analytics. 
+
+Graduate Sr. Advisor MBA Intern at Dell
+June 2014  -  August 2014  (3 months)
+
+End-to-End Customer Experience Dashboard: Coordinating closely with Analytics team, Sales
+ Ops, Directors, and VPs to come up with key deliverables & road map for improving operational
+ efficiency & customer experience across sales. 
+1. Developed a playbook and data map to create an RCA system that can identify systemic
+ problems, bring continues operational improvements, accelerate issue resolution cycle time, and
+ present mitigation plans’ framework.
+2. Created a sales process flow map and standardized KPIs, for EUC and ESG products, helping
+ analytics team gain insights into customer experience metrics & process improvement pain points. 
+3. Designed data models, estimated thresholds, and created control rules to develop an early
+ warning system.
+
+Technology Analyst at Infosys
+June 2012  -  July 2013  (1 year 2 months)
+
+Led product development, implementation, and support tracks as Single Point of Contact for
+ Fortune 500 US Clients.
+1. Prepared road-map and led implementation plan as part of client-side team to successfully
+ launch new banking product for a Fortune 500 bank, providing cutting edge enhancements and
+ extensions to bank’s services. 
+2. Spearheaded a crucial issue resolution activity and resolved more than 30 issues in less than a
+ month, significantly accelerating product delivery time by clearing critical roadblocks. 
+3. Designed Automated-IRS-Tax reporting functionality to help US clients save at least 50% in
+ reporting cost. 
+4. Led team effectively in developing 2 major product modules, saving 25% in time & effort.
+
+Senior Systems Engineer at Infosys
+April 2011  -  May 2012  (1 year 2 months)
+
+Managed direct reportees in various product customizations for Caribbean clients.
+
+1. Managed direct reportees effectively in delivering bank’s overdraft reporting modules, helping
+ client save more than 80% in effort and 70% in cost to quickly identify under-performing and
+ fraudulent overdrafts.  
+2. Trained a batch of 50 employees on various functional & technical concepts, helping build a new
+ product development team with highest quality rating for US market.
+3. Led various action items to closure, anchored client calls, and resolved several crisis situations &
+ showstopping issues, consistently maintaining a strong positive customer feedback and helping the
+ project maintain highest CMMi rating.
+
+Pre-Sales – Developed working concepts for Fortune 500 US clients,
+1.  Designed, developed, and effectively marketed working concepts to automate and achieve a
+ reliable high value SWIFT transaction system for a prospective Fortune 500 US client.
+
+Systems Engineer at Infosys
+January 2009  -  March 2011  (2 years 3 months)
+
+Post-Live customization - Closely working with a Caribbean based banking client across SDLC.
+1. Won highest unit-level award for single-handedly delivering Automatic Clearing House
+ functionality by closely working with a priority client and effectively coordinating across multiple
+ teams, greatly improving bank’s transaction speed & accuracy.
+2. Gathered requirements and developed and documented High & Detailed level designs for
+ customization items, successfully bringing them to client’s sign-off.
+3. Rapidly performed end-end testing of more than 20 modules, and detected several show-
+stopping issues at a precision of $0.001, ensuring bank’s daily ledger accuracy.
+4. Fixed numerous issues raised by testing team, along with documenting and delivering the
+ release, all with highest client satisfaction and no reopening of fixes. 
+
+Post-Live support
+1. Analyzed, simulated and resolved issues at code level or provided temporary workarounds for
+ show stopping issues, working closely with the client.
+
+Project Enablement Program for a leading US Bank
+1. Understood business processes and tools, developed High & Detailed level designs, along with 
+ documenting and presenting the designs for sign-off.
+2. Developed, tested, fixed and released, customized modules.
+
+Software Trainee at Infosys
+June 2008  -  December 2008  (7 months)
+
+1. Achieved a Cumulative GPA of 4.98 out of 5.00 in a 6 month intensive training program on more
+ than 20 software & banking technologies' courses. 
+
+2. Won 2nd prize in a presentation competition, from Infosys Leadership Institute.
+
+Education
+Texas A&M University
+Master of Business Administration (M.B.A.), 2013 - 2015
+Activities and Societies:  MBA Student Ambassador - Hosting prospective & admitted student
+ activities.
+Jawaharlal Nehru Technological University
+Bachelor of Technology (B.Tech.), Electronics and Communications Engineering, 2004 - 2008
+Activities and Societies:  Member of IEEE, JKC, and College-Level Technical Fests Organizing
+ committee.
+Sri Chaitanya Junior College
+Intermediate, MPC, 2002 - 2004
+DAV Public School
+2002
+Activities and Societies:  - Participated in 5 National-Level Competitions.
+
+Vamsi Goparaju
+Austin, Texas Area
+Program & Portfolio Manager, Performance Analytics
+
+2 people have recommended Vamsi
+
+"Vamsi came across as a composed Toastmaster and Technology Analyst who managed to
+balance his designated role at Infosys and Secretary role at Infosys Hyderabad Toastmasters Club
+in a perfect way. As the past President and Area Governor for the club and the corresponding
+Area, I can vouch for his proactive contributions toward the growth of the club. He used to
+actively generate ideas in the Executive Committee meets and work towards achieving them in
+a methodical way. Especially laudable are his skills at chairing special events like contests and
+conferences where he sets a defined plan and rallies the team of volunteers towards the common
+cause. I am sure these skills will bode well for him in his career."
+—Mukesh Maguluri, Manager, FP&A,  Asurion,  managed Vamsi at Infosys
+
+"Having known and worked with Vamsi, I have noticed that he is very keen to learn things and puts
+his best foot forward. His communication is very clear and wants to always see ahead and know
+how his works contributes to the big picture. It has been a pleasure to work with him and wish him
+all the very best for his future endeavors."
+—Shijo T Koshy, Principal Consultant - Commerical banking practice,  Infosys,  managed Vamsi
+indirectly at Infosys
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

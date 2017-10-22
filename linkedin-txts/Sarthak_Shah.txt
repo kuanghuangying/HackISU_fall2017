@@ -1,0 +1,67 @@
+Sarthak Shah
+Sacramento, California Area
+Experienced Software Developer
+
+Summary
+• More than three years of experience in field of software design and development
+• Experienced in various stages of SDLC such as Requirements gathering, Business requirements
+ documentation, design & development and unit testing.
+• Played vital role in enhancements and deployments with hands on experience in Java/J2EE,
+ technologies, Spring, PL/SQL, Web-logic Server, C++, Python, PHP, scala
+•  Quick learner with strong technical, interpersonal and leadership skills
+
+Experience
+Software Engineer at Intel Corporation
+August 2016  -  Present  (1 year 3 months)
+
+- Designing and development of C++ Graphics pipeline to be used in Intel's future chip
+- Implementing validation framework ,  developing simulation Software tool to support RTL
+ validation for 3D Graphics team which is also used for pre-silicon and post silicon driver validation
+ and development
+
+Graphics Software Intern at Intel Corporation
+May 2015  -  January 2016  (9 months)
+
+- Designed and developed C++ pipelines that model 3D/Display/Media technology and new
+ algorithms used in Intel's chips
+- Software design , development and validation of new pipeline features
+
+Software Engineer at Tata Consultancy Services
+July 2012  -  July 2014  (2 years 1 month)
+
+Project Lead for Prisma (Primavera Site Management)
+• Developed web services for GE Oil & Gas that enable end users to automate project activities,
+ resource and task management
+using Java, Spring, SOAP WS, Oracle 10g DB and Primavera API
+• Was awarded Lean Six Sigma to save end user time and cost to business by increasing the code
+ efficiency, saving
+approximately $50k
+• Lead a team of 4 members. Responsibilities include attending business meeting with client to
+ understand the requirements,
+
+train new member in team and time management for deliverables.
+NPI (Development and Integration Project)
+• Techno-Functional Consultant for Primavera, an EPPM (Enterprise Project Portfolio Management)
+• Performed query analysis and optimization on stored procedures to decrease execution time and
+ implemented triggers to
+ensure data integrity.
+• Responsibilities include problem solving, enhancement to business solutions and daily status
+ report to client
+
+Education
+The University of Texas at Dallas
+Master's degree, Computer Science, 2014 - 2016
+Activities and Societies:  UT Dallas Comet Cupboard, UT Dallas Open Source Community, UT Dallas
+ CS Outreach
+Gujarat Technological University
+Bachelor's degree, Electrical, Electronics and Communications Engineering, 2008 - 2012
+Activities and Societies:  Organizing Technical Events, Carrying out Social activities through NGO's
+
+Sarthak Shah
+Sacramento, California Area
+Experienced Software Developer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

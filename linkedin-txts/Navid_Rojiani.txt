@@ -1,0 +1,66 @@
+Navid Rojiani
+Greater Seattle Area
+Software Development Engineer II at Amazon
+
+Experience
+Software Development Engineer II at Amazon
+March 2017  -  Present  (8 months)
+
+I work on the Checkout team, which owns the Amazon.com checkout experience for all platforms
+ (desktop, phone, tablet) and all locales. I contribute to the backend and frontend software,
+ particularly the Checkout API and Java web apps. 
+
+Software Development Engineer at Amazon
+August 2015  -  March 2017  (1 year 8 months)
+
+• Played a key role in building the Amazon Shopping app for Apple TV (released in Dec. 2016) by
+ contributing to both the Checkout REST API and tvOS client app. Worked with both Checkout and
+ ShopTV teams to ensure that the "S-Team Goal" was delivered weeks early despite an aggressive
+ timeline, and that VP/CEO demos were positively received.
+• Worked on a small team designing a REST API for Amazon.com Checkout. My responsibilities
+ included designing API schemas for several of the entities, writing documentation & API contract
+ specifications, & implementing a mock backend for the API to be used for development of the
+ Apple TV client app while the Checkout API was still being developed.
+• Contributed to building the Swift tvOS client app by helping to integrate the Checkout API and
+ implement the functionality for Checkout and other parts of the app.
+• Developed most additional functionality needed to expand the 'Manage Your Payment Methods'
+ and associated pages in the 'Your Account' section of the Amazon.com mobile app (& mobile
+ browser) to Japan, France, & India.
+• Implemented several Checkout-related features for AmazonFresh when it was integrated into the
+ Amazon.com Retail Website for mobile app/browser.
+• Primary developer for Checkout in the new Fire TV Shopping app after its initial launch in the US.
+ During this time we have expanded to Germany & the UK, and partnered with companies to enable
+ "Watch & Shop" Fire TV apps.
+
+Software Development Engineer Intern (SDE Intern) at Amazon
+May 2014  -  August 2014  (4 months)
+
+• Developed the Voice Search feature in the Amazon Shopping app for Android. This included the
+ client code for calling the voice recognition web service (now part of Alexa) in the app,  developing
+ the UX (the UI, animations, and sounds) for the feature in native Android, controlling the search
+ functionality, & handling user input & error. For this feature I worked with the UX team, Project
+
+ Managers, and consulted with a Senior Software Engineer to ensure that the feature met all
+ functional and quality requirements and was delivered on time. The feature is now also used in the
+ Amazon Prime Now app.
+• Created a prototype app for Google Glass for usability testing of Amazon's voice recognition
+ service for the Glass device. Presented the results to researchers & senior engineers.
+• Gained experience in Agile methodologies, git, and software design patterns.
+
+Education
+Virginia Polytechnic Institute and State University
+Bachelor’s Degree, Computer Science, 2012 - 2015
+Activities and Societies:  Computer Science Community Service (CS-Squared), Notetaking Assistant
+ for Students with Disabilities, National Society of Collegiate Scholars
+Virginia Polytechnic Institute and State University
+Bachelor of Science, Psychology, 2005 - 2009
+Activities and Societies:  Psychology Club, Psi Chi, National Society of Collegiate Scholars
+
+Navid Rojiani
+Greater Seattle Area
+Software Development Engineer II at Amazon
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

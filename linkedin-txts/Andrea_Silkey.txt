@@ -1,0 +1,61 @@
+Andrea Silkey
+Greater Seattle Area
+iOS Software Engineer
+
+Summary
+iOS software engineer and Arts/Media/Engineering Masters graduate; working in audiovisual design,
+ human computer interaction, and immersive environments.
+
+Experience
+iOS Software Engineer at Best Buy
+March 2016  -  Present  (1 year 8 months)
+
+Develop and maintain the platform and in-store features of the consumer facing Best Buy app.
+• Convert existing legacy Objective-C code to Swift
+• Write native implementations for features previously presented via UIWebView.
+• Implement “in-store” features in Swift integrating new RESTful APIs
+
+iOS Software Engineer at Walt Disney Parks and Resorts Online
+July 2014  -  March 2016  (1 year 9 months)
+
+Developed world class, high traffic, public-facing mobile applications for Walt Disney Parks.
+ Shipped the Ticket Sales feature in the My Disney Experience app version 2.5 -  3.4. Shipped the
+ Ticket Sales feature in the Disneyland app version 1.0, featured in Apple's "Best New Apps".
+
+iOS Developer at Independent Contractor
+January 2014  -  July 2014  (7 months)
+
+Developed the iOS client for a network-based service using Rails as a backend. Integrated several
+ third-party frameworks including the Facebook SDK for iOS, AFNetworking 2.0, and HockeyApp
+ for crash reporting and test distribution. Network services for the app are accessed via a versioned
+ and protected RESTful API. Notable native iOS frameworks that are being leveraged include
+ AVFoundation and CoreGraphics, along with extensive use of XCTest for unit testing.
+
+Teaching Assistant at Arizona State University (School of Theatre and Film)
+August 2011  -  May 2013  (1 year 10 months)
+
+Sound Designer / Sound Operator for "Rhinoceros" at Scottsdale Community College
+September 2010  -  November 2010  (3 months)
+
+Digital Touch-Up Artist at Lowry Digital
+August 2009  -  January 2010  (6 months)
+
+Education
+CodeFellows - iOS Bootcamp
+iOS Development, 2013 - 2013
+Arizona State University
+Master of Fine Arts (MFA), Interdisciplinary Digital Media / Arts, Media & Engineering, 2010 - 2013
+Activities and Societies:  President of LOrkAS Club at ASU (2011 - 2012), Co-Director & Founding
+ Member of Laptop Orchestra of Arizona State (LOrkAS) (2010 - 2013), Member of the School of Arts,
+ Media + Engineering Student Association (2010 - 2013)
+Arizona State University
+Bachelor of Fine Arts (BFA), Intermedia/Multimedia, 2005
+
+Andrea Silkey
+Greater Seattle Area
+iOS Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

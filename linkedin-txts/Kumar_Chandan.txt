@@ -1,0 +1,142 @@
+Kumar Chandan
+Greater Seattle Area
+Software Development Engineer (Full-stack) at Amazon (Alexa Team)
+
+Summary
+Passionate about connecting like minded friends / individuals with each other, building communities /
+ network of individuals / professionals and entrepreneurs to create opportunities for growth.
+
+I care about Education, Health, Awareness, Equality and promoting Ideas. In my spare time I enjoy
+ reading, dancing (Lindy, Blues, Contact Improv and Fusion), outdoors, playing sports and staying
+ healthy & fit to do it all :)
+
+My GitHub page: https://github.com/chandanRIT which has all my cool projects. 
+
+And if you have any suggestions/ feedback or something you need to say,  I listen : https://sayat.me/
+kumar (it's even anonymous :)
+
+Experience
+Software Development Engineer at Amazon
+June 2016  -  Present  (1 year 5 months)
+
+● Working in the Alexa Skills kit org (https://developer.amazon.com/public/solutions/alexa/alexa-
+skills-kit) 
+● Engineer in the Runtime team that serves millions of customers routing incoming voice requests
+ to appropriate services and relaying the response back. 200 to 400 TPS on an average day.
+● Gathering requirements, design & development of scalable services and fixing bugs in two week
+ sprints.
+● Part of an on-call rotation every few weeks, working on operational maintenance, Tech Debt and
+ customer facing issues and COEs.
+● Technologies: Java, Spring, AWS Lambda,  S3, cloudwatch, DynamoDB, JUnit & Mockito, Git
+ and many Amazon Internal build, deployment and monitoring tools.
+
+PS: I built a cute fun little skill on Alexa called the Parrot... ask me about it ;)
+
+Software Engineer at Oracle
+June 2015  -  May 2016  (1 year)
+
+Engineer in the Scope Management team of the Cloud Project Management software Oracle Prime
+ (Primavera is its predecessor, the desktop application)
+
+● Worked on several client facing Server side features & bugs.
+● Wrote unit tests and integration tests using JUNIT and Mockito and contributed to increase of
+ code coverage from around 40% to 85%.
+● Maintained server/client REST contract and followed Agile methodology.
+● Contributed in content for internal wiki. 
+● Extensively used GIT to work with and maintain various development branches.
+● Tools and Technologies used: Jersey (RESTful enpoints), Spring, Eclipselink (JPA), SQL, GIT,
+ Jackson (JSON serialization and deserialization), JUnit and Mockito, ChromeDevTools, Javascript
+ & Jquery, Ant, Jenkins, Weblogic, JIRA, EclEmma (code coverage) for Eclipse, SmartBear for code
+ review.
+
+Research Assistant & Grader for C++ Course at Rochester Institute of Technology
+September 2014  -  December 2014  (4 months)
+
+● Research Assistant with Prof. Zack Butler, RIT: 
+● Worked on Corobotics project in the CS R&D Lab. 
+● Used the ROS (Robot Operating System) library to develop application on the robot. Enhanced its
+ UI and logging using libraries in Python, C++.
+● Developed and tested the software for the cameras on robot's sides to route and process QR
+ codes.
+●Tested and made minor tweaks to the routing logic which used A* search.
+● A grader for C++ course.
+
+Software Engineer Coop at Intuit
+January 2014  -  April 2014  (4 months)
+
+Worked in the Consumer Financial Services Platform team on EFile Archives using Java, Maven,
+ Splunk, Junit.
+
+Software Engineering Intern at Acquia
+September 2013  -  December 2013  (4 months)
+
+● Worked in the Mollom team (A Content Moderation service on top of Drupal/Joomla/Wordpres
+ blog/site).
+● Developed  a robust  and  flexible  system  to  send  templated and automated
+emails to 1000's of users of Mollom, giving them weekly/monthly stats of moderated content (spam
+ and unwanted content) on their website.
+● Technologies used: JAX-RS (Jersey), JPA (EclipseLink), Velocity Engine, Mandrill (SMTP API),
+ PHP, Twig and Google's Image charts REST api.
+● Also, worked on a mini project to detect correlation between types of spam and types of
+ users,.using Cassandra and in-house map/reduce framework.
+
+Graduate Research Assistant at Rochester Institute of Technology
+
+June 2013  -  August 2013  (3 months)
+
+● Graduate Research Assistant for Prof. Zack Butler, RIT: 
+● Worked on Corobotics project in the CS R&D Lab. 
+● Used the ROS (Robot Operating System) library to develop application on the robot. Enhanced its
+ UI and logging using libraries in Python, C++.
+● Learned about and tested the use of cameras on robot's sides to route and process QR codes.
+●Tested and made minor tweaks to its already developed routing logic which used A* search.
+
+Associate Software Engineer at Net.orange, Inc
+October 2011  -  July 2012  (10 months)
+
+● Associate Developer responsible for Services and UI enhancement of the company's product
+ “cOS” (Clinical Operating System). 
+● Learned about the team's development process while working on frontend and backend services
+ using the following tools and languages: Java, XMLBeans, ColdFusion, HTML, Javascript, SVN,
+ BugZilla, Xpath, Ajax, JSON. 
+● Also worked on improving a Windows widget to monitor stats from a remote server.
+
+Student Developer at NRNB (Google Summer of Code 2011)
+April 2011  -  September 2011  (6 months)
+
+o Designed & developed plugins for PathVisio (an editor for biological pathways).
+o Developed Validator plugin to validate pathways based on rules written in Schematron or Groovy
+ in Summer’11.
+o Technologies used: Java, Swing, Groovy, Saxon, XSLT, XPath. XML, SVN, ANT, Saxon. 
+o Worked on mini-features and patches before the project start.
+o Coauthored a Bioinformatics paper with the mentors in the project about the Validator plugin.  
+
+Mentors: Mr.Augustin Luna and Dr.Martijn P. van Iersel
+
+Junior Game Developer at Gameloft
+October 2010  -  January 2011  (4 months)
+
+● Learned about game development on the J2ME platform.
+● Worked on bug fixes and porting of mobile games on the J2ME platform.
+
+Student Intern at Teleparadigm Networks Ltd
+May 2009  -  July 2009  (3 months)
+
+● Learned about iPhone Applications development using Objective-C. 
+● Worked on development of an app called Surya Namaskar (on AppStore).
+
+Education
+Rochester Institute of Technology
+
+Master's degree, Computer Science, 2012 - 2015
+Keshav Memorial Institute of Technology
+Bachelor of Technology (B.Tech.), Electronics and Communications Engineering, 2007 - 2011
+
+Kumar Chandan
+Greater Seattle Area
+Software Development Engineer (Full-stack) at Amazon (Alexa Team)
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

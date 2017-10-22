@@ -1,0 +1,69 @@
+Shreya Gupta
+Austin, Texas Area
+Software Engineer II at Dell
+
+Experience
+Software Engineer II at Dell
+July 2017  -  Present  (4 months)
+
+Software Engineering Intern at Dell
+June 2016  -  April 2017  (11 months)
+
+1. Led a team of two to Dockerize microservices using Docker Compose to expedite deployment of
+ EdgeX Foundry - an Internet of Things (IoT) framework
+2. Created a web application using a Python Flask backend, MongoDB database, and an Angular.js
+ frontend to allow users to configure Docker Compose files and download them, so that they could
+ customize the IoT framework according to individual needs
+
+Software Engineer Intern at Bentley Systems
+May 2015  -  August 2015  (4 months)
+
+1. Converted a road design parameter calculator from an Excel spreadsheet to an XML file, based
+ on the Bentley Systems schema.
+2. Created a windows form tool in C# to add custom user functionality to the parameter calculation
+ engine.
+
+Research Student Worker at Mississippi State University
+September 2014  -  May 2015  (9 months)
+
+My responsibilities included coming up with a criteria for detecting good hiding spots in a 2-D map
+ of a room, that a robot can use to detect people who might be hiding
+
+Education
+Mississippi State University
+Bachelor of Science (B.S.), Computer Science, 2013 - 2017
+Activities and Societies:  International Student Advisory Board - Treasurer
+
+Shreya Gupta
+Austin, Texas Area
+Software Engineer II at Dell
+
+1 person has recommended Shreya
+
+"I had the pleasure as serving as mentor and manager to Shreya Gupta during her summer
+internship at Dell, Inc. She served as a software engineer in the office of the End User Computing,
+CTO Office. I highly recommend Ms. Gupta as a software engineer with development skills ready
+for the challenges of today’s software development organization. Ms. Gupta’s chief role during
+her internship was to create the backend services to a system responsible for deploying Dell’s IoT
+middleware software via Docker to Dell IoT gateways. In this role, Ms. Gupta was exceptional.
+Already a gifted programmer in Python, C# and other languages, in the matter a few short weeks,
+she learned more about Docker and Docker Compose than I or most of my team had in 6 months.
+She is an extremely quick study. In addition to these skills, she mastered RESTful Web service
+communications, Mongo & NoSQL databases, and Linux shell scripting. In addition, having
+achieved success on her immediate project, Ms. Gupta was assisting another team in a machine
+learning project and equally impressing that project’s manager. Perhaps even more importantly,
+Ms. Gupta is a natural leader with budding skills as designer and architect as well. She effectively
+led her intern project team that completed their project goal three weeks early. On her project,
+she researched alternative approaches, experimented with design options, and was laying out
+architectural direction like someone with ten times the experience. She takes direction extremely
+well, but also seeks to understand the business and the importance of her work as it relates to the
+success of the business. She is well spoken – she was even asked to demonstrate her application
+to the Vice Chairman, Operations & President of Dell – and adjusts well to the organizational culture
+and team dynamics. She was a favorite of many of the mentor managers for her attitude and results
+oriented mind-set. "
+—Jim White, Distinguished Engineer,  Dell EMC,  managed Shreya at Dell
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

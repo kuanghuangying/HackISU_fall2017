@@ -1,0 +1,118 @@
+Bardia Beigi
+San Francisco Bay Area
+Software Development Consultant at Bio1 Systems, LLC and Teaching Assistant at Stanford
+University
+
+Summary
+Computer Science Masters student at Stanford University with interests Computer Vision and
+ Machine Learning. I received my bachelors degree from the University of British Columbia
+ in Engineering Physics (Electrical Option). My bachelors degree provided me with a diverse
+ background, ranging from pure and applied math to applied physics, as well as electrical engineering
+ and computer science.
+
+Read more at bardiabeigi.com
+Twitter: @bardiabeigi
+
+Experience
+Part-Time Software Development Consultant at Bio1 Systems, LLC
+September 2017  -  Present  (2 months)
+
+Development of an efficient, hands-free system for capturing patient data in a critical care
+ environment.
+
+Teaching Assistant at Stanford University
+January 2017  -  Present  (10 months)
+
+CS221: Artificial Intelligence, Autumn 2017
+ME202: Mechaphonics: Smartphone-Enabled Mechatronic Systems, Spring 2017
+PH41: Mechanics, Winter 2017
+
+Perception Software Engineer - Intern at Uber Advanced Technologies Group
+June 2017  -  September 2017  (4 months)
+
+Development of Segmentation and Classification of objects sensed around the autonomous vehicle
+• I improved the pedestrian detection algorithms through measuring the bottlenecks and alleviating
+ them.
+• I improved segmentation and tracking significantly by detecting and removing noisy sensor
+ measurements
+• I developed a test suite to confirm the correctness of the implementations of new features in the
+ machine learning pipeline for pedestrian detection 
+
+Research Assistant at Stanford University
+
+January 2017  -  June 2017  (6 months)
+
+Development of a pain management application to improve the communication of pain between
+ patients and providers using a robotic interface. 
+
+Embedded Software Engineer - Intern at Intel Corporation
+May 2015  -  August 2015  (4 months)
+
+Firmware Development of Solid-State Drives in C/C++ as a member of the Non-Volatile Memory
+ Solutions Group (NSG)
+• Decreased firmware start-up time and improved firmware speed significantly by reducing writing to
+ bottleneck hardware registers by 60%.
+• Diverged critical parts of common code to lead to faster code freezes.
+
+Hardware Engineer - Intern at Broadcom
+May 2014  -  December 2014  (8 months)
+
+Contributing to the development of highly integrated broadband access system-on-chips:
+ Design & verification of Broadcom's integrated circuits in xDSL & set-top boxes
+ Performed regression tests as well as performance tests on PCI Express & memory controller
+ blocks of the state-of-the-art chips
+ Developed an efficient test bench for silicon testing using Visual Basic scripts, as well as a web-
+based GUI using HTML/Javascript to run customized tests
+ Developed automated power measurement tests to run on Silicon
+ Silicon board rework and bring up
+ Developed and maintained C code to get the ARM/MIPS CPU on chip to run regression tests
+
+Firmware Development Engineer - Intern at Avigilon
+January 2013  -  May 2013  (5 months)
+
+Embedded firmware developer for high definition surveillance cameras:
+ Applied advanced C/C++ coding skills to solve challenging problems involving high speed data
+ processing, image acquisition, image analytics, and networking
+ Developed control systems to perform real-time imaging functions such as auto white balance
+ Developed a real-time web-based data logging utility for testing and debugging purposes
+ Improved user interaction with camera through saving and loading user-defined settings
+ Developed comprehensive test benches to verify functionality of code
+ Prepared and presented design decisions using UML diagrams 
+ Contributed to main code base using distributed version control
+ Collaborated with team members through daily scrums, and various informal discussions
+ Maintained and refactored code for readability and reuse
+ Advanced C/C++ programming in a multi-threaded environment, JavaScript/web programming,
+ embedded linux, distributed revision control, testing, and documentation
+
+Summer Student at The University of British Columbia
+
+August 2012  -  September 2012  (2 months)
+
+ Utilized USRP2 radios to measure transfer functions and noise characteristics of in-home
+ PowerLine Communication (PLC) and wireless channels (wideband and continuous wave)
+ Employed Python scripting, MATLAB routines, and Linux shell programming to communicate with
+ USRP2 radios
+
+Summer Student at The University of British Columbia
+June 2012  -  July 2012  (2 months)
+
+ Tested, troubleshot, and built electronic circuits from block diagrams to replace the manufactured
+ electronics in a Scanning Electron Microscope
+ Developed background knowledge by literature study on electron microscopy, vacuum systems,
+ and nano-imaging
+
+Education
+Stanford University
+Master of Science (M.Sc.), Computer Science, 2016 - 2018
+The University of British Columbia / UBC
+Bachelor of Applied Science (B.A.Sc.), Engineering Physics (Electrical Option), 2011 - 2016
+
+Bardia Beigi
+San Francisco Bay Area
+Software Development Consultant at Bio1 Systems, LLC and Teaching Assistant at Stanford
+University
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

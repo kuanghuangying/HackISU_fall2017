@@ -1,0 +1,149 @@
+Ariel Stolerman
+San Francisco Bay Area
+Senior Software Engineer & Technical Lead at Uber
+
+Summary
+I am a software engineer and technical lead in the Detection Platform team (Security Engineering) at
+ Uber in Palo Alto, CA; I also hold a PhD in Computer Science from Drexel University in Philadelphia,
+ PA, where I was part of the Privacy, Security and Automation Lab (PSAL).
+Please visit http://stolerman.net/ for a full list of publications and CV.
+
+Experience
+Senior Software Engineer & Technical Lead at Uber
+February 2017  -  Present  (9 months)
+
+Threat Detection Platform team, Security Engineering: working on Uber's next high scale
+ infrastructure for log collection, contextualization, and intrusion/abuse detection and alerting.
+
+Software Engineer at Uber
+February 2016  -  February 2017  (1 year 1 month)
+
+Privacy Team, Security Engineering
+
+Software Engineer at Google
+December 2014  -  January 2016  (1 year 2 months)
+
+Search Infrastructure team
+
+Senior Applications Engineer at Oracle
+October 2013  -  October 2014  (1 year 1 month)
+
+Application Platform team, Primavera Global Business Unit
+
+Lead Software Engineer at Hermes Consulting Solutions LLC
+September 2012  -  September 2013  (1 year 1 month)
+
+Development of a Java application for a real-time radiation beam allocation decision.
+
+Research Assistant at PSAL at Drexel University
+September 2011  -  September 2013  (2 years 1 month)
+
+Research Assistant at the Privacy, Security and Automation Lab at the Computer Science
+ Department.
+
+Project Software Developer (Internship) at The Wharton School, University of Pennsylvania
+October 2011  -  February 2012  (5 months)
+
+Development of a system framework for communication network graphs analysis.
+
+Product Validation Engineer at Cadence Design Systems
+April 2009  -  August 2011  (2 years 5 months)
+
+Planning and developing verification environments and interfacing virtual electronic systems for
+ testing purposes.
+
+Visual Intelligence Team Leader at Israel Defense Forces
+April 2005  -  February 2007  (1 year 11 months)
+
+Visual Intelligence team leader in a special-forces unit in IDF.
+Work description:
+• Managing a team of 3 NCOs.
+• Leading intell. operations.
+• Consulting high-command positions
+• Building and characterizing the technological basis to support the intell. work.
+
+Education
+Drexel University
+PhD, Computer Science, 2011 - 2015
+Activities and Societies:  Upsilon Pi Epsilon
+Drexel University
+M.S., Computer Science, 2011 - 2013
+Activities and Societies:  Upsilon Pi Epsilon
+Tel Aviv University
+B.Sc., Computer Science, 2007 - 2010
+
+Ariel Stolerman
+San Francisco Bay Area
+Senior Software Engineer & Technical Lead at Uber
+
+6 people have recommended Ariel
+
+"Ariel worked for our company on a year-long consulting project focused on designing a decision
+support system for managing patient treatment capacity at a large hospital. Over the entire
+period of Ariel’s work on this project he consistently exceeded my expectations, demonstrating
+an outstanding combination of intellectual strength and the ability to work hard on any task
+until it is finished. The project required a lot of Java programming and database expertise,
+and Ariel invariably took an active designer position, carefully analyzing the decision support
+algorithms, designing and implementing numerous verification tests. One of his most impressive
+accomplishments was the design and implementation of a solution to a very challenging task of
+codifying, storing and integrating real-time data. In accomplishing this task, Ariel has demonstrated
+true intellectual leadership. While clearly an expert on a number of things in the computer science
+domain, Ariel is also an ideal “generalist”, with an impressive ability to quickly learn and effectively
+use new business analytics tools. I could not hope for a better person to lead this project."
+—Sergei Savin, Associate Professor of Operations and Information Management,  The Wharton
+School,  was Ariel's client
+
+"Ariel is one of the finest developers I had the privilege to work with. He is very creative and can
+always be relied upon to do the job well. During his tenure, he went on to work on several ground
+breaking, crucial features for our product in such a short time. Ariel is a very skillful and dedicated
+developer that sure will be an asset to any organization he is part of. I wish him all the very best in
+his future endeavors."
+—Rengarajan Ramasamy, Software Development Director,  Oracle,  managed Ariel at Oracle
+
+"I worked with Ariel for about a year during which he did a great job in his role. He quickly ramped
+up and completely owned a project of high complexity that required heavy collaboration with
+dozen other engineers on getting it right and deploying it. When faced with technical challenges
+and ambiguities, Ariel took the time to research possible options and pick the right one. It was a
+pleasure working with Ariel and I wish him best for his future roles."
+—Amir Fayazi, Software Engineer,  Google,  worked directly with Ariel at Google
+
+"I worked closely with Ariel on several projects at Uber. His ability to understand and improve on
+complex software designs is fantastic. On our initial project, he added an additional layer of security
+to a tokenization service in golang, a language he hasn't used before. He jumped right in, made the
+necessary changes and coded unit tests extremely quickly. He then took the design documents for
+Uber's account deletion service, significantly enhanced them in several ways, then implemented
+it fully, using several technologies he picked up along the way -- grafana, kafka, nagios and a few
+others. He quickly learned these new systems and adopting them into his workflow. On top of
+that, Ariel has a fantastic personality. He communicates well with key players and has, on a few
+occasions, given me great advice on how to best handle people issues. I would highly recommend
+Ariel to anyone who needs a software architect."
+—Ron Kuris, Security Research and Development - Software Engineer,  Uber,  worked directly with
+Ariel at Uber
+
+"I had the pleasure of having Ariel as a key member of my software development team. Ariel is
+an extremely bright and talented software engineer with extensive knowledge and an admirable
+ability and passion to learn new technologies. He calmly and relentlessly led the team to tackle any
+challenge I imposed and was usually the "go to guy" whenever we hit an obstacle. He is also the
+kind of person that although being a "star" allows other team members to learn and flourish around
+him and contributes to the cohesiveness of the team. I would have Ariel on my team again in a
+heart beat."
+—Amir Kesten, Director - Patient Technologies @ Teva Global Specialty Medicine,  Teva
+Pharmaceuticals,  managed Ariel at Oracle
+
+"I worked with Ariel in the Search Infrastructure team at Google for a little more than year. He was
+part of my team working on Knowledge Engine infrastructure. Within a short period of time, Ariel
+demonstrated strong technical skills, good communication and a strong work ethic. He ramped
+up on the relevant technologies pretty quickly and produced high quality technical work. Some of
+the projects he worked on were of high technical complexity. Ariel worked independently, stayed
+focused as he solved some hard problems, and followed through by making sure his solutions were
+adopted and properly used. While doing so, he also ensured that his solutions had clean and robust
+design. Ariel was somebody I could rely on - if he was given a project, I could be confident that it
+would get done, and done right. Overall, it was a pleasure working with Ariel, and I hope to work
+with him again in the future."
+—Anket Mathur, Product Manager,  Google,  managed Ariel at Google
+
+Profile Notes and Activity (1)
+
+10/22/2017—View by Shane Ong
+
+

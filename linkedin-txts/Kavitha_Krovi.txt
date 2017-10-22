@@ -1,0 +1,239 @@
+Kavitha Krovi
+Greater Los Angeles Area
+Principal - IT Solution Architect at DELL
+
+Summary
+•   Strategic, pioneer Architect, accomplished 19+ years of proven IT consulting track record.
+•   Empowered on creative, modular, agile architectures, enabled architectural directions, vision,
+ roadmaps, solutions, and methodologies enriched with emergent technologies.
+•   Results driven Technical Manager with 12+ years of management experience.
+Delivered high-end technical designs for J2EE, .NET, SAP, SAP HANA, Cloud(AWS, Azure, HCI), Big
+ Data, VMware, Virtualization, Integration, Mobile, and Web platforms
+
+PMP Certified. 
+
+SPECIAL RECOGNITION: 
+Within 3 years of joining SCE, earned Innovation EIMAgine That’s award and CEO highest honors:
+ The Innovation EIMAgine award is for Technology Innovation Novelty Ideas, Creativity, Original
+ Thinking, Outstanding Achievement and Contribution to Southern California Edison Company
+ Values, Goals, Benefit to the Company (ROI) and Competitiveness.
+
+Proficient in delivering Enterprise Architecture road maps and IT strategy.Experienced in Data
+ Modeling and Data Architectures.
+
+Technical Strengths:
+Demonstrated experience with BPM, BRM, BPMN 2.0, ccBPM,  SAP CE, ARIS, and IBM SOA
+ products WSRR, and RAM.
+
+SAP Modules: ECC, CRM, PS, SD, MM, FI, HR, ESA, PLM, Solution Mgr, SRM, MDM, SRM, SCM,
+ EHS, BI/BW & HANA
+
+Integration Architecture, Design and hands on experience using SAP Net-Weaver Process Integration
+ (PI) 7.1, 7.3 & SAP PO 7.31(Process Orchestration), Data Power, SAP DS, MQ, FTP, Web
+ Services. 
+
+Experienced in delivering Integration Architecture using various integration technologies IBM Data
+ Power, MQ, MFT, ETL and supporting technologies (UDDI, WSDL, EDI etc)
+
+Experienced in ASAP, Agile, SDLC and EDLC methodologies.
+
+Experience with Cloud technologies PAAS, SAAS, IAAS and NAAS (AWS, Azure, VMware, SAP,
+ Cloudera, Dell)
+
+Industries: Utilities, Health, Chemical, Manufacturing, Leasing, Automotive, Finance, High-Tech &
+ Sales
+
+Strengths:
+Creativity, Stakeholder engagement, Relationship management, Design Thinking, Critical Thinking
+
+Experience
+Principal Solutions Architect at Dell
+June 2015  -  Present  (2 years 5 months)
+
+Role: Pre-Sales Solution Architect / SAP Database and Technology Solutions Senior Advisor.
+• Generated compelling business strategies/plans in collaboration with key lines of business and
+ pursue innovative opportunities
+• Develop, lead in sourcing, managing and closing new SAP HANA and Cloud business
+ opportunities
+• Contributed to the development and refinement of customer's Cloud strategies
+• Lead business development strategies and business plans globally
+• Met sales revenue targets and maximize deal profitability while maintaining a high level of
+ customer satisfaction
+• Collaborated with executive teams on strategic & operational plans
+
+Lead Enterprise Architect at MassMutual
+April 2015  -  June 2015  (3 months)
+
+As a Kforce EA Contract
+Maintain Technology Planner and Enterprise Reference Architectures (ERA)
+
+Enterprise Solution & Integration Architect at Southern California Edison
+January 2010  -  March 2015  (5 years 3 months)
+
+• Advisory role in the architecture discipline and deliver Solution Architecture, SOA, integration and
+ design solutions for various SCE projects
+• As an Integration Architect, have completely changed the organization's integration approach
+ from point-to-point to SOA. Currently oversee building new integration paradigm $200M+ business
+ transformation initiative.
+• Deliver candidate Architecture roadmap components based upon gaps between the Baseline and
+ Target Application Architectures
+
+• Perform and Lead technology demonstrations/POC on emerging technologies applicable for
+ SCE business deficiencies and deliver complete solution architecture, project plan and cost for
+ improvements. 
+• Lead SAP implementations, integration strategies; Architecture, overseeing SOA implementations,
+ ongoing SOA refinement activities
+• Provide architectural direction to Enterprise Architects, Business Architects and Solution
+ Architects.
+• Develop architectural metrics and reports for the executive team, business and IT management
+• Deliver Business Process Models, Engagement Model, Solution Architecture and
+ Communications Plan.
+• Deliver Reference Architectures, Enterprise Integration Architecture Views,  Integration Standards,
+  Principles, Design Patterns and Best Practices
+• Architect & Lead SAP PI, SAP PO, IBM ESB, IBM DP, SAP FI, HCM, EAM, ECC, SRM, MDG and
+ CRM related projects
+• Deliver Architecture using Teradata’s solutions using Teradata RDBMS, Teradata Financial
+ Management, Teradata Master Data Management and related solutions
+• Solution and Integration Architect for multi-phase projects CMS (Consolidated Mobile Solutions),
+ cGIS (Comprehensive GIS), SAP CRM etc.
+
+Integration & Enterprise Solution Architect at Accenture (General Motors, Dow Chemicals, British
+Petroleum, Luxottica, Allergan, Timken)
+June 2007  -  December 2009  (2 years 7 months)
+
+• Presales experience as a Principal Consultant, preserved technical relationships with all
+ stakeholders and supported sales opportunities. Driven closely with presales technical engineers
+ and deliver solutions for numerous business sectors, technology and security portfolios that meets
+ client's requirement.
+• Coordinates with Principal advisors to understand specific portfolio directions and to ensure that
+ the solution delivered supports the direction for the business capabilities and business outcomes.
+• Deliver candidate Architecture roadmap components based upon gaps between the Baseline and
+ Target Application Architectures
+• Lead and deliver SOA Governance models to end-to-end SOA lifecycle , Governance Structure ,
+ Standards and Policies and Governance Processes 
+• Enterprise Integration Architect, deliver integration architecture and design for client’s 40+ home-
+grown & COTS systems that need integration. A combination of service oriented, event-driven and
+ batch processing integration styles is being used.
+• Deliver detailed technical solution design and development for corporate financial and accounting
+ systems using SAP Finance Module Order2Cash, payments, CS billing, HR, MDM, BI, EAM
+ business processes
+
+• Deliver analytical solutions, business intelligence strategies (SAP BI/BW) and roadmaps to
+ enhance client’s various business processes.
+• Technical Lead: Manage technical teams and project governance processes for large SAP
+ implementations. Lead the requirements against development and maintenance costs in resolving
+ architecture issues. Determine new ways to package existing technologies in order to produce 
+• Educates, plans, coordinates and communicates at multiple levels of management and ensures
+ compliance with client’s governance standards.
+• SAP BASIS Lead: perform OS/DB Migrations, installations, upgrades, administration and
+ maintenance
+
+Lead Integration Architect at Earth Link Ltd
+September 2006  -  June 2007  (10 months)
+
+• Solution and Integration Architecture using SAP's CRM (Customer Relationship Management)
+ solutions.
+• Deliver requisite program documentation including program charters, schedules, requirements
+ documents, specifications, design documents and testing strategies.
+• Deliver CS architecture solutions include compliance, billing, payments, DSM, DR and EE,
+ Marketing, call center and outage programs
+
+SAP XI Technical Lead & XI Basis Admin at Swarovski North America Ltd
+July 2006  -  September 2006  (3 months)
+
+Industry - Manufacturing & Sales
+ Swarovski is a famous crystal manufacturing company, which has manufacturing and retail
+ companies over worldwide and uniting sap and my sap packages to their subsidiaries .
+• Deliver SAP CRM integration architecture & design for interfaces
+• Deliver conceptual architecture, metrics and innovative analytical solutions. 
+• Review new and existing CS programs/projects architecture for compliance with IT standards,
+ policies and architectural plans
+• Lead maintenance tasks troubleshooting and resolving existing performance, production issues
+ with PI
+
+Technical Lead Consultant at Ferrero Polska
+May 2005  -  June 2006  (1 year 2 months)
+
+• Lead periodical assessments of technology portfolio in order to optimize opportunities of replacing,
+ upgrading and sun-setting of legacy applications.
+• Integration solution - SAP R/3 Sales System to OS/390 System.
+• Lead ABAP Implementations includes User-exits, BADI, BTE, SAP script, Smart forms, IDOC,
+ functional modules, RFC and BAPI
+
+Senior Technical Consultant at Master Foods
+October 2004  -  April 2005  (7 months)
+
+• Involve in the migration process and Migrated PI data from XI 2.0 to XI 3.0
+• Deliver candidate IT technology demonstrations, assessments, recommendations for
+ Manufacture, Retail, utility and other business sectors.
+
+Senior Technical Consultant at Sauer-Dan Foss
+March 2004  -  September 2004  (7 months)
+
+• Basis Lead, Installations and SLD configuration. 
+• Developed various SAP XI interface objects using various integration patterns
+
+Software Engineer at ICIC infotect
+August 1993  -  March 2002  (8 years 8 months)
+
+SAP ABAP Lead and developer (Oct’1999-Mar’2002)
+• Lead & Design and develop classical and interactive Report development, Workflows,
+ Enhancements, Dialog Programming, UI development with ALV Grid Controls, Object-Oriented
+ objects. Excellent Skills in Debugging ABAP Objects. 
+Software Engineer (Aug’1993-Aug’1999)
+• Design User screens, executable software code using VB Scripts, Java, Java Struts, VC++, Code
+ backend logic using Oracle SQL scripts for Hospital Management System, Educational and Hostel
+ Maintenance Software systems
+
+Education
+University of California, Irvine
+Project Management Professional Certification (PMP), Project Management Professional Certification
+ (PMP), 2013 - 2014
+Allahabad University
+Master's Degree, Information Technology, 2000 - 2003
+Nagarjuna University
+Bachelor's Degree, Computer Science, 1991 - 1993
+
+Kavitha Krovi
+Greater Los Angeles Area
+Principal - IT Solution Architect at DELL
+
+4 people have recommended Kavitha
+
+"I have known and worked with Kavitha for over 5 years on different engagements during her tenure
+with Southern California Edison. I have been her direct manager since last two year. Kavitha has
+sound knowledge of SAP functional as well as technical areas. She was assigned as an integration
+architect handling back office and energy services functional areas. She applied her technical
+knowledge effectively to design and build services-based integration solutions. She has good
+technical skills in SOA/web Services and SAP PI platform areas. She also led the harvesting and
+registration of services in enterprise services repository and registry. Kavitha always demonstrated
+willingness to take on more responsibilities and learn new technologies. I recommend Kavitha for
+any position or endeavor that she may seek to pursue. "
+—Sanjiv Sehgal, Sr. Manager, Analytics, Information and Integration Architecture,  Southern
+California Edison (SCE),  managed Kavitha at Southern California Edison
+
+"Kavitha was good at managing team with a can do attitude.She is technicaly sound has delivered
+interfaces with high quality. Kiran."
+—Kiran K Kamisetty, Lead Integrations Consultant,  SuccessFactors,  worked directly with Kavitha
+at Accenture (General Motors, Dow Chemicals, British Petroleum, Luxottica, Allergan, Timken)
+
+"Kavitha Krovi is a professionally talented IT Enterprise Solution Architect. Kavitha led all IT
+architecture functions from Business Process to information, technical and solutions. She
+developed IT roadmap designed to respond business strategy, which she articulated the IT
+capabilities required to enable business run smoothly. Kavitha had the opportunity to work with me
+as part of the SAP enterprise analytical and HANA projects at SCE. Kavitha was very effective at
+ensuring the architecture, integration of analytical solutions in an extremely large and complex SCE
+environment."
+—Sarappa Thota, SAP BW HANA Architect,  Southern California Edison (SCE),  worked directly
+with Kavitha at Southern California Edison
+
+"Detailed Oriented, Team Player, Hard Working, and Deligent. Excellent Working Knowledge of
+SAP XI. Great Trouble Shooting Skills."
+
+—Azmat Aziz, Manager Analytics,  Accenture,  managed Kavitha indirectly at Accenture (General
+Motors, Dow Chemicals, British Petroleum, Luxottica, Allergan, Timken)
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

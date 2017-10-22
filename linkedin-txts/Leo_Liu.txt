@@ -1,0 +1,89 @@
+Leo Liu
+San Francisco Bay Area
+Siri Speech Engineer at Apple
+
+Summary
+I am a recent MIT graduate with a Master’s in Computer Science.
+
+I am a full-stack engineer with a ton of systems background. Including my coursework and
+ internships, I have experience in low-level code (OS, databases, distributed systems, improving
+ performance), big data/analytics (Hadoop), and front-end (webapps, UI). My master's research
+ focused on deep neural networks for speech recognition. I am very good at debugging and solving
+ problems.
+
+Experience
+Software Engineer at Apple
+July 2015  -  Present  (2 years 4 months)
+
+Siri Speech Engineer.
+
+Graduate Researcher at MIT Spoken Language Systems
+September 2012  -  May 2015  (2 years 9 months)
+
+* Wrote scripts for building speech recognizers. Built recognizers for Turkish, Pashto, and
+ Cantonese.
+* Investigated the use of low-precision math in deep neural networks for acoustic models. Low-
+precision math is one approach for speeding up DNN training. (Thesis linked below in Publications)
+* Trained DNNs for Dialect and Language Identification using acoustic features.
+* Worked with Kaldi, Theano, CNTK, and LSTM-RNNs.
+
+Software Engineering Intern at Cisco
+June 2014  -  August 2014  (3 months)
+
+* Developed a script/webapp to help engineers spend less time generating stack traces.
+* Wrote a script that reproduces a bug on the router by sending commands over Telnet.
+* Benchmarked in-memory databases on IOS XR operating system.
+* Optimized the download speed of labeled routes on the ASR9K router. Identified the IPC
+ messaging system as a bottleneck and developed a faster replacement.
+
+Software Engineering Intern at Yahoo!
+May 2013  -  August 2013  (4 months)
+
+* Worked on a rate limiter for cloud services (blog post about it linked below). Integrated the rate
+ limiter into a web server.
+* Created a new data model for specifying limits, wrote a C++-to-Perl wrapper, and fixed bugs.
+* Wrote a distributed resource monitor, which could be used to distribute the rate limiting. For
+ scalability, it uses a gossip protocol that arranges nodes in a tree.
+
+Software Engineering Intern at Flickr
+December 2012  -  February 2013  (3 months)
+
+* Wrote a program to upload log files to Hadoop File System. It automatically recovers from
+ crashes.
+* Extended analytics program to track users by 4 new business dimensions.
+
+Software Engineering Intern at Flickr
+June 2012  -  August 2012  (3 months)
+
+* Wrote an algorithm to count Flickr users per hour/day/week/month over rolling periods of time.
+* It also tracks users by 2 business dimensions (user subscription state and request type).
+* Implemented an end-to-end analytics process and a dashboard. Used Pig/Java/PHP/MySQL/
+jQuery.
+* Deployed to a production Hadoop cluster - processes 12 GB/hour in 20 minutes.
+
+Intern at Stanford University
+June 2010  -  August 2011  (1 year 3 months)
+
+* Wrote "XML Log Toolkit", a tool for visualizing, modifying, and filtering log files.
+* Added functions to a PIC programmable board and installed a sensor network of 200 devices.
+
+President and Software Lead at CHS Robotics Club
+2007  -  2011  (4 years)
+
+* Member all 4 years since its founding. Taught programming, fundraised, and recruited.
+* Wrote software for image processing, accelerometer, wheel control, IR receiver, and robot arm.
+
+Education
+Massachusetts Institute of Technology
+Master of Engineering (M.Eng.), Computer Science, 2014 - 2015
+Massachusetts Institute of Technology
+Bachelor of Science (B.S.), Computer Science, 2011 - 2015
+
+Leo Liu
+San Francisco Bay Area
+Siri Speech Engineer at Apple
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

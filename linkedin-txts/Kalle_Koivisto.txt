@@ -1,0 +1,133 @@
+Kalle Koivisto
+Frankfurt Am Main Area, Germany
+Lead Technical Expert at Deutsche Bank
+
+Summary
+Contact me in English or Finnish please.
+
+New technology and information security in many forms are my passions. I consider myself career
+ oriented, an adventurer and a team player.
+
+I accept challenges and adventures - who knows where they will take me.
+
+Specialities: information security, HSMs, digital signing, software engineering
+
+Experience
+Lead Technical Expert at Deutsche Bank
+December 2016  -  Present  (11 months)
+
+Chief Information Security Office (CISO)
+ 
+- System architecture and design
+- Crypto
+- Thales HSM
+- Secure Execution Environment
+- Authentication
+- End-to-end password protection
+- Vormetric DSM / data protection
+- Secure logging
+
+Security SW engineer at Intel Corporation
+March 2014  -  December 2016  (2 years 10 months)
+
+MCG SW Security Research Department. Managing and developing the internal signing
+ infrastructures and services enterprise wide.
+
+- Digital signing
+- PKI
+- Thales HSM
+- OpenSSL
+
+- SW development (C++, C, Qt, Lua, Python, Shell)
+- Authentication & authorization
+
+Security engineer (Internship) at Intel Corporation
+March 2013  -  March 2014  (1 year 1 month)
+
+Worked in the security team of Intel's Mobile and Communications Group (MCG) answering directly
+ to the security champion. The main project during my internship was to design and implement a
+ signing infrastructure for MCG. I also worked closely to security firmware developers and architects
+ and did some tasks related to fw development too.
+
+- Digital signing
+- PKI
+- Thales HSM
+- OpenSSL
+- SW development (C++, C, Qt, Lua, Python, Shell scripting)
+- Code reviews (Klocwork)
+
+Analyst, Customized Software Development and Management at Capgemini
+June 2012  -  July 2012  (2 months)
+
+A short summer job in Customized Software Development and Management team before going to
+ Singapore for exchange studies. I did system maintenance for FRENDS and BizTalk integrations
+ and software testing for a customer-related project.
+
+Analyst, Customized Software Development and Management at Capgemini
+June 2011  -  December 2011  (7 months)
+
+Customized Software Development and Management. Developing and maintaining customer-
+related projects. Took part in a sales project for public sector.
+
+Summer trainee at Capgemini
+June 2010  -  August 2010  (3 months)
+
+Worked in the CSD Research team. Improved and maintained intranet and web portals, created a
+ survey handling and analysis tool with VBA.
+
+IT designer at Fimlab Laboratoriot Oy
+May 2009  -  August 2009  (4 months)
+
+Developed tools for HR and management with VBA and web-based technologies. Wrote
+ specifications for HR and management related systems.
+
+Education
+Tampere University of Technology
+Master of Science, Embedded Systems, 2016
+
+Tampere University of Technology
+Bachelor of Science, Computer science, industrial management, 2014
+Activities and Societies:  The Guild of Electrical Engineering, The Club of Electronic Students in
+ Tampere
+National University of Singapore
+Exchange, Engineering, 2012
+Lempäälä Senior Secondary School
+Matriculation examination, 2007
+
+Kalle Koivisto
+Frankfurt Am Main Area, Germany
+Lead Technical Expert at Deutsche Bank
+
+4 people have recommended Kalle
+
+"Kalle Koivisto has worked as a consultant at Capgemini. He has participated in the customer-
+related services and a sales project. Kalle has maintained succesfully a few java programs. He is a
+reliable. an technically gifted person, who has been able to easily learn new things."
+—Mirja Mäkelä, Järjestelmävastaava,  Suomen tulli – Finnish Customs,  managed Kalle at
+Capgemini
+
+"To whom it may concern Kalle Koivisto came to us as a Werkstudent (working student). He helped
+us due to his good technical experience a lot. He was efficient and worked quite autonomous. He
+was always very polite and integrated himself very fast into our team. We liked to have him with us
+and we wish him good luck for his further life Best regards Marion Kremer"
+—Marion Kremer, Head of APPS Evolve!,  Capgemini,  managed Kalle indirectly at Capgemini
+
+"Kalle has been working as an IT designer in our company. His main tasks have concerned
+the design and building of IT tools to facilitate our HR management routines, such as resource
+planning. Kalle is mathematically talented, logical and innovative. He has remarkable skills as an
+IT designer. Furthermore, he has good social skills and gets along well with his coworkers. I can
+warmly recommend him in similar and even more demanding tasks."
+—Ari Miettinen, CEO,  Fimlab Laboratories Ltd.,  was Kalle's client
+
+"I have worked with Kalle on PKI and code/data signing related projects. Kalle has a good
+knowledge of information security, cryptography and system design work. He assumes
+responsibility independently and does not let facing new things impede him from steering through
+projects, he determinedly finds out what is needed to achieve the desired goals."
+—Rauno Tamminen, Senior IT Security Specialist,  Insta DefSec Oy,  worked directly with Kalle at
+Intel Corporation
+
+Profile Notes and Activity (1)
+
+10/22/2017—View by Shane Ong
+
+

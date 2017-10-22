@@ -1,0 +1,75 @@
+Motonari Ito
+San Francisco Bay Area
+Engineer who likes coding
+
+Summary
+Video
+ - Software media processing pipeline design (VOD and Live)
+ - MPEG-2 TS Multiplexer algorithm and implementation
+ - MPEG/H.264 splicing, verifying, and buffer emulation
+ - Adaptive bit rate streaming (HLS/HDS/MSS)
+
+C++
+- Template, exception, STL, and boost
+- Large scale software design
+- Design Patterns
+
+Windows OS
+- Memory management and threading
+- Advanced debugging
+
+Specialties: Concurrent programming, MPEG-2, H.264, Transport Stream, MP4, Multiplexing, Design
+ Pattern, Advanced Windows Debugging, Media pipeline design, C++.
+
+Experience
+Senior Video Software Engineer at Apple
+April 2014  -  Present  (3 years 7 months)
+
+As a senior video engineer in IMG group, I am working behind AVFoundation and CoreMedia
+ frameworks. 
+
+Senior Software Architect at iStreamPlanet
+May 2012  -  April 2014  (2 years)
+
+I, as the senior software architect in the start up team, designed and developed our first cloud
+ based Live/VOD media transcoding framework.
+
+Senior Staff Engineer at Harmonic Inc.
+August 2007  -  May 2012  (4 years 10 months)
+
+I, as the senior staff engineer in the team, designed and developed the next generation media
+ processing pipeline framework. It featured guaranteed minimal latency, type safe metadata
+ handling, parameter completion, and intelligent automatic graph building through DSL (Domain
+ Specific Language). The framework is now used as the core of various products including
+ ProMedia product series.
+
+I also worked as the technical lead of the team (10 - 15) and have conducted various technical
+ classes and design discussions.
+
+Lead Software Engineer at Rhozet
+August 2004  -  August 2007  (3 years 1 month)
+
+Develop MPEG-2 exporter plug-in for media transcoder and MPEG-2 TS multiplexer. Design the
+ media processing base library. Use advanced Windows debugging skill to solve hard bugs. Team
+ lead from a technical side.
+
+Software Engineer at Canopus Corporation
+August 2001  -  August 2004  (3 years 1 month)
+
+Develop and maintain several media processing plug-in for ProCoder, the desktop media
+ transcoding application.
+
+Education
+Stanford University
+Graduate Non-Degree-Option, Artificial Intelligence, 2016 - 2016
+Kobe University
+BS, Information Science/Studies, 1997 - 2001
+
+Motonari Ito
+San Francisco Bay Area
+Engineer who likes coding
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

@@ -1,0 +1,130 @@
+Aaron Huang
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Summary
+Will code for sushi. 
+
+I like teaching as much as I like learning.
+
+Experience
+Software Engineer at TripAdvisor
+June 2017  -  Present  (5 months)
+
+Application Security | Technology & Infrastracture team.
+
+I fight hackers.
+
+Full Stack Web Developer at Center for Open Research Resources and Equipment, UConn
+August 2016  -  May 2017  (10 months)
+
+http://core.uconn.edu/
+
+- Develop a website with React/Redux front-end and Laravel/MySQL backend
+- Stack: Docker containers for PHP | nginx | elasticsearch | mysql 
+
+Professional Mock Interviewer at Invert a Binary Tree, Inc.
+September 2015  -  May 2017  (1 year 9 months)
+
+I have given over 100 coding mock interviews and helped many computer science majors get jobs.
+
+Teaching Assistant at University of Connecticut
+August 2014  -  May 2017  (2 years 10 months)
+
+As a TA, I...
+- Work with graduate TAs and professors on a professional level
+- Lead weekly problem-solving sessions and exam review sessions for students
+- Assist with laboratory coding sessions
+- Hold office hours
+- Grade coding assignments, proofs, and exams
+- Write automated test suites to multiply the productivity of course staff
+- Have read so much code that I have turned into a human compiler
+
+I have been a TA for the following courses:
+
+(Fall 2017) CSE 4705: Artificial Intelligence
+
+(Fall 2017) CSE 4095: C++ Programming
+
+(Spring 2016) CSE 3500: Algorithms and Complexity
+Focuses on analysis and design techniques of algorithms. Topics include run-time analysis, sorting,
+ graph algorithms, and design techniques such as greedy, divide and conquer, and dynamic
+ programming.
+
+(Spring 2015) CSE 2500: Introduction to Discrete Systems
+A discrete mathematics course (with applications in computer science); mathematically rigorous.
+
+(Spring 2015) CSE 1102: Object-Oriented Programming and Design
+An introductory course to the object oriented programming paradigm; taught in Java.
+
+(Fall 2014, Fall 2015, Fall 2016) CSE 1729: Introduction to Principles of Programming
+An advanced introductory course in the curriculum in that is taught in Scheme (a dialect of Lisp)
+ that focuses mainly on recursion, abstraction, and functional programming.
+
+Application Security Intern at TripAdvisor
+June 2016  -  August 2016  (3 months)
+
+- Full stack development on Apache Tomcat, writing scalable code impacting over 300,000,000
+ users
+- Wrote back end Java code focused on improvements to security, such as authentication,
+ authorization, encryption protocols, and secure cookie management
+- Wrote Python scripts to schedule multi-threaded and parameterized map-reduce jobs using Hive
+ on Hadoop clusters
+- Participated in an intern hackathon and created a deployable proof-of-concept of a feature in the
+ span of 3 days
+- Ate a lot of free delicious food every day
+
+Java Developer Intern at Great Lakes Higher Education Corporation and Affiliates
+May 2015  -  May 2016  (1 year 1 month)
+
+- Developed website using Spring MVC and Java server pages (JSP)
+- Interfaced the Java backend with COBOL stored procedures
+- Extracted test data with SQL
+- Templated emails using Apache VTL
+- Worked extensively with clients, communicating requirements
+
+- Agile development methodology
+- Test-driven development
+
+Library Lead/Shop Trainee at HuskyTech
+August 2015  -  December 2015  (5 months)
+
+- Troubleshoot computer issues during quick supports (walk-in clients)
+- Manage call center technicians at the library location
+- Interact with clients and provide efficient and quality customer service
+- Perform data backups, reformats, manual cleaning on Mac OSX and Windows computers
+- Troubleshoot computers in UNIX environments
+
+Call Center Technician at University of Connecticut
+October 2014  -  August 2015  (11 months)
+
+- Troubleshoot advanced technical issues, both software and hardware, over the phone
+- Technical issues include program installation, computer networking, email set-up, malware and
+ spyware removal, and issues with university-supported services
+
+Call Center Trainee at University of Connecticut
+August 2014  -  October 2014  (3 months)
+
+- Troubleshoot accounts issues over the phone
+- Answer basic technology questions
+- Work with clients in person to troubleshoot computer software issues such as networking and
+ malware
+
+Education
+University of Connecticut
+Bachelor of Science (B.S.), Computer Science and Engineering, 2013 - 2017
+Activities and Societies:  Honors Program, Pratt and Whitney Undergraduate Leadership Teaching
+ and Mentoring Fellows Program, CyberSecurity Club, Association for Computing Machinery, Alpha
+ Lambda Delta, National Society of Collegiate Scholars
+Fairfield College Preparatory High School
+High School Diploma, 2009 - 2013
+Activities and Societies:  Jazzuits, JETS (TEAMS) Engineering Club/Competition, Math Team
+
+Aaron Huang
+Greater Boston Area
+Software Engineer at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

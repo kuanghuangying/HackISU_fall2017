@@ -1,0 +1,67 @@
+Chengxiong Ruan
+Greater Pittsburgh Area
+Software Engineer at TripAdvisor
+
+Experience
+Software Engineer at Oscar Health
+April 2017  -  Present  (7 months)
+
+Working on Provider Data pipeline
+
+Software Engineer at TripAdvisor
+November 2015  -  April 2017  (1 year 6 months)
+
+Worked on TripAdvisor's CoreData Stream Processing Pipeline
+
+Engineer II at Robotics Institute of Carnegie Mellon University
+May 2015  -  April 2016  (1 year)
+
+Worked as the major contributor for the NavCog project, a indoor navigation app in CMU
+ environment. Still keep helping people there.
+
+Research Intern at Intel Corporation
+July 2013  -  December 2013  (6 months)
+
+Worked with researchers on avatar chatting App (named: Pocket Avatars) driven
+by user facial expressions. Developed a method to decrease facial motion retargeting errors.
+We wrote a patent for the method coupled with other parts of the system
+Implemented Constrained Local Model for Facial Landmarks Detection
+
+Research Assistant at Beijing Jiaotong University
+November 2010  -  November 2012  (2 years 1 month)
+
+The main task is to build a Multi-Camera Face Recognition system. The main idea is to capture the
+ most frontal face to improve recognition performance.
+
+Research Intern at Microsoft Research Asia
+August 2011  -  September 2011  (2 months)
+
+Explored some new feature representations for face recognition
+
+Machine Learning Engineer Intern at Easou
+March 2011  -  July 2011  (5 months)
+
+Designed voting classication scheme base on SVM and VIPS-like features to filter out trash
+WAP page with 93.7% accuracy and saved 89.3% server storage space
+
+Machine Learning Engineer Intern at Athen Eye
+November 2009  -  November 2010  (1 year 1 month)
+
+Implemented algorithms for Face Detection, Eye-Location and Face Recognition
+
+Education
+Carnegie Mellon University
+Master's degree, Electrical and Computer Engineering, 2014 - 2015
+Beijing Jiaotong University
+Master of Science (M.S.), Information and Signal Processing, 2009 - 2011
+Beijing Jiaotong University
+Bachelor, Communication Engineering, 2005 - 2009
+
+Chengxiong Ruan
+Greater Pittsburgh Area
+Software Engineer at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

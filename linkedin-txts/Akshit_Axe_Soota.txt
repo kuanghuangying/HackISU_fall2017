@@ -1,0 +1,130 @@
+Akshit (Axe) Soota
+Greater Boston Area
+Computer Science Senior | Programmer | Professional Software Developer
+
+Summary
+◦ Computer Science Senior at Worcester Polytechnic Institute
+◦ Programming Enthusiast and Professional Software Developer
+◦ Data Discoverer, Miner and Visualizer
+◦ Inclusive Knowledge Seeker and Quick Learner
+
+Experience
+Android Architect and Developer at Worcester Polytechnic Institute
+August 2017  -  Present  (3 months)
+
+Computer Science Senior Assistant at Worcester Polytechnic Institute
+August 2015  -  Present  (2 years 3 months)
+
+Computer Science Senior Assistants (SA) are undergraduate Teaching Assistants (TA). Some of
+ my key responsibilities include holding office hours, running lab sessions, grading homeworks,
+ quizzes and exams for a course assigned every term.
+
+Courses:
+CS1101 - Introduction to Program Design - Term A-2015, C-2016
+CS2223 - Algorithms - Term B-2015, Term D-2016
+CS2303 - System Programming Concepts - Term A-2016, A-2017
+CS3733 - Software Engineering - Term B-2016
+
+Software Development Intern at TripAdvisor
+June 2017  -  August 2017  (3 months)
+
+Worked as a Web Developer in the Revenue Optimization Team under the Hotels Pillar on
+ Commerce UI
+• Worked on various Hotel Pages in Java, Dust, Velocity Templates, CSS and JavaScript
+• Developed new features and website improvements for Product Managers to A/B test
+• Refactored existing code-base to improve type-safety, readability, maintainability and scalability
+
+Android Development Co-op at Venmo
+April 2017  -  May 2017  (2 months)
+
+Developer for the Venmo Android application
+
+• Worked with Product Managers to create new user flows for Instant Transfer to eligible Visa and
+ Mastercard Debit Cards using an in-house MVP framework for Android in Java. Also worked with
+ UI designers to fix existing flows in the application
+• Played a crucial role in migrating legacy code to maintainable and testable MVP code
+• Added Service Calls to the native application with Square's Retrofit Library and Java
+• Wrote UI tests in Android Espresso and Presenter Unit Tests using Java and Mockito
+
+Android Development Co-op at PayPal
+January 2017  -  March 2017  (3 months)
+
+Developer for the PayPal Business Android application
+• Worked with UI designers to create new user flows and modify existing ones in the native
+ application using an in-house MVP framework for Android in Java
+• Understood existing PayPal Services to write new native services using Reactive Java
+ Components (RxJava)
+• Fixed bugs and introduced new functionality to back-end PayPal Services for the new user flows
+ in JavaScript (Node.js)
+• Wrote Presenter and Service Unit Tests to verify functionality using Java and Mockito
+
+Product Development Intern at Verizon
+May 2016  -  August 2016  (4 months)
+
+• Developed an ability for home and personal assistants to send messages through Verizon
+ Messages hands-free using Java
++ Understood the process to authenticate a Verizon user's device to Verizon Messages
++ Utilized a Verizon Messages API to dispatch messages
+
+• Designed a web context- and location-aware messaging bot to allow users to get information
+ using natural language using Python, HTML, CSS, jQuery, Flask Framework and deployed on
+ Heroku
++ Used Natural Language Processing Platform to process user's text
++ Allowed the user to search with speech by utilizing WebKit's Speech Recognition Kit
+
+• Developed a REST API to facilitate customer care to troubleshoot issues with Verizon Messages
+ users using Java and Spring MVC Framework
++ Designed REST Controllers on the Spring Framework
++ Retrieved information from various Big Data Platforms including MongoDB, HBase and Redis.
+
+• Presented my work to the senior executives at the end of my internship
+
+Mathematics Peer Learning Assistant at Worcester Polytechnic Institute
+August 2015  -  December 2015  (5 months)
+
+As a Peer Learning Assistant with the Mathematical Sciences Department at Worcester Polytechnic
+ Institute, I act as an undergraduate liaison between the professors and students for various
+ mathematics courses. In this role, I hold weekly help and review sessions to assist students with
+ completing homework assignments and assist professors with grading.
+
+Courses:
+MA1021 - Calculus 1 - Term A-2015
+MA2051 - Differential Equations - Term B-2015
+
+Big Data Analytics Intern - Analyst and Programmer at Findability Sciences
+June 2015  -  August 2015  (3 months)
+
+Worked on a project that analyzes donation data from alumni of various universities. The goal
+ was to help universities to retain donors and monitor donation trends over the years. Using trend
+ analysis, universities could also target non-donor.
+
+• Designed and developed programs on the Big Data Framework using MapReduce and Spark to
+ process donation data on HDFS and generate trend analysis for donors
+• Understood their program design and suggested suitable platform options to facilitate the
+ transformation from a standard database environment to a Big Data Platform
+
+Education
+Worcester Polytechnic Institute
+Bachelor of Science (B.S.), Computer Science, 2014 - 2018
+National Public School
+All India Senior School Certificate Examination, Science, Mathematics, Computers, 2009 - 2014
+Activities and Societies:  Technical Head of School Events President of Cyber Association
+
+Akshit (Axe) Soota
+Greater Boston Area
+Computer Science Senior | Programmer | Professional Software Developer
+
+1 person has recommended Akshit (Axe)
+
+"Akshit worked with us during his summer vacation'15 as intern on big data project developing
+analytical jobs. He is very hard working and passionate, showed great interest and was able
+to grasp very quickly. He has the ability to think as analyst and find the value out of data. He
+developed his first ever map reduce program within a week! His interest in big data technologies
+and Andriod makes him all so different."
+—Sumit Agrawal, Vice President & chief architect,  Findability Sciences,  managed Akshit (Axe) at
+Findability Sciences
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

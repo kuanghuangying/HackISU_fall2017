@@ -1,0 +1,112 @@
+Qingkun Li
+San Francisco Bay Area
+System Software Engineer at Apple
+
+Summary
+★ Passionate about developing software/hardware applications and pushing the performance to
+ extreme by combining both software (algorithm) and hardware (architecture) knowledge.
+
+★ Solid background in Data Structure and Algorithm, and interested in solving algorithmic problems
+ with computer programs.
+
+★ Experience with Object Oriented programming languages such as C++, Python, and Java, lower
+ level programming languages like C and assembly (ARM, x86, MIPS), as well as scripting languages
+ such as Perl, Shell, etc.
+
+★ Experience with Parallel Programming Models and Libraries, such as CUDA, OpenCL, OpenMP
+ and POSIX Threads.
+
+★ Familiar with Kernel, OS, Network, and Hardware Architectures (including CPU, GPU, DSP
+ architectures), with experience of CPU architecture design, embedded hardware & software
+ development, and FPGA design.
+
+Experience
+System Software Engineer at Apple
+February 2015  -  Present  (2 years 9 months)
+
+Somthing related to SoC modeling and kernal, driver, firmware, etc.
+
+Wish I could say more ...
+
+Graduate Research Assistant at University of Illinois at Urbana-Champaign
+August 2012  -  December 2014  (2 years 5 months)
+
+• Explored bio-medical signal (e.g. blood pressure, electrocardiogram) processing algorithms that
+ extract features from the signals to classify healthy and unhealthy conditions.
+
+• Designed and built an application-specific hardware with coarse-grained re-configurable functional
+ units for efficient bio-medical signal processing and fault tolerance.
+
+• Prototyped the hardware on FPGA board using Xilinx ISE and in ASIC simulation with Synopsys
+ Design Compiler, and injected hardware fault in the simulations.
+
+• More details can be found in the PervasiveHealth paper and attached Master Thesis below.
+
+Software Engineering Intern at Qualcomm
+May 2014  -  August 2014  (4 months)
+
+• Implemented Android application on Google Glass, utilizing the camera to classify its surrounding
+ environment (e.g. office, corridor, etc.), and compared with running the same application on phone.
+
+• Profiled sensor applications to identify hotspot functions and commonly used computation kernels.
+
+• Optimized common computations with fixed point arithmetic, algorithm approximation, etc.
+
+Software Engineering Intern at Qualcomm
+May 2013  -  August 2013  (4 months)
+
+• Worked in the Corporate Research and Development (CR&D) department to enable smart phone
+ to be aware of its surrounding environment by utilizing the phone camera.
+
+• Optimized computer vision algorithms in C++ to run on the QDSP6 processor, using fixed point
+ arithmetic, vector operations, loop unrolling, and utilizing the processor's intrinsic instructions and
+ SIMD capability, and so on.
+
+• Obtained speedup of 8.6x and reduced the required memory by 79% on average.
+
+• Implemented and optimized algorithms to detect scene changes and blur images, and wrote
+ Android camera application with JNI interface for demonstration.
+
+Undergraduate Research Assistant at University of Michigan
+January 2012  -  June 2012  (6 months)
+
+• Worked with Professor David Blaauw and Trevor Mudge to study traditional network-on-chip
+ (NoC) topologies and participated in proposing a novel topology.
+
+• Explored different NoC topologies (e.g. mesh, concentrated mesh, flattened butterfly, etc.) for the
+ high-radix switch network, targeting at thousand-core systems.
+
+• Modified gem5 C++ architecture simulator to implement and test the topologies (concentrated
+ mesh, flattened butterfly, our proposed asymmetric high-radix design, etc.). More details can be
+ found in the HPCA paper below.
+
+Undergraduate Lab Assistant at University of Michigan
+
+May 2011  -  May 2012  (1 year 1 month)
+
+• Worked with Professor Valeria Bertacco on the post-silicon verification project by utilizing machine
+ learning technique.
+
+• Applied the machine learning based clustering algorithm to detect both time (at what cycle) and
+ location (on which signals) of the bug's occurrence on the simulated MIPS and OpenSPARC
+ processors with intentionally injected bugs.
+
+• Improved the results by detecting bugs in 50% fewer cycles compared with the previous methods.
+ More details can be found in the DATE paper below.
+
+Education
+University of Illinois at Urbana-Champaign
+Master's Degree, Computer Engineering, 2012 - 2015
+University of Michigan
+Bachelor of Science (BS), Computer Engineering, 2010 - 2012
+Shanghai Jiao Tong University
+Bachelor of Science (BS), Electrical and Computer Engineering, 2008 - 2012
+
+Qingkun Li
+San Francisco Bay Area
+System Software Engineer at Apple
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

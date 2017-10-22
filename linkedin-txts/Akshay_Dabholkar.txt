@@ -1,0 +1,65 @@
+Akshay Dabholkar
+San Francisco Bay Area
+Software Engineer at IBM
+
+Summary
+MS-Computer Engineering graduate from San Jose State University, currently working as a Software
+ Engineer for IBM's dashDB Security.
+
+Skills:
+Programming Languages: C, C++, Python, Perl, Java, SQL, Bash.
+Tools: Eclipse, GIT, Visual Studio, Caffe, Concourse (Continuous Integration).
+Protocols: CAN, UART, SPI, I2C, TCP, UDP, HTTP, HTTPS, DNS, SSL
+Operating System: FreeRTOS, Linux, Windows.
+Other Skills: Open-Cv, Image-processing, Deep-learning.
+
+I always enjoyed working with a team in my professional job as well as academic projects and always
+ tried to tackle problems in an optimistic manner.  
+
+Experience
+Software Engineer at IBM
+July 2017  -  Present  (4 months)
+
+- Working on improving the logging system of the product
+- Integrating Identity and access management system with the product
+
+Software Engineer Intern at IBM
+June 2016  -  July 2017  (1 year 2 months)
+
+Working with Cloud Security Squad.
+• Analyzed and fixed OS health-check issues related to password settings, file permissions, and
+ crontab settings of the production environments by developing Perl scripts
+• Fixed Nessus scan issues related to weak MAC support and known Global Certificate of the
+ production environments by developing Perl scripts
+• Designed and built continuous integration infrastructure by developing Yaml scripts
+• Tested the code changes by adding the test cases using the concourse (continuous integration
+ infrastructure)
+• Documented existing issues, false positive issues, and fixes to fix the issues
+• Made production machine HIPAA compliant by configuring authorized_keys and sshd_config files
+
+Train Operations at Scomi Engineering Mumbai Monorail
+May 2013  -  May 2015  (2 years 1 month)
+
+ Movement of monorail train on mainline and depot area.
+ Preparation of Level 1 maintenance checklist
+ Identifying and troubleshooting the faults onboard and reporting same to Operation Control
+ Centre.
+ Testing and commissioning of new trains on mainline and depot.
+ Level 1 testing of operation for certification of monorail systems for clients.
+ Imparting training to new batches
+. 
+
+Education
+San Jose State University
+Master of Science (M.S.), Computer Engineering, 2015 - 2017
+Mumbai University Mumbai
+Bachelor's degree, Electrical, Electronics and Communications Engineering, 2008 - 2012
+
+Akshay Dabholkar
+San Francisco Bay Area
+Software Engineer at IBM
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

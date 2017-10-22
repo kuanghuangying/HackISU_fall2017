@@ -1,0 +1,46 @@
+Jingcong Wang
+Greater Seattle Area
+Software Development Engineer at Microsoft
+
+Summary
+As a Computer Science grad student at University of Florida and a previous SDE intern at Amazon,
+ I'm actively seeking a full-time position.
+
+Experience
+Software Development Engineer at Microsoft
+July 2017  -  Present  (4 months)
+
+Software Engineer Intern, Transaction Risk Management Systems at Software Development
+Engineer Intern at Amazon
+June 2016  -  August 2016  (3 months)
+
+• Design and implement an approach to calculate vendor coverage metrics
+• Design and create cloud workflow management application to authenticate information from        
+ onboarding sellers by using Amazon Simple Workflow Service
+• Communicate with stakeholders and design vendor coverage table schemas
+• Build AWS data pipeline by using Kinesis Firehose, S3 and Redshift cluster
+• Analyze reports between vendors, build tools to extract key attributes and store generated data 
+ into AWS Redshift cluster table
+
+Network Engineer Intern, Core Network System at ZTE Corporation
+February 2015  -  May 2015  (4 months)
+
+• Design system configuration, direct system installation, define, documenting and enforcing system
+ standards to establish a robust networking environment.
+• Master the fundamentals of Linux scripting language
+• Perform daily maintenance and troubleshooting of Core Network
+• Awarded as Model Trainee
+
+Education
+University of Florida
+Master of Science (MS), Computer Science, 2015 - 2017
+Activities and Societies:  UF Data Science and Informatics.
+
+Jingcong Wang
+Greater Seattle Area
+Software Development Engineer at Microsoft
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

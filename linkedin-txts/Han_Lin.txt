@@ -1,0 +1,52 @@
+Han Lin
+Greater Boston Area
+Software Engineer
+
+Experience
+Software Engineer at TripAdvisor
+December 2015  -  Present  (1 year 11 months)
+
+Developed the back end infrastructure for a high-traffic website. Done full-stack development of
+ a web app used internally to curate data. Created an adapter for third-party API. Performed ETL
+ processes and rudimentary data analyses.
+
+Software Engineer at Cisco
+April 2015  -  August 2015  (5 months)
+
+Designed and implemented an abstraction layer on top of Linux's device mapper as part of a
+ software stack for flash storage. Improved build scripts for a flash storage array system.
+
+Teaching Assistant at Rensselaer Polytechnic Institute
+August 2013  -  June 2014  (11 months)
+
+Worked with professor in teaching Web system development, evaluated students' work, and
+ assisted students in building Web-based software systems.
+
+Union College Summer Research Intern at Union College
+June 2013  -  August 2013  (3 months)
+
+Synthesized novel chemical compounds and performed biological studies on the compounds to test
+ for anti-tumor activities.
+
+Union College Summer Research Intern at Union College
+June 2012  -  August 2012  (3 months)
+
+Synthesized and analyzed aromatic compounds in order to discover the multi-step process toward
+ the total synthesis of hamigeromycin B.
+
+Education
+Rensselaer Polytechnic Institute
+Master of Science (MS), Information Technology, 2013 - 2014
+Activities and Societies:  Gamma Nu Eta
+Union College
+Bachelor of Science (BS), Biochemistry, 2009 - 2013
+Activities and Societies:  Sigma Xi
+
+Han Lin
+Greater Boston Area
+Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

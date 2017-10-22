@@ -1,0 +1,85 @@
+Raghavendra Srinivasan
+San Francisco Bay Area
+Software Engineer at Google
+
+Summary
+Software engineer in the making :)
+
+Experience
+Software Engineer at Google
+July 2015  -  Present  (2 years 4 months)
+
+Teaching Assistant at The University of Texas at Austin
+July 2013  -  May 2015  (1 year 11 months)
+
+Co Founder at Nominate (www.nominateapp.com)
+June 2014  -  April 2015  (11 months)
+
+Responsible for the android client and services.
+
+Software Engineering Intern at TripAdvisor
+May 2014  -  July 2014  (3 months)
+
+Worked on the personalization team. Won the tripadvisor intern hackathon.
+
+Software Engineer at DevFactory
+June 2013  -  August 2013  (3 months)
+
+Developing software and fixing issues with existing software.
+
+Robotics Intern at Indian Institute of Technology, Madras
+November 2012  -  April 2013  (6 months)
+
+Worked at RISE Laboratories, computer science department and developed a web based
+ autonomous mobile robot, that can help as a guide for people who are new to IIT, by taking them
+ around the computer science department. The robot can also be used as a peon to carry things
+ from one place to another.
+
+Programmer at Harvard University
+November 2012  -  February 2013  (4 months)
+
+Developed a web app, that is designed to educate the Harvard and MIT community on single
+ stream recycling on campus, i.e. which waste items should go into recycling, which should go into
+ composting, and which should be thrown in the trash? The app, employing a drag and-drop format,
+ would award scores to players who correctly identified which bin to drag and drop specific waste
+ items into.
+
+Programmer at TECHNIGISTICS LLC, a Minnesota limited liability company
+May 2012  -  June 2012  (2 months)
+
+Developed an application with a GUI in Java. It is a secure die generator that interfaces with
+ another printing software and an ftp server for initial die cuts.
+
+Undergraduate Researcher at CSAIL at Massachusetts Institute of Technology (MIT)
+January 2012  -  June 2012  (6 months)
+
+Research, design and development of a robust scheduling algorithm for synchronization, logical
+ queuing, efficient transition and accomplishment of tasks between multiple KUKA You-­‐bot robots
+ for Autonomous IKEA furniture assembly
+
+Programmer at TD-K A/S
+April 2012  -  May 2012  (2 months)
+
+Developed an application with a GUI in Java. It is a graphic busyindicator, communicating on a
+ socket connection, to a frontend server.
+
+Education
+The University of Texas at Austin
+Master of Science (MS), Computer Software Engineering, 2013 - 2015
+La Trobe University
+Exchange Student, Computer Engineering, 2013 - 2013
+SRM University
+Bachelor's degree, Electrical, Electronics and Communications Engineering, 2009 - 2013
+MIT
+Special Student, Electrical Engineering and Computer Science (Course 6), 2011 - 2012
+Activities and Societies:  CSAIL
+PSBB
+
+Raghavendra Srinivasan
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

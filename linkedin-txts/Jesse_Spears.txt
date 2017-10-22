@@ -1,0 +1,68 @@
+Jesse Spears
+San Francisco Bay Area
+Software Developer
+
+Summary
+I'm a C/C++ programmer with expertise in computer security.  I currently develop high-reliability,
+ multi-threaded native applications in C, x86, ARM, PowerPC, and Python for secure networked
+ services.  I perform reverse engineering, vulnerability analysis, and protocol analysis to develop
+ interoperable applications and add features to unsupported software.  I am experienced in object-
+oriented design, optimization, and software engineering for the enterprise.
+
+Experience
+Software Engineer, Site Reliability Engineering at Uber
+July 2016  -  Present  (1 year 4 months)
+
+Engineering Security (EngSec)
+
+Software Developer at Rackspace, the #1 managed cloud company
+October 2014  -  July 2016  (1 year 10 months)
+Software Developer at Mailgun (Rackspace)
+
+Vulnerability Researcher / Exploit Developer at N/A
+January 2012  -  October 2014  (2 years 10 months)
+
+I developed high-reliability, multi-threaded native applications in C, x86, ARM, PowerPC, and
+ Python for secure networked services. I performed reverse engineering, vulnerability analysis, and
+ protocol analysis to develop interoperable applications and add features to unsupported software.
+
+Software Development Intern at Booz Allen Hamilton
+May 2010  -  August 2011  (1 year 4 months)
+
+I completed a Microsoft Office Add-in in C# .NET to serve as a front-end for validating, fixing, and
+ submitting documents to an application server via SOAP messages.  I also lead a team of interns
+ to create a set of web-scraping plugins for the Maltego open source intelligence platform.  I created
+ an interface for a directed graph to calculate Social Network Analysis metrics for social networks in
+ Python.
+
+Marine Security Guard at U.S. Department of State
+July 2005  -  September 2008  (3 years 3 months)
+
+I controlled access to U.S. Embassy facilities and controlled areas, monitored security alarms
+ and camera equipment, and served as an armed contingency for the defense of the embassy
+ personnel and property.
+
+Test, Measurement, and Diagnostic Equipment Technician at United States Marine Corps
+November 2001  -  July 2005  (3 years 9 months)
+
+I troubleshot and repaired electronic test equipment at the component level using signal, digital
+ logic, and voltage analysis using oscilloscopes, digital logic analyzers, and multimeters.  I also
+ calibrated electronic and mechanical test equipment in accordance with Naval Air calibration
+ procedures.
+
+Education
+University of Maryland College Park
+Bachelor of Science (B.S.), Computer Science, 2008 - 2012
+Activities and Societies:  UMD Cyber Security Club
+University of Maryland College Park
+Bachelor of Science (B.S.), Computer Science
+Activities and Societies:  Computer Security Engineering Club
+
+Jesse Spears
+San Francisco Bay Area
+Software Developer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

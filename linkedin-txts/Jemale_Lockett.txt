@@ -1,0 +1,63 @@
+Jemale Lockett
+Greater Philadelphia Area
+Software Engineer
+
+Experience
+Software Engineer at Intel Corporation
+2015  -  Present  (2 years)
+
+Embedded Software Engineering Intern at Vivint
+June 2014  -  August 2014  (3 months)
+
+Investigated and rapidly prototyped concepts for smart home products.
+Implemented power verification module of panel device using PSoC 5LP.
+
+Product Development Intern at Ford Motor Company
+June 2013  -  August 2013  (3 months)
+
+Investigated the use of multiple Microsoft Kinect units in vehicle seating buck rig for human motion
+ capture.
+
+EE/CS Extern at Aurora Flight Sciences Corporation
+January 2013  -  January 2013
+
+One month internship researching video compression strategies for use in unmanned aircraft, in
+ addition to component testing and verification.
+
+Software Engineering Intern at MITRE
+June 2012  -  August 2012  (3 months)
+
+Developed performance testing system for existing web services based communication system.
+Developed application to report and record instances of downtime of a fielded system.
+
+Intern at Cisco Systems
+June 2011  -  August 2011  (3 months)
+
+Collaborated on a three-member team to develop an Android test application.
+    Developed specific module to produce on screen set-top box diagnostics overlay.
+
+Research Intern at University of Alabama at Birmingham
+June 2009  -  August 2009  (3 months)
+
+Collaborated on two-member team to develop autonomous parking concept
+       using LEGO Robotics.
+     Developed a Bluetooth communications protocol for computer and LEGO NXT robot.
+
+Teaching Assistant June at University of Alabama at Birmingham
+June 2009  -  July 2009  (2 months)
+
+Assisted lecturer during four week long summer camp
+Assisted students with small projects in Java/robotics/graphics
+
+Education
+Massachusetts Institute of Technology (MIT)
+Bachelors of Science, Electrical Engineering; and Computer Science, 2010 - 2014
+
+Jemale Lockett
+Greater Philadelphia Area
+Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

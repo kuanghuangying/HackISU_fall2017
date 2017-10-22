@@ -1,0 +1,88 @@
+Zhong Wang
+San Francisco Bay Area
+Software Engineer at Apple
+
+Summary
+Software Engineer at Apple (Siri). Keen interest in data-intensive systems, including infrastructure
+ and applications
+
+Interested Areas:
+--
+• Distributed data-intensive systems
+• System profiling / optimization
+• Infrastructure and application of Big Data systems
+
+Experience in:
+--
+• petabyte-scale distributed systems, distributed scheduling, high scalability / availability, cluster
+ profiling / optimization
+• open source distributed systems: Hadoop / Yarn, Hive, Pig, HBase, Spark, SparkSQL, Crunch,
+ Cascading, Memcached, etc.
+
+Programming Languages:
+--
+Java, Scala, Python, C/C++, Bash, R
+
+Experience
+Software Engineer at Apple
+June 2015  -  Present  (2 years 5 months)
+
+Siri, Proactive
+--
+- Developed an end-2-end data analytics platform from scratch, including metrics logging API, ETL
+ pipeline (Spark/SparkSQL) and interactive visualization (Zeppelin)
+- Supported data-driven engineering for KPI analytics and A/B testing
+
+Software Engineer - Intern at Hortonworks
+June 2014  -  August 2014  (3 months)
+
+• Contributed to open source projects with columnar storage solutions for Hadoop-based data
+ platforms
+• Developed data serialization protocol to support ORC (optimized row columnar) file format in
+ Apache Crunch and Cascading
+• Applied project pushdown in Cascading and Crunch, optimizing data pipeline performance by up
+ to 8x
+
+Software Engineering Consultant at Unravel Data Systems, Inc.
+January 2013  -  June 2013  (6 months)
+
+• Developed rule-based performance models to optimize Hive / MapReduce jobs on Amazon EC2 /
+ EMR
+• Implemented a query optimizer for Hive SQL, improving Hive performance by up to 3x
+
+Senior Software Engineer at Baidu, Inc.
+December 2009  -  August 2012  (2 years 9 months)
+
+Infrastructure Department
+--
+• Core developer of the distributed task scheduling system to support Baidu's petabyte-scale web
+ indexing and ranking
+• Performed performance profiling and analysis on large-scale distributed systems (3,000+ nodes)
+• Applied optimizations in RPC, compression and distributed cache, improving production cluster
+ efficiency by 30%
+• Designed and developed the cluster profiling data warehouse for Baidu's distributed computing
+ infrastructure
+
+Intern at IBM Research - China
+January 2009  -  September 2009  (9 months)
+
+Information Intelligence and Interaction Department
+--
+• Developed the backend data pipeline for the content recommendation system of IBM BlogCentral
+• Parallelized random decision tree (RDT) algorithm to boost performance in multi-label
+ classification
+
+Education
+Duke University
+Master of Science (M.S.), Computer Science, 2013 - 2015
+Northeastern University (CN)
+Bachelor, Information Security, 2006 - 2010
+
+Zhong Wang
+San Francisco Bay Area
+Software Engineer at Apple
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

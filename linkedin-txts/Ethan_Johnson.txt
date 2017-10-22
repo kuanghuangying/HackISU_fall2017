@@ -1,0 +1,34 @@
+Ethan Johnson
+Rochester, Minnesota Area
+Software Developer at IBM Power Systems
+
+Experience
+Software Developer at IBM Power Systems
+June 2016  -  Present  (1 year 5 months)
+
+Working with development and maintenance of Virtual I/O storage adapters the IBMi server
+ operating system. 
+
+Software Engineer Internship at Garmin International
+May 2015  -  August 2015  (4 months)
+
+I wrote unit tests in C for our software and updated documents as the tests were ran
+
+Development Intern at Bosch Security Systems
+November 2014  -  May 2015  (7 months)
+
+Programming TI DSPs in assembly, debugging assembly software, O-Scope debugging.  
+
+Education
+University of Nebraska-Lincoln
+Bachelor’s Degree, Computer Engineering, 2012 - 2016
+Activities and Societies:  Upsilon Pi Epsilon, National Society of Collegiate Scholars
+
+Ethan Johnson
+Rochester, Minnesota Area
+Software Developer at IBM Power Systems
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

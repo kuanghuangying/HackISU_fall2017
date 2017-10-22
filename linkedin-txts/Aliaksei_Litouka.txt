@@ -1,0 +1,94 @@
+Aliaksei Litouka
+San Francisco Bay Area
+Software Engineer at Facebook
+
+Experience
+Software Engineer at Facebook
+July 2016  -  Present  (1 year 4 months)
+
+Senior Software Engineer at TripAdvisor
+October 2014  -  July 2016  (1 year 10 months)
+
+I was doing a lot of iOS coding and some product management here. Was able to improve overall
+ architecture of the iOS app and to encourage other members of the team to adopt best practices of
+ object-oriented design.
+Key engineering projects (all of them are parts of TripAdvisor iOS app): neighborhoods, travel
+ guides, refactoring of search UI, refactoring of app navigation features, Apple Watch app (for
+ watchOS 1)
+
+Lead software developer at Exadel
+March 2010  -  September 2014  (4 years 7 months)
+
+Design and development of in-house iOS applications and reusable components that perform
+ security-related functions and used in all iOS applications across the enterprise.
+
+Senior software developer at Qulix Systems
+October 2008  -  March 2010  (1 year 6 months)
+
+Development of web applications for Microsoft .NET platform and mobile applications on Apple iOS
+ platform. Assisting other developers in preparation for Microsoft certification exams. Supervising a
+ small team of .NET developers (3 – 4 people).
+
+Software developer at Belhard
+July 2006  -  October 2008  (2 years 4 months)
+
+Development of web applications for Microsoft .NET platform
+
+engineer-programmer at national bank of Belarus
+October 2005  -  July 2006  (10 months)
+
+Development of certification authority software which is used within an enterprise and adheres to
+ their strict security policy.
+
+engineer-programmer at bank technologies center
+April 2003  -  October 2005  (2 years 7 months)
+Development of Windows applications in C++
+
+Education
+Udacity
+Nanodegree, Artificial Intelligence, 2017 - 2017
+Product School
+Product management, 2015 - 2016
+Belarusian State University of Informatics and Radioelectronics
+Equivalent to M.S., Computer Science, 1999 - 2004
+Coursera
+Data science, machine learning
+
+Aliaksei Litouka
+San Francisco Bay Area
+Software Engineer at Facebook
+
+5 people have recommended Aliaksei
+
+"I've worked with Aliaksei more than one year. Actually have learned from him lots of OOP code; he
+gave tons of brilliant hands-on examples for system architecture designing. Aliaksei is a calm and
+goal-oriented team player. It was a pleasure to meet such person on my way."
+—Yury Ramanchuk, Software Engineer,  Google,  worked indirectly for Aliaksei at Exadel
+
+"Aliaksei is a professional developer, have good enough background in different technologies stack
+(.NET, mobile), responsible and oriented on the result, have experience in small and middle teams
+management. And it is very important that people like to work with him."
+—Siarhei Khalipski, Senior Software Engineer,  Ciklum,  worked with Aliaksei at Qulix Systems
+
+"Aleks is very responsible and talented developer. He is capable of solving complex tasks and is
+always ready to help his junior colleagues. I wish I had more of this kind of guys in my team"
+—Yegor Tsynkevich, Creative Director/Founder,  415Agency,  worked directly with Aliaksei at
+national bank of Belarus
+
+"I have worked directly with Aliaksei for several projects on our iPhone and iPad apps during our
+time on the Mobile Experience team, and two things stand out to me. First, he is a great engineer
+who is well respected among his peers. Second, he works well with product managers due to being
+clear and concise with his communications. He pays attention to the smallest details, works hard
+to accomplish his tasks, and is extremely dependable. In addition, he has a great product sense
+and a strong passion for it. In summary, he is a great engineer to work with who also has an eye for
+product, and I would not hesitate to work with him again."
+—Sam Sung, Senior Product Manager,  Confirm.io,  worked directly with Aliaksei at TripAdvisor
+
+"Aliaksei is very professional and attentive to details, he knows how to get thing done and he's just
+a nice person to work with"
+—Dmitry Malankov,  worked directly with Aliaksei at Qulix Systems
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

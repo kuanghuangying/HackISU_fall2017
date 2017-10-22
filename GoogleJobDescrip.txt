@@ -1,0 +1,22 @@
+Responsibilities
+Specific responsibilities vary by project area. General responsibilities include:
+
+Develop scripts to automate routine tasks while also reading and reviewing others’ code to provide feedback.
+Analyze information and evaluate results to choose the best solution to effectively solve problems.
+Mitigate reliability failures in a component or system.
+Create and support a productive and innovative team. This includes working with peers, managers, and teams.
+Take on tasks as requested, following through to completion despite roadblocks or distractions.
+Qualifications
+Minimum qualifications:
+BA/BS degree in Computer Science or related technical field, or equivalent practical experience.
+Experience in writing code fixes and tools to solve problems in C, C++, C#, Java, JavaScript, Go or Python (e.g., removing duplicate elements from a list) and experience in optimizing code for stability, functionality and scalability (e.g., crawling, search, troubleshooting).
+Experience or previous project assignments with Data Structures and Algorithms (i.e. selecting and implementing an algorithm, using data structures to solve a problem.) Experience creating algorithms that improve a product’s capabilities, speed, efficiency, or reliability.
+Experience with data structures, branching, function-calls, and conditionals as well as debugging code and submitting the appropriate fix.
+
+Preferred qualifications:
+Graduating from a BS/MS program in Spring/Summer 2018.
+Previous tech internships or relevant work experience programming in C, C++, C#, Java, JavaScript, Go or Python.
+Experience developing thorough testing solutions across testing layers (e.g., unit, functional, integration, stress testing) for your code, using one or more of the following: C, C++, C#, Java, JavaScript, Go, or Python.
+Demonstrated experience programming in 2 or more of the above languages: C, C++, C#, Java, JavaScript, Go or Python.
+Experience manipulating code to improve system availability and latency; Experience with improving inventing or proving the value of new algorithms that improve a product's capabilities, speed, efficiency and reliability.
+Skill in isolating problems to a database subsystem.

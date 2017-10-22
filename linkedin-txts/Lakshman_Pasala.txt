@@ -1,0 +1,116 @@
+Lakshman Pasala
+Portland, Oregon Area
+Software Engineer at Intel Corporation
+
+Summary
+3+ years of experience in the field of Embedded Firmware and Software Design & Development
+
+Familiar with NFC design or system level experience including Tag, P2P, and Card Emulation (Host
+ and Secure Element based CE)
+
+Familiar with all major NFC standards and protocols including ISO14443A/B, ISO15693, ISO18092,
+ FeliCa and NFC Forum
+
+Designed and developed Near Field Communication (NFC) controller firmware (based on ARM
+ Cortex M0) for Samsung’s flagship mobiles (Note 4 and Galaxy S5-mini)
+
+Collaborated with Korean (HQ) counterpart in resolving issues raised during EMV, GCF and NFC
+ Forum certification process
+
+Interfaced NFC controller firmware with Android middleware (Jelly Bean and KitKat) and verified poll
+ and listen mode functionalities
+
+Designed and implemented control interface module as per NFC Control Interface (NCI) specification,
+ supports multi execution environments on UICC (SIM) and embedded Secure Element (eSE)
+
+Implemented NFC Digital Protocol (Protocol module) technical specifications (derived from ISO/IEC
+ 14443 and ISO/IEC 18092 standards) and NFC Activity (Discovery module) technical specifications
+
+Developed a PC based test tool using Dual-I reader for testing NFC Forum requirement, which helped
+ to reduce the testing time by 10 times , for which I was awarded Samsung Spot Award
+
+Developed several Android applications for demonstrating features of NFC
+
+Experience
+Software Engineer at Intel Corporation
+July 2016  -  Present  (1 year 4 months)
+
+Graduate Teaching Assistant at Purdue University
+January 2016  -  May 2016  (5 months)
+
+Operating Systems Engineering (ECE469)
+
+Graduate Research Assistant at Purdue University
+January 2015  -  December 2015  (1 year)
+
+Lead Engineer at Samsung Electronics
+March 2013  -  July 2014  (1 year 5 months)
+
+Senior Software Engineer at Samsung Electronics
+March 2012  -  February 2013  (1 year)
+
+Software Engineer at Samsung Electronics
+August 2010  -  February 2012  (1 year 7 months)
+
+Intern at Broadcom India Pvt. Ltd., Bangalore
+January 2010  -  June 2010  (6 months)
+
+Title: "Filter Applications for DSP and Code Optimization."
+
+Details: 
+Optimized assembly level code (various audio filter used in Direct-To-Home (DTH) applications) on
+ superscalar DSP core to achieve low execution time
+
+Performed optimization using Software pipelining, Loop unrolling and Instruction reordering
+ techniques
+
+Achieved 60 to 85 percent reduction in execution time in comparison with baseline code in C
+ language
+
+Intern at Central Electronics Engineering Research Institute
+May 2008  -  July 2008  (3 months)
+
+Title: "Development of Image Segmentation Algorithm for Steel Surface Defects."
+
+Details:
+Proposed an algorithm to identify and analyze steel surface defects during manufacturing process
+
+Prototyped the algorithm in MATLAB and migrated to C using Matrox Imaging Library (MIL)
+
+Education
+Purdue University
+
+Master’s Degree, Computer Engineering, 2014 - 2016
+Birla Institute of Technology and Science
+Bachelor’s Degree, Electrical and Electronics, 2006 - 2010
+St. Mary's High School, Bhimavaram
+1992 - 2003
+
+Lakshman Pasala
+Portland, Oregon Area
+Software Engineer at Intel Corporation
+
+2 people have recommended Lakshman
+
+"Lakshman and I worked together for about 3 years; in those years I have seen him that he is a
+very calm and composed person with strong technical knowledge. He used to stretch beyond his
+limit and proactively takes different tasks which are both critical and difficult for the team’s growth.
+Organization valued his contributions and commitments by honoring him with Best Employee
+awards and spot awards. When he left the company for his higher studies, he literally created a
+vacuum in our team which we took couple of months to fill. I really enjoyed working with him, and I
+feel person like him is a real asset to any organization. I wish all the best for his studies and future
+career. "
+—Junaid Moh'd, Architect,  NXP Semiconductors,  managed Lakshman indirectly at Samsung
+Electronics
+
+"Lakshman was one of the founding members of NFC team, also the youngest member of the
+team. Largely because of his contributions in designing and developing NCI module, the team got
+its first commercial success. A no-nonsense candidate, to the point and highly talented, Lakshman
+will be an asset to any organization."
+—Lakshmi prasanna, Technical Lead,  Samsung Research India Bangalore,  worked directly with
+Lakshman at Samsung Electronics
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

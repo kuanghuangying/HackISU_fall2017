@@ -1,0 +1,69 @@
+Gaston Agustin Lucero Berrini
+Argentina
+Software and Web Developer en McAfee
+
+Summary
+I consider myself a responsible, hardworking and proactive person, I like to acquire new skills, accept
+ challenges and grow professionally.
+
+Experience
+Software and Web Developer at McAfee
+September 2016  -  Present  (1 year 2 months)
+
+• I supported the development team adding unit test and fixing
+bugs to ePO java extensions.
+• I worked as full stack main developer in a notification service
+for ePO cloud through REST API implemented in javascript over
+nodeJS, with Redis as storage, and a web interface using angular.
+
+Software Intern at Intel Corporation
+March 2015  -  September 2016  (1 year 7 months)
+
+• I implemented a configurable rest API automatic tests based on
+its definition using Python and Behave.
+• I developed a web user interface to configure and exercise an Intel
+IoT simulated device using Python and HTML5 with Bootstrap, I
+also worked on the deployment of the tool using AWS services
+and Docker containers.
+• I designed and implemented an Intel IoT starter kit web management
+tool in Python and HTML5 to install, configure and monitor
+applications, and provide a web interface to interact with those.
+
+Secretary at Succeso Financiero
+July 2013  -  July 2015  (2 years 1 month)
+
+Provide financial counseling to clients, management and sale of terrains and properties.
+Administration and payment of taxes.
+
+Manager at ROSH
+April 2011  -  May 2013  (2 years 2 months)
+
+Control the stock of the articles for sale, enter to the stock the purchased merchandise,
+administration and distribution of employee schedules, administration and payment of
+
+taxes, cashier.
+
+Lift Operator at Hunter Mountain Ski Bowl, Inc.
+December 2011  -  March 2012  (4 months)
+
+Check that the lift operate properly, control the operation of the lift, give advices and
+assistance to users of the lift.
+
+IT PC Service at Reed Computers
+July 2009  -  July 2010  (1 year 1 month)
+
+Diagnose and repair failures of hardware and/or software of the client computers. Sale
+of computer items.
+
+Education
+Universidad Nacional de Córdoba
+Engineering Degree, Computer Engineer, 2010 - 2016
+
+Gaston Agustin Lucero Berrini
+Argentina
+Software and Web Developer en McAfee
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

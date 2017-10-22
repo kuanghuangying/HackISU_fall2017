@@ -1,0 +1,66 @@
+Xianglong Kong
+San Francisco Bay Area
+iOS Software Engineer
+
+Summary
+Application development using Objective-C, swift and Java. 
+4+ years development experience as iOS developer and software engineer.
+Passionate and innovative programmer.
+Self-motivated, open-minded, humble and reliable team-player. 
+Enjoy writing clean code.
+
+For more information, please contact me free: daniel.kong6@gmail.com
+
+Experience
+Mobile Software Engineer III at Workday
+May 2015  -  Present  (2 years 6 months)
+
+Did fancy work.  ☁
+Solid understanding of the full mobile application development life cycle.
+Representation HR, Payroll & HCM in Swift & objective-C world.
+
+iOS Software Engineer at BroadVision
+August 2013  -  May 2015  (1 year 10 months)
+
+Developed and tested iOS real-time enterprise social network framework.
+Experienced with UIKit, Core Animation, GCD, Auto Layout, iOS memory management and cocoa
+ pods.
+Solid familiarity with the tools of the trade: Xcode, Instruments, etc.
+Familiar with deploying applications using 1st, 3rd party methods.
+Efficient storage of large scale data storage.
+Built multiple reusable iOS library modules for company’s app on iPhone and iPad.
+
+Software Engineer at TripAdvisor | SmarterTravel
+January 2013  -  May 2013  (5 months)
+
+Web-develop for the sites www.sniqueaway.com and www.tingo.com.
+Web Service(REST).
+Built and updated multi-tier architecture, Presentation tier, Application tier (business logic, logic tier,
+ data access tier), and Data tier.
+Worked with revision control systems(SVN).
+
+Debuged front-end side with jQuery, javascript, CSS, HTML, backbone.js and PHP.
+
+Software Engineering/Intern at China Telecom Global
+February 2010  -  May 2010  (4 months)
+
+Developed and Tested mobile application development on mobile platform.
+Assisted Service Department solving clients’ questions.
+
+Education
+Udacity
+Nano-degree, iOS Development, 2016
+University of Massachusetts, Amherst
+Master's, Computer Engineering, 2010 - 2013
+Dalian Maritime University
+Bachelor's degree, Computer Engineering
+Activities and Societies:  Student Union in ECE Department
+
+Xianglong Kong
+San Francisco Bay Area
+iOS Software Engineer
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

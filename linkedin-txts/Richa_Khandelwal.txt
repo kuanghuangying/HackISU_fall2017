@@ -1,0 +1,81 @@
+Richa Khandelwal
+Mumbai Area, India
+Software Developer at Indus OS
+
+Summary
+Experienced Software Engineer with a demonstrated history of working in the computer software
+ industry. Skilled in Python, Spring Framework, Eclipse, Core Java, and Java. Strong engineering
+ professional with a Master of Science (M.Sc.) focused in Information Technology from Birla Institute
+ of Technology and Science, Pilani. 
+
+Experience
+Software Developer at Indus OS
+June 2016  -  Present  (1 year 5 months)
+
+I am responsible for translating business requirements into code. My work includes working closely
+ with product and tech leads. Being in a start up provides me hands on experience in different
+ layers of the stack. My projects are listed below:
+
+- APEX 
+Global contact list for nearby services based on geolocation. Integrated with 3rd party data
+ providers to provide data in varied format. Runs an ETL pipeline to store data in a standard format
+ and serve data to clients based on their geo location.  
+Stack: Play Framework, Java 8, Mongodb, Shell and Python Scripting, Grafana, Jolt
+
+- Mobile Balance Analytics 
+Utilizes operator’s (Airtel, Idea etc.) USSD codes to analyze user expenditure, alerts them on low
+ balance. It also provides one click recharge facility right from the dialer app. Also accepts user
+ events about their activity. 
+Stack : AWS Firehose, Kinesis, Java 8, Redshift, S3
+
+- Messaging BOTS
+Created BOTS to handle user interaction directly from messaging app. A user can book a cab /
+ movie, order food, subscribe to Jokes / NEWS / Horoscopes etc. The entire system is completely
+ asynchronous and is designed using akka’s actor framework.
+Stack : Akka, Jolt, Play, Mongodb
+
+- IP Messaging
+
+Backend infrastructure for sending free SMS to registered users on Indus mobile. The message are
+ sent even when users are not connected to internet. The messages are stored in an intermediate
+ storage and are pushed to the recipients over websockets. 
+Stack : websockets, redis, SQS, Akka
+
+- ETL Pipeline
+Extracts data from various data sources (mongodb, log files, dynamodb, mysql, s3), transforms
+ it and loads it in Redshift for running Aggregation queries. The raw data is then unloaded from
+ redshift and stored in data lakes (glacier).
+
+- Mobile Analytics
+Used AWS mobile analytics SDK to capture various events from devices. SDK bundles the
+ captured events and sends it to server. An ETL pipeline loads data from console to redshift. 
+Stack :   AWS mobile Analytics, Redshift
+
+Software Development Intern at Amazon
+July 2015  -  December 2015  (6 months)
+
+Worked on a database migration project from SQL to NoSQL. Project involved various challenges
+ related to suitable design in terms of latency, redundancy and scalability to accommodate bulk
+ use-cases. Worked closely with DynamoDB and DAO architecture. 
+
+Web Application Development Intern at GRASIM INDUSTRIES LIMITED
+May 2014  -  July 2014  (3 months)
+
+Developed a Web Application using ASP .NET Framework to manage and analyse the population
+ database. The data stored is used for future predictions and for upgrading or implementing
+ necessities such as health care, education etc based on gender ratio, mortality rate, life
+ expectancy etc. 
+This was developed using C#, HTML markup in Visual Studio and Microsoft SQL Server.
+
+Education
+Birla Institute of Technology and Science, Pilani
+Master of Science (M.Sc.), Information Technology, 2012 - 2016
+
+Richa Khandelwal
+Mumbai Area, India
+Software Developer at Indus OS
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

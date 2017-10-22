@@ -1,0 +1,66 @@
+Reena Thakre
+Gothenburg, Sweden
+Looking for the Salesforce opportunity in Gothenburg, Sweden
+
+Summary
+I am a Software Engineer and working as a Software Developer on Salesforce.com CRM platform.
+
+Experience
+Senior Software Engineer at IBM
+April 2017  -  Present  (7 months)
+
+Worked for Consumer's Product related project.
+• Developed Visual force pages, controller extensions, Apex classes, triggers, test methods, custom
+ Controllers and Batch apex for different functional needs and implemented the business logic
+ based on the requirements.
+• Configuration changes such as creating custom objects, workflow rules and defined related tasks,
+ Time triggered tasks, Email services, Email alerts, email templates and inbound emails.
+• Created Process Builder, Reports and Rest API based Web Services.
+• Involved in Analysis, design, development, testing of solutions for new implementations.
+• Responsible for requirement gathering and module implementations.
+• Experience in salesforce Lightening for converting visual force pages to lightening view.
+
+Software Developer at Cognizant
+July 2016  -  March 2017  (9 months)
+
+Worked for Sales project.
+
+• Involved in Analysis, design, development, testing and implementation of CRM solutions for new
+ implementations and upgrades.
+• Involved in data Migration from one org to other org by writing the scripts.
+• Involved in writing various User stories by understanding the requirements.
+• Develop Visual force pages, controller extensions, Apex classes, triggers, test methods, custom
+ Controllers and Batch apex for different functional needs and implemented the business logic
+ based on the requirements
+• Analyzing the requirements and converting business needs to technical development.
+
+Software Engineer Analyst at Accenture
+May 2013  -  June 2016  (3 years 2 months)
+
+Project: Project for Pharmaceutical Client on Veeva Platform (Salesforce based CRM) and Sales
+ Project for Accenture.
+
+• Worked in Agile Development.
+• Worked on the deployment related activities via change sets and workbench.
+• Lead the Data Management team by providing guidance to other team mates.
+• Preparation of Technical Specification Document.             
+• Testing in different phases, UAT with end Users, Preparing Test Scripts.
+• Created custom report types and generated report using the report types for Standard and custom
+ objects and associated them to Dashboard.
+• Analyzed and Created Custom Profiles as required for the business needs and implemented
+ Object level, Field level and Record level security.
+
+Education
+Devi Ahilya Vishwavidyalaya
+Bachelor of Engineering (BEng), Information Technology, 2009 - 2013
+BCM School
+Higher Secondary School, 2008 - 2009
+
+Reena Thakre
+Gothenburg, Sweden
+Looking for the Salesforce opportunity in Gothenburg, Sweden
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

@@ -1,0 +1,88 @@
+Harsh Jain
+Greater Los Angeles Area
+Software Engineer at TripAdvisor
+
+Summary
+I am passionate about creating and building things which impact millions of people.
+
+Experience
+Software Engineer at TripAdvisor
+April 2016  -  Present  (1 year 7 months)
+
+Working as a full-stack developer across the technology stack including the back-end services,
+ front-end servers, native APIs, databases and web interfaces.
+
+Projects:
+1. Geo Product Relevancy Mapping
+-- Designed and built a framework for creating product ranking algorithms defined as a set of
+ scoring functions.
+-- The algorithms produced by the framework introduced relevant ranked lists of products for
+ locations.
+-- This resulted in an increase of 41.42% revenue per shopper in the non-english segment.
+2. Product List Servlet
+-- Worked on creating and improving a major servlet for Desktop and Mobile Web as well as the
+ corresponding service component to surface attraction tours and tickets.
+-- Built all the components for several features including availability check, filtering, sorting and
+ saving.
+3. Contextual Things To Do
+-- Created algorithms for generating collections of contextually related items and integrated them
+ across platforms.
+-- Devised dynamic population of content and built the first in-destination/on-trip experience.
+4. Data Funnel
+-- Worked on the data models throughout the data funnel to surface and use data from the source.
+-- One of the projects led to a 67% decrease in partner API errors reducing the error rate from 1%
+ to 0.3%.
+
+Senior Web Developer at Fitness Trainers Network
+July 2015  -  September 2015  (3 months)
+
+Built the webapp at fitnesstrainersnetwork.com (full-stack) using PHP, MySQL, jQuery, HTML,
+ CSS in a span of 7 weeks. The app can be used to search for personal trainers based on your
+ requirements such as location and avialability. It can then be used to connect with the trainer of
+ your choice. Other features include user accounts, search system with several more filters, PayPal
+ integration for Subscriptions and Checkout, geocoding via Google Maps API for easy address input
+ and distance calculations, MapQuest API integration etc. 
+
+Machine Learning R&D Intern at Kumu Wellness
+June 2015  -  July 2015  (2 months)
+
+Worked towards building a trainer-client personality matching system based on their conversations
+ on the app. The idea was to use a pair-wise ranking algorithm, "RankBoost" by Freund et al (2003),
+ based on the boosting meta-algorithm to combine the Big-5 scores of the users and generate the
+ ranks.
+
+Founder, Designer, Developer at Hash
+June 2012  -  October 2012  (5 months)
+
+Built four personalization and gaming Android apps. "The Joker" had over 200,000 downloads.
+
+Education
+University of California, Los Angeles
+Master of Science (M.S.), Computer Science, 2014 - 2016
+Activities and Societies:  Swimming
+B. M. S. College of Engineering
+Bachelor of Engineering (BEng), Information Science and Engineering, 2010 - 2014
+Activities and Societies:  Event Coordinator at Department Fest
+Nazareth Academy
+1998 - 2008
+
+Harsh Jain
+Greater Los Angeles Area
+Software Engineer at TripAdvisor
+
+1 person has recommended Harsh
+
+"I wanted to share my experience with Harsh for a project he worked on within ProAce
+International. I met Harsh through his school career service and he applied for redesign of
+Fitnesstrainersnetwork.com. His ability to create a better performing website is phenomenal. He
+was in constant communication with me when it comes to suggesting new approach to make
+the site more user friendly. I was amazed by the quality of his work and performance. He was
+very open to my suggestions and he was very creative when sharing his point of view. I would
+recommend Harsh to anyone who is looking for a developer. Thanks again. Dr. Dan Amzallag"
+—Dr. Dan Amzallag, PhD, M.B.A, C.L.C, Producer and Host of the Scaminator: Eliminating all
+Frauds and Scams from the net,  Scaminator,  was Harsh's client
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

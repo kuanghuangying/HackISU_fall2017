@@ -1,0 +1,62 @@
+Yuxuan Liu
+Greater Los Angeles Area
+Student at University of California, Irvine
+
+Summary
+Actively looking for full time software development position. 
+
+Experience
+Software Engineer at Thales
+July 2017  -  Present  (4 months)
+
+Troubleshooting and debugging the whole in-flight entertainment system on network, hardware and
+ connection issues.
+Developing the internal tool for system configuration management using Java Spring framework.
+
+Software Engineer Internship at U9GAME
+June 2016  -  September 2016  (4 months)
+
+Developed an inner company web application in PHP for data management and game
+ maintenances.
+Developed the detection tool to prevent the illegal plugins from the client side in the mobile game.
+
+Physics Laboratory Teaching Assistant at UC Irvine
+September 2015  -  January 2016  (5 months)
+
+Helped students have better understandings to materials covered by professor on physical theories.
+
+Software Engineer Internship at Intel Corporation
+July 2015  -  September 2015  (3 months)
+
+Reproduced and debugged in graphical visualization team, fixed two bugs and analyzed four root
+ causes related to GPU drivers.
+Set up environments for developers and sharing working experiences with new hired employees
+ and interns.
+
+Event Planner at Global China Connection
+February 2014  -  September 2015  (1 year 8 months)
+
+Figuring out the budget for each events and providing interactive communication through different
+ departments.
+
+Project Management Intern at Singa Technology
+August 2014  -  September 2014  (2 months)
+
+Project management internship in a development team for a commercial website, provided potential
+ solutions and kept tracking the process of two new features.
+Assisted manager to assignment features and bugs to developers. Cooperated with outsourced
+ team and made schedules for future plans.
+
+Education
+UC Irvine
+Bachelor's degree, Computer Science, 2013 - 2017
+Activities and Societies:  Information & Computer Science Student Council
+
+Yuxuan Liu
+Greater Los Angeles Area
+Student at University of California, Irvine
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

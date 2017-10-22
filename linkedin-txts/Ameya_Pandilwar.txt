@@ -1,0 +1,171 @@
+Ameya Pandilwar
+San Francisco Bay Area
+⋆Software Developer at BlackRock ⋆ Android ◆ Data ◆ Full-Stack ◆ Engineer
+
+Summary
+○ Full Stack Engineer; Data Science Enthusiast ◆ ambitious ◆ highly motivated ◆ self-driven; and
+ thrives on challenges! 
+○ 4+ years of experience in software engineering; development of large-scale, distributed multi-tiered
+ applications.
+○ Skilled in Java/J2EE, JavaScript, Python; Experienced in leveraging frameworks such as Spring,
+ Hibernate, Django, Flask and Web Services to design and build scalable distributed applications.
+○ Thrives in fast-paced environments, well versed with object-oriented principles, service-oriented
+ architecture and microservices.
+○ Excellent analytical and problem solving skills; and good algorithmic experience in tackling
+ challenges.
+○ Interested in working on enabling machines learn to make them smarter and efficient, using artificial
+ intelligence, machine learning and deep learning techniques.
+
+• Teaching Assistant - (Mobile Application Development, Spring '15 | Programming Design Paradigm,
+ Fall '15)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+TECHNICAL SKILLS
+------------------------------------------------------------------------------------------------------------------------------------------------
+Languages: Java, JavaScript, Python, C#, SQL
+Databases: Oracle, MySQL, SQLite, MongoDB, Sybase, Cassandra
+Frameworks: Struts, Hibernate, EJB, Spring Framework, Django, Flask, Android SDK, AngularJS
+Web Technologies: HTML, CSS, JSP, Servlets, JSON, XML, AngularJS, Node.js
+Tools: Git, Mercurial, TFS, TortoiseSVN
+
+Big Data Ecosystem: Hadoop, Spark, HBase, Pig, Hive, Sqoop, EMR, PySpark
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Interests - Big Data, Machine Learning, Natural Language Processing
+
+You can reach me at - ameya.pandilwar@gmail.com
+
+Experience
+Software Engineer at BlackRock
+October 2016  -  Present  (1 year 1 month)
+
+Working with the Corporate Actions / Paycheck team; part of Aladdin Product Group’s Core
+ Transaction Processing (CTP) platform which is responsible for developing new investment
+ product capabilities for the core systems used in investment trade processing that improve
+ performance, scalability and usability.
+
+Technologies : Java, Spring Framework, Hibernate, Ivy, Maven, Jenkins, Sybase, Cassandra,
+ ZooKeeper, JUnit, Mockito, Groovy
+
+Software Engineer Co-op at TripAdvisor
+January 2016  -  July 2016  (7 months)
+
+◆ Resolved functional issues, fixed bugs; wrote tests for APIs used by millions of users, increasing
+ coverage
+◆ Shipped features in an agile approach; including one that synced data from a tool with
+ Salesforce.com
+◆ Created & improved existing metrics using the ELK stack to track critical revenue impacting areas
+◆ Mitigated SQL injection vulnerabilities by improving query execution techniques to prevent data
+ loss
+◆ Developed tasks using Celery for geocoding locations while using RabbitMQ as the message
+ broker 
+
+Technologies: Python, Django, Flask, Java, SQL, Elasticsearch, Logstash, Kibana, Celery,
+ RabbitMQ, Redis
+
+Student Partner at Xamarin
+July 2015  -  July 2016  (1 year 1 month)
+
+◆ Conducted 'Mobile Development in C#' workshops at Northeastern University
+◆ Promoted awareness about Xamarin among students
+◆ Developed native apps for demonstrating Xamarin.Forms functionality
+
+Graduate Teaching Assistant at Northeastern University
+September 2015  -  December 2015  (4 months)
+
+CS 5010 / CS 5011 - Programming Design Paradigm
+
+◆ Conducted codewalks and graded students; provided useful insights to improve coding practices
+◆ Helped students by resolving doubts and answering questions on the course newsgroup
+
+Software Engineer Co-op at AIR Worldwide
+
+May 2015  -  August 2015  (4 months)
+
+-- Part of a mid-sized development team, practicing an agile methodology to develop new features
+ using the MVVM design pattern in an n-tier WPF application using C#, .NET platform
+
+◆ Developed reusable smart client components in a service-oriented architecture using WPF,
+ MVVM pattern
+◆ Implemented custom filtering controls for data grids containing thousands of rows using C#, LINQ
+ & .NET
+◆ Leveraged Infragistics' suite to design components with WPF, XAML & used C# for the business
+ layer logic
+
+Technologies: C#, .NET, WPF, XAML, LINQ, Team Foundation Server, Microsoft SQL Server
+
+Graduate Teaching Assistant at Northeastern University
+January 2015  -  May 2015  (5 months)
+
+CS 4520 / CS 5520 - Mobile Application Development
+
+◆ Graded and evaluated assignments based on a standard rubric
+◆ Staffed TA office hours each week to help resolve student doubts and technical difficulties
+◆ Helped students by resolving doubts and answering questions on the course newsgroup
+◆ Assisted in improving course materials, including in-class code exercises
+
+Assistant Systems Engineer at Tata Consultancy Services
+August 2012  -  May 2014  (1 year 10 months)
+
+◆ Developed a tool using JSF, Spring MVC & RESTful web services for real-time monitoring of
+ network elements
+◆ Implemented an open-source technology 'Quartz' for automating scheduled jobs and processes
+◆ Resolved decoupling dependencies to migrate a three-tiered application to open-source platform,
+ increasing performance & reducing acquisition costs
+◆ Received 'On The Spot Award' for improving the performance of the existing Web Services
+ framework by 40%
+◆ Created an automation tool to validate production data, reducing manual intervention and
+ minimizing client's revenue loss
+
+Technologies: Java/J2EE, Spring MVC, Hibernate, Struts 1.2, EJB 2.0, JSP, Servlets, JMS, Oracle
+ SQL, Web Services, JBoss JMS
+
+Education
+CodePath
+
+Android Mobile Bootcamp, 2016 - 2016
+Northeastern University
+Master’s Degree, Computer Science, 2014 - 2016
+Activities and Societies:  Entrepreneurs Club, GDG Boston, NUACM
+Siddaganga Institute of Technology
+Bachelor of Engineering, Computer Science, 2008 - 2012
+Activities and Societies:  SIGMA - The Newsletter of Department of CSE, IEEE
+Modern College of Arts, Science & Commerce
+Higher Secondary Certificate (H.S.C), 2006 - 2008
+Vidya Bhavan High School
+Secondary School Certificate (S.S.C), 1996 - 2006
+
+Ameya Pandilwar
+San Francisco Bay Area
+⋆Software Developer at BlackRock ⋆ Android ◆ Data ◆ Full-Stack ◆ Engineer
+
+3 people have recommended Ameya
+
+"Ameya is an organized and goal oriented individual who tackles complex problems with his
+quick and innovative solutions. This was evident during the development of the message-driven
+framework for JMS in the JBoss project migration. He is ready to provide a helping hand wherever
+necessary and makes sure all the deadlines are met while maintaining the highest standards. I
+would recommend him to be a good fit for any team."
+—Kashinath Kumbharakar, Senior Solutions Architect,  Red Hat,  worked directly with Ameya at
+Tata Consultancy Services
+
+"Ameya is a resourceful engineer who is unafraid of tackling large challenges. While I supervised
+Ameya, I knew that I could count on him to iterate on a solution until it fully resolved the underlying
+issue. When he joined us, he didn’t have professional experience using Python–but was able to
+jump in and start contributing in his first week. Ultimately, Ameya is a mature software engineer who
+you can rely on to accomplish the challenges that you set before him."
+—Ryne McCall, Software Development Manager,  FlipKey by tripadvisor,  managed Ameya at
+TripAdvisor
+
+"Ameya exhibits the rare combination of being bright and having excellent software instincts with
+strong interpersonal skills. I worked as his immediate supervisor for a year during the project
+development and migration phases. His strengths in staying across issues, pro-actively providing
+solutions and being adept at all aspects of communications make him a valuable contributor to any
+situation or team. Keep it up..!!!"
+—Suyog S. Potdar, Technical Lead,  Tech Mahindra,  managed Ameya at Tata Consultancy
+Services
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

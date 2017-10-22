@@ -1,0 +1,72 @@
+Ashish Singh
+San Francisco Bay Area
+Software Engineer at Cisco
+
+Summary
+Ambitious, self-motivated individual with a strong attention to detail. Over 5 years of extensive
+ software development experience with proficiency in C++/C/JAVA along with understanding of
+ mobile platform architecture. 
+
+My passion is designing and developing software. I have strong background in backend technologies
+ and am constantly inching towards becoming a full-stack engineer by exploring newer technologies. 
+
+In my free time, I enjoy participating in problem solving and programming hackathons (CodeFights,
+ LeetCode, HackerRank, etc.).
+
+Specialities: 
+Data Structures, Telemetry Tools, System Programming, Application Programming, Performance
+ Analysis, Computer Networks.
+
+Programming Languages: 
+C++ (Expert), C (Proficient), Python(Proficient), JAVA(Proficient), PHP(Familiar).
+
+Experience
+Software Engineer at Cisco
+February 2016  -  Present  (1 year 9 months)
+
+• Designed and developed whitelist based control plane policing on Nexus9K ACI TORs and spine
+ switches to prevent DDOS attack.
+• Implemented access list control(ACL) processing of First Hop Security on Nexus9K ACI switches
+ to enable a better IPv4 and IPv6 link security and management over the layer2 links.
+• Implemented statistics support for PFC and ACLs.
+
+Software Engineering Intern at Jasmine Universe
+June 2015  -  August 2015  (3 months)
+
+• Developed headless device prototype using Windows CE 6.0 emulator. 
+•  Created DLL for prediction of energy usage which facilitates Jasmine to provide its users with
+ intelligent recommendations, threshold warnings, and day-to-day operating cost of the energy
+ consumption.
+
+Software Engineer at Intel Corporation
+August 2011  -  July 2014  (3 years)
+
+• Developed the Power and Performance (PnP) telemetry tool for Penwell and Cloverview based
+ platforms.
+• Analyzed and optimized the power and performance of CPU, Memory, hardware accelerators, and
+ peripheral devices on Intel atom based platforms.
+• Participated as a member of the team that developed system-on-chip telemetry tool, SoC Watch.
+ Tool proved to be vital in optimizing performance hotspots on Tangier and Valleyview based
+ platforms.
+• Developed synthetic benchmarks and test cases to validate software.
+• Collaborated with Intel Customer Technology Solutions team to facilitate technical support to
+ corporate clients.
+
+Education
+Stony Brook University
+Master's Degree, Computer Science, 2014 - 2015
+National Institute of Technology Warangal
+Bachelor of Technology, Computer Science and Engineering, 2007 - 2011
+Activities and Societies:  Sports
+JNV Mirzapur
+High School, Mathematics, Physics, Chemistry
+Activities and Societies:  Sports (Kho-Kho, Cricket), Debate Team, Science Team
+
+Ashish Singh
+San Francisco Bay Area
+Software Engineer at Cisco
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

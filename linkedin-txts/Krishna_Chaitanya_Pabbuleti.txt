@@ -1,0 +1,117 @@
+Krishna Chaitanya Pabbuleti
+San Francisco Bay Area
+Firmware Engineer at Apple
+
+Summary
+Over 5 years of work experience and 2 years of research experience in Firmware Development,
+ Embedded Systems and security.
+Skills include:
+- Excellent C programming skills.
+- Working in complex embedded system development.
+- Debugging using gdb and lldb.
+- Knowledge in communication protocols like SPI, I2C and PCIe.
+- Understanding cryptography and security in the context of embedded systems.
+- Working knowledge in Python, Java, SQL and REST API design
+
+Experience
+Embedded Software Engineer at Apple
+September 2016  -  Present  (1 year 2 months)
+
+- Bringup and driver development for various Apple products
+
+Platform Software Engineer at Cisco
+June 2014  -  September 2016  (2 years 4 months)
+
+- Worked on Denverton x86 CPU bringup for next-gen linecards.
+- Worked on BIOS features like secureboot, secureflash upgrade for Broadwell-DE x86 CPU. 
+- Supporting features on rommon which is a home-grown home-grown bootloader for QNX  to
+ perform other board-level initializations
+- Worked on upgrade support for onboard Field Programmable devices.
+
+Graduate Research Assistant at Secure Embedded Systems Lab, Virginia Tech
+November 2012  -  May 2014  (1 year 7 months)
+
+I worked in Secure Embedded Systems lab under Dr. Patrick Schaumont. My broad area of
+ research is optimizing public key cryptography for embedded platforms. 
+
+During Spring'13, I worked on optimizing modular arithmetic using SIMD extensions on embedded
+ processors. We implemented our algorithm on two mobile platforms namely Qualcomm
+
+ Snapdragon and Intel Atom and achieved significant performance gain. This work was published at
+ IEEE HPEC 2013 and was nominated for the best paper award.
+
+During Fall'13 and Spring'14, I worked on implementing various digital signature signature schemes
+ and analyzing the power consumption on a wireless sensor node platform. The wireless sensor
+ node was built using off-the-shelf components. This work was published at RFIDSec 2014.
+
+The consolidated work is published as a thesis and is available at 
+http://vtechworks.lib.vt.edu/bitstream/handle/10919/48120/Pabbuleti_KC_T_2014.pdf?sequence=1
+
+Graduate Teaching Assistant at Virginia Tech
+August 2013  -  December 2013  (5 months)
+
+- Teaching Assistant and grader for the course "Hardware Software Co-design"
+
+Engineering Intern at Cisco Systems
+May 2013  -  August 2013  (4 months)
+
+Benchmarking and characterization of Interprocess communication over TCP/IP in a virtualized
+ system. The system here is a next generation core router from Cisco
+
+SoC Validation Engineer at STMicroelectronics
+June 2010  -  June 2012  (2 years 1 month)
+
+-Writing validation firmware for security modules which include Secure Key Manager, Secure OTP
+ Memory, Secure Boot Coprocessor on Integrated TV/Set-top box SoC.
+-Writing validation firmware for CableCard interfaces (CI+ and MCHI) on Integrated TV/Set-top box
+ SoC.
+-Gained exposure to SoC internals, firmware development and JTAG Debug Architecture.
+-Gained significant experience in cryptography. Worked with encryption standards AES, DES,
+ TDES, RSA and hashing algorithms SHA and MD5.
+
+SoC Validation Intern at STMicroelectronics
+January 2010  -  June 2010  (6 months)
+
+Validation of PCI Express interface on a Digital TV SoC
+
+Education
+Virginia Tech
+Master of Science (MS), Computer Engineering, 2012 - 2014
+Birla Institute of Technology and Science
+B.E.(Hons.), Electrical and Electronics, 2006 - 2010
+Activities and Societies:  Department of Photography, EEE Assoc
+Gautam Junior College
+Intermediate, MPC, 2004 - 2006
+
+Gautam High School
+High School, 1999 - 2004
+
+Krishna Chaitanya Pabbuleti
+San Francisco Bay Area
+Firmware Engineer at Apple
+
+2 people have recommended Krishna Chaitanya
+
+"He joined our team as a fresher but in a short span of time he contributed immensely to the
+project .He is very sharp, analytical, dedicated and a great team player. I recommend Krishna and
+would be very happy to get him back in our team after his higher studies."
+—Vivekanandan Naveen, Delivery Head,  Zaikenn Technologies,  managed Krishna Chaitanya at
+STMicroelectronics
+
+"Krishna has set a benchmark for fresh engineers joining our team.He joined as an intern with
+our team, working on PCI express but was very soon absorbed as employee and started working
+on Security IP hardware and software validation for DTV SOC. He had all the skills to jump and
+start working (security is always tricky) and I never felt he needed much support in accomplishing
+his work which is not expected with fresh engineers starting their carrer. He was always ready to
+explore, dig deep, understad to the root and analyze the problems. The work involved developing
+low level firmware and Host CPU SW by understanding the HW functional spec, understanding
+secure HW architecture and application for DTV SOC. I will always be happy to work with him again
+and would always recommend him for any prospective job offers or internship. Best wishes for his
+post graduation."
+—Srikar Karnam, Sr Staff Engineer,  Qualcomm,  managed Krishna Chaitanya at
+STMicroelectronics
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

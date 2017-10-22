@@ -1,0 +1,59 @@
+Lei XU
+United States
+Software Engineer at Uber
+
+Experience
+Software Engineer at Uber
+January 2016  -  Present  (1 year 10 months)
+
+Graduate Research/Teaching Assistant at Michigan State University
+January 2014  -  December 2015  (2 years)
+
+C++/Java programming, Machine Learning projects, OOP design
+
+1. Android App development, OOP design in factory, visitor, observer, adapter, composite patterns, 
+2. Designed a large-scale(1 million) classication algorithm combined of Logistic, SVM, SGD, and
+ LDA.
+Improved Mean-Average-Precision by 50% with a weighted-rank strategy, ranked 2 out of 22
+ teams.
+3. Developed a statistical data cleaning algorithm with performance 0.94/1, published on Oxford
+ Journals.
+
+Software Development Intern at Amazon
+May 2015  -  July 2015  (3 months)
+
+Designed and developed internal data auditing tool with BFS principle
+Designed and developed internal client contacting system that incorporates message sending,
+ tracking and storage components 
+
+Software Engineering Intern at ALSTOM
+February 2011  -  September 2011  (8 months)
+
+Software development for industrial cooling system:
+High-performance algorithms improving by 5 times the accuracy of cooling system simulation.
+Graphical user interface(GUI), data input/output mode, data processing and refinement,
+ communication between processors/GUI.
+
+Research Intern at EDF
+June 2010  -  December 2010  (7 months)
+
+Technical and Economical analysis of heating network:
+Creation of an auto-processing visualization tool in VBA to dynamically simulate hydrodynamic
+ system.
+
+Education
+Michigan State University
+Master of Science (M.S.), Computer Science, 2014 - 2016
+Ecole nationale supérieure des Mines de Paris
+Engineer/Master, Science and Executive Engineering, 2009 - 2012
+Nanjing University
+Bachelor, Physics, 2005 - 2009
+
+Lei XU
+United States
+Software Engineer at Uber
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

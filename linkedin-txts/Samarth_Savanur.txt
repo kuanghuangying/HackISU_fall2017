@@ -1,0 +1,135 @@
+Samarth Savanur
+Portland, Oregon Area
+Software Engineer at Intel
+
+Summary
+Software Development Engineer at Intel Corp. in Logic Technology Development (LTD), Automation
+ at Hillsboro, Oregon.
+
+I am currently working on Intel Factory Automation in automating the scheduling, delivery and
+ processing of semiconductors. 
+
+I completed my Masters in Computer Science and Engineering at The Ohio State University,
+ Columbus in 2016 and have a strong background working in automation projects in diverse fields. 
+
+My Interest Areas include developing software applications in C, C++, Java and like to write Perl
+ scripts, I have experience in APF coding environment, Web technology development, Big data and
+ Data mining, AI, Data science related varied projects.
+
+My personal interests include playing Cricket and Shuttle Badminton. I love creativity and designing
+ and like to spend my leisure time in Photoshopping. I like to read novels written by my personal
+ favorite authors, Robin Sharma and Dr. Spensor Johnson. I enjoy music and travelling too.
+
+Experience
+Software Engineer at Intel Corporation
+June 2016  -  Present  (1 year 5 months)
+
+Software Developer at Intel in Logic Technology Development, Automation. 
+
+I am currently working on Factory Automation by automating the scheduling, delivery and
+ processing of semiconductors. 
+The job role includes Software requirements gathering, Software design, development and testing,
+ Deployment, Operations and Support. 
+
+Skills: C#, APF, Perl Scripting, Databases !!
+
+Graduate Teaching Assistant at The Ohio State University
+August 2015  -  May 2016  (10 months)
+
+Instructor for the course ‘Modelling and Problem Solving in Spreadsheets and Databases’ (CSE
+ 2111) at The Ohio State University, Columbus, OH during the terms Fall '15 and Spring '16.
+
+Software Development Engineer Intern at Gap Inc.
+June 2015  -  August 2015  (3 months)
+
+POET [Process Optimization and Evolution Tool] Project.
+
+Role: Web Developer, Peer Programmer
+
+• Worked on POET’s Web platform aimed at delivering the product out of the Distribution Centers
+ (DC) as quickly and efficiently as possible.
+• Developed RESTful services with Spring and test driven APIs for Container Weighting Engine,
+ Routing Engine and UI Engines through peer programming in an Agile Test-Driven environment
+ thereby actively resolving many story huddles.
+• Designed UI Engine using Thymeleaf Spring framework & automated testing with Watir & Ruby
+ Rspec for Fusion tests. 
+• Established Container Value Calculator Engine page which generates default container scenarios
+ based on In-Home Date and Priority attributes using DC’s configuration and deployed to production
+ which is maintained by the POET team.
+• Created fake data profile in Mongo DB for fake containers through POET’s calculation engine
+ using Mockito where a user can change the DC configuration and see the results by sending fake
+ containers through the weighting engine.
+
+Assistant Software Engineer at Tata Consultancy Services
+November 2013  -  June 2014  (8 months)
+
+Hands on Experience on System Applications and Products [SAP] in Data Processing.
+
+Work Structure during TCS Training:
+
+• Technical module of SAP viz., SAP Advanced Business Application Programming [ABAP], 
+ which provides the Code to functional modules. 
+• Functional modules of SAP viz., SAP Production and Planning [PP] and SAP Advanced 
+ Planner and Optimizer[APO].
+
+• I was trained at ABAP Editor, ABAP Dictionary, Menu Painter, Screen Painter, Function Builder,
+ Class Builder using SAP ABAP.
+• I was trained at Make to Order, Master Planning, Product Cost Planning using SAP PP.
+• I was trained at Demand Planning, Supply Network Planning using SAP APO.
+• I had an exposure in generation of reports and handling data through database.
+
+Project Work at TCS:
+SAP Security, AI Team, Tata Motors Limited[TML] Client.
+
+• Obtained professional working knowledge in Technical and Functional modules of SAP viz., SAP
+ ABAP, SAP Production and Planning, SAP Advanced Planner and Optimizer and SAP Security.
+• Served as a developer in project which supported TML Automobile industry by implementing SAP
+ Security providing Authentication & Authorization for the client side server.
+• Efficiently Implemented SAP Security on Roles and IDs of User Profiles and was involved in
+ providing efficient performance to the Client side servers.
+• Responsible for Incident resolution generated from TML client side in Remedy tool to monitor
+ continuous progress & managing the risks involved.
+• Involved in numerous TML Client visits and meetings to describe proper functioning of the
+ branches throughout India.
+• Involved in Profile Mapping to authenticate client side access.
+• Carried out Tracing through dump analysis to resolve the missing authorizations in transaction
+ codes of Client Side server.
+
+Education
+The Ohio State University
+Master of Science (M.S.), Computer Science and Engineering, 2014 - 2016
+Activities and Societies:  • Graduate Teaching Assistant for Databases and Spreadsheets for spring,
+ 2015 and fall, 2016. • Student Administration Manager at Student Life - Culinary Production Kitchen,
+ OSU for 2015 - 2016. • Volunteer at Sankalp India, OSU. • OSU Cricket Club Member.
+B.V.Bhoomaraddi College of Engg & Tech
+Bachelor of Engineering (BEng), Computer Science and Engineering, 2009 - 2013
+Activities and Societies:  • Boys Representative for Association of Computer Engg Students, BVCET
+ • Chief Organizer, Editor for PLEIADES National Level Fest, BVBCET • Active member for Hubbali
+ Marathon Coordination, KIMS Blood Donation Camps • LEAD member, BVBCET
+P D J PU College, Bijapur, Karnataka, India
+Pre-University College - Science, Science, 2007 - 2009
+V.B.Darbar High School, Bijapur, Karnataka
+SSLC, Karnataka, India, 2004 - 2007
+Activities and Societies:  • Participant for Karnataka State Level Shuttle Badminton player and
+ Swimmer during the years 2008 and 2009.
+
+Samarth Savanur
+Portland, Oregon Area
+Software Engineer at Intel
+
+1 person has recommended Samarth
+
+"Samarth is an incredibly hard-working and motivated individual. I oversaw his work and
+performance during his 10-week Software Development Engineering internship at Gap Inc., and I
+was thoroughly impressed with the quality of the projects he completed within that small time frame.
+Samarth was always engaged with his team and was able to let both his technical and personal
+skills shine. I never witnessed a moment where he wasn't eager to learn and excited about the work
+he was doing during his internship. There is no doubt in my mind that he will go on to achieve great
+things in his future career, and Samarth will make an indelible addition to any team."
+—Andrew Yeung, University Relations Manager - Technology and Digital,  Gap Inc.,  managed
+Samarth at Gap Inc.
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

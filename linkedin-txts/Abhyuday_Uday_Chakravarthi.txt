@@ -1,0 +1,144 @@
+Abhyuday "Uday" Chakravarthi
+Greater Seattle Area
+Senior Product Manager Lead, Growth @ Azure, Microsoft
+
+Summary
+Product leader, growth hacker, engineer, and entrepreneur. Led major initiatives at large technology
+ companies (Microsoft and PayPal) and fast growing startups, shipped high impact technology
+ products for mobile and web, and managed large teams.
+
+Cornell MBA + USC CS.
+
+Specialties: Consumer products(B2B and B2C), growth hacking, payments, messaging,
+ experimentation, analytics, business development, and personalization.
+
+Experience
+Senior Product Manager Lead, Azure Growth + Ecosystems at Microsoft
+August 2015  -  Present  (2 years 3 months)
+
+I lead the Growth team for Azure, Microsoft's fastest growing business. I also own and drive product
+ roadmaps for Azure Trials, Training, Support, Live Chat, Personalization and Experimentation (A/B
+ testing) on Azure.com 
+
+*  Product Owner for Azure Free Trials. Launched several features to improve Trial Acquisition
+ funnel, resulting in ~$100 million incremental revenue.
+
+*  Drove the team to execution and launch of Azure Stack, world's first hybrid cloud platform that is
+ consistent with a major public cloud, Microsoft Azure. (http://www.businessinsider.com/microsoft-
+azure-stack-hybrid-cloud-released-2017-7)
+
+* Launched Azure Training, a series of free online video courses, hands on labs, and learning paths
+ to help professionals gain in-depth knowledge of Azure services, resulting in 8K hours of usage in
+ one-month post launch. 
+
+* Built out Growth team for Azure.com from ground up. Established experimentation workflow,
+ prioritization framework, and automated reporting to scale experiments (A/B tests) to 4X in a
+ month. Launched 150+ growth experiments in FY 17, resulting in over $100 million incremental
+ revenue.  
+
+* Product Owner responsible for launching  personalization on Azure. Went from requirements to
+ full homepage traffic in 2 months, delivering double digit  improvement in retention post launch.
+
+*  Launched Live Chat to provide potential customers an additional channel of assistance, and
+ scaled it to 18 markets within 3 months, resulting in multi-million dollar incremental revenue from
+ sales pipeline. 
+
+* Launched live streaming web and mobile experience for Build 2017, Microsoft's largest
+ conference of the year that included live stream of keynotes, announcement feed, and real time
+ tweets.
+
+Senior Product Manager at LiveCareer
+August 2014  -  July 2015  (1 year)
+
+LiveCareer is a fast-paced, innovative company whose mission is to revolutionize the online career
+ world by creating transformational products that help people find the careers they love.
+
+* Define and manage product vision and roadmap for Resume Builder, a line of business with
+ annual sales of over $60 million revenue.
+
+* Analyzed customer engagement metrics, customer complaint tickets, and cancellation survey
+ data. Launched content discovery features for online resume builder, resulting in a 7% (~$X million
+ in revenue) increase in LTV.
+
+* Performed customer interviews, competitive analysis, and usability testing to deliver innovative
+ features for delighting customers. Features include keyword hints, job scanner, and resume
+ scoring.
+
+Product Manager at PayPal
+2011  -  2013  (2 years)
+
+* Led teams in Paris and San Jose to entirely rebuild PayPal.com – PayPal’s largest site overhaul
+ in last ten years, resulting in an intuitive login, and optimized send money flow, increasing key
+ engagement metrics
+
+* Product lead for PayPal Here. Set overall direction for what was then PayPal Here’s largest
+ project to date. 
+
+* Grew PayPal Here’s activation rate by X% by leading cross-functional team of Product and
+ Engineering  to launch welcome experience for new users – including feature walkthrough and
+ store locator.
+
+Senior Software Engineer at Viacom
+2008  -  2011  (3 years)
+
+* Managed web development for new game portals for Nickelodeon.  
+
+* Integrated a complex cloud based software-as-a-service (SAAS) portal into all Nickelodeon game
+ sites, resulting in better customer service and support for over 40 million global users.
+
+Software Engineer at TripAdvisor
+2006  -  2008  (2 years)
+
+Education
+Cornell University
+Master of Business Administration (MBA), 2013 - 2014
+Activities and Societies:  Summer Associate at BR Venture Fund, Entrepreneurship & Innovation
+ Institute Associate, and MasterCard Innovation Express Hackathon Finallist
+University of Southern California
+Master of Science, Computer Science, 2004 - 2006
+Jawaharlal Nehru Technological University
+Bachelor's degree, Computer Science, 2001 - 2004
+
+Abhyuday "Uday" Chakravarthi
+Greater Seattle Area
+Senior Product Manager Lead, Growth @ Azure, Microsoft
+
+4 people have recommended Abhyuday "Uday"
+
+"It was a pleasure working with Abhyuday at VirtualTourist. He's a very capable Web Developer
+who consistently delivered high-performance, scalable web applications on time & with high quality.
+Abhyuday is a great team player and is well respected by his colleagues. In particular, I'd like to
+highlight his proactive approach to the project work -- he would actively reach out to people in
+diffrent functions on the project: graphic designers, project managers, producers, qa, etc. to ensure
+that requirements make sense, techical solutions are appropriate, and high quality is maintained"
+—Patrick Harsadi, Software Engineer,  OceanX, LLC,  worked with Abhyuday "Uday" at TripAdvisor
+
+"Uday is a excellent product manager who naturally leads his teams and yet is also extremely
+detail orientated. His passion for great products is evident in his work, He is a team player and his
+decisiveness is well respected by peers. Most importantly, he inspires others to do there best work.
+Uday's an all-star addition to any team, and I genuinely look forward to working with him again. "
+—Neha Arora, Product Management,  RingCentral,  worked directly with Abhyuday "Uday" at
+PayPal
+
+"I worked with Uday at Microsoft on the Azure.com site. I was incredibly impressed with Uday's
+ability to use testing, analytics, and customer feedback to run a highly valuable optimization
+program. I was on the marketing side of the fence and really appreciated how Uday worked with
+teams to collect their ideas and resolve their business issues. Uday is a very rare combination of
+someone with both tech and business skills, and I recommend him highly."
+—Greg Raece, President,  OnlineMetals,  worked with Abhyuday "Uday" at Microsoft
+
+"Abhyuday is one of the very best frontend engineers I know. If you have a chance to work with or
+for him, grab it. He is a master and a craftsman. His expert-level understand of the full technical
+stack is complimented by his excellent eye for design, his empathy for users and their real-
+world experiences with his sites, and his experience creating mega-traffic sites under intense
+performance demands. He is a caring mentor and smart leader. He delivers in the trenches while
+
+making those around him shine. He's tireless when supporting his team. I hope to have a chance to
+work alongside him again, and know that anybody who does is lucky."
+—Vishal Gupta, Senior Software Engineer 2 - Adobe Experiece Manager,  Citrix,  reported to
+Abhyuday "Uday" at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

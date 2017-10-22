@@ -1,0 +1,109 @@
+Kimberly Shen
+San Francisco Bay Area
+Software Engineer at Pinterest
+
+Summary
+I am a highly motivated, detail-oriented, capable and dependable computer engineer. I take on new
+ challenges enthusiastically and am a fast learner. I enjoy working on technically challenging projects
+ that have a large impact. I'm interested in user-facing application development and backend work.
+
+I currently work at TripAdvisor full-time on the Search and Navigation team as a software engineer. I
+ first worked primarily on the mobile web platform, but nowadays I focus on building backend services
+ for the Search team. In my spare time, I volunteer for the Girls Who Code organization and teach
+ young girls how to code.
+
+Contact information: kimberly.shen@utoronto.ca
+
+Experience
+Software Engineer at Pinterest
+September 2017  -  Present  (2 months)
+
+Software engineer on social growth team.
+
+Full Stack Engineer at TripAdvisor
+July 2015  -  July 2017  (2 years 1 month)
+
+I'm a full stack engineer on the Search and Navigation team at TripAdvisor.  I work successfully
+ from a remote office, effectively collaborating across 3 different time zones/countries and 4
+ different offices. I've also played a major role in building the TripAdvisor brand at UofT by attending
+ career fairs, giving tech talks, and interviewing for new hires and interns. I am also an active
+ participant in my team's on-call rotation for Elastic Search operations.
+
+Front-end projects
+• Team lead for mobile web on Search and Navigation
+• Led team of two engineers to rebuild Mobile Web (MW) typeahead from single to dual typeahead
+• Lead engineer implementing new customizable header across entire MW site making search more
+ prominent, converting velocity to DUST
+• Independently implemented tags, keywords, misspellings, and query parsing for MW typeahead
+• Above projects increased search success rate by 70% on MW
+
+Back-end projects
+• Unified backend query-parsing and search-redirect logic between desktop and MW (MW tag
+ redirects improved search success by 3%)
+• Helped build ElasticSearch indexer for misspellings indices
+• Core contributor to building shelves recommendation backend service for TripAdvisor site
+ relaunch
+• Currently working on building out the insight profile backend service 
+
+Software Development Engineer Intern at A Thinking Ape
+May 2014  -  August 2014  (4 months)
+
+• Developed for iOS client, Android client, server-side, and internal tools on Casino X team for
+ various projects
+• Designed and implemented a game mechanism for level-unlocking with achievements for Casino
+ X across server-side code, iOS client code, Android client code, and SQL databases 
+• Implemented many performance optimizations for low-end Android devices, such as dynamically
+ downloading lower quality animation assets based on hardware needs (led to 3% increase in user
+ retention rates)
+
+Intern at Microsoft
+May 2013  -  August 2013  (4 months)
+• Intern for the Office Web App Team
+• Actively contributed in 3 different discipline roles: program manager (PM), software development
+ engineer (SDE), software development engineer in test (SDET)
+• Designed and development a new feedback mechanism for event-driven and feature-specific
+ feedback to help the Office Web Apps improve the user experience
+• Used HTML, CSS, Javascript, Script Sharp/C#, and HTML DOM manipulation to code the
+ feedback UI
+• Participated in team bug bashes, investigated automation-logged bugs and UI automation scripts
+
+Software Engineering Intern at Bank of America Merrill Lynch
+April 2012  -  August 2012  (5 months)
+
+• Summer Intern for Electronic Analytics Trading team
+• Self-taught Python to be able to write code
+• Tested the communication between server and client-side code by writing Python testing scripts
+• Debugged server communication issues
+• Wrote weekly status reports for manager
+
+Education
+University of Toronto
+
+Bachelor of Applied Science (B.A.Sc.), Computer Engineering, 2011 - 2015
+Activities and Societies:  Hacker's Academy, Engineering Society, Student Rep on Community Affairs
+ and Gender Issues Committee, Skule's Got Talent
+Richmond Hill High School
+High School, 2008 - 2011
+Activities and Societies:  DECA, Math Contests, Computer Science Club, Science Olympics
+
+Kimberly Shen
+San Francisco Bay Area
+Software Engineer at Pinterest
+
+1 person has recommended Kimberly
+
+"I've worked with Kimberly for two years at TripAdvisor, during which time she's had a large impact
+on the travel site's search product. At ease working both in frontend and backend service code,
+she's always eagerly looking towards her next challenging project to build. She's shown care
+for the bigger picture, managing the schedule coordination of large new features across several
+collaborating teams. Kim's also left her mark on the company by volunteering to run our Sonar
+static code analysis pipeline and tirelessly evangelizing adoption throughout the engineering
+division. In parallel, she's been instrumental in building TripAdvisor's strong brand on-campus at the
+University of Toronto by running student outreach sessions and resume coaching."
+—Jean-Philippe Daigle, Technical Manager, Search & Navigation,  TripAdvisor,  managed Kimberly
+at TripAdvisor
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

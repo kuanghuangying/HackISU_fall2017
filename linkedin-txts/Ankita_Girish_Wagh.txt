@@ -1,0 +1,140 @@
+Ankita Girish Wagh
+San Francisco Bay Area
+Software Engineer II at Uber
+
+Experience
+Software Engineer II at Uber
+November 2016  -  Present  (1 year)
+
+Sr. Software Engineer at Symantec
+June 2016  -  November 2016  (6 months)
+
+--Extended Cloud Intelligence Service (CIS) for collecting metadata from AWS resources and
+ containers
+
+Software Engineer at Symantec
+January 2015  -  June 2016  (1 year 6 months)
+
+-- Developed Cloud Intelligence Service (CIS) which acts as a single source of truth of Cloud
+ Platform metadata for enabling automation and make optimizations on usage statistics
+-- Deployed and maintained the telemetry service (ceilometer) of OpenStack in 4 data centers
+-- Developed plugins for ceilometer which shipped logs and metrics from OpenStack to the Logging
+ & Monitoring platform for further analysis & created health dashboards for OpenStack Services
+-- Enhanced ChatOps tools for increasing efficiency of the SRE team
+ 
+
+Software Engineer II at Cisco Systems
+June 2013  -  January 2015  (1 year 8 months)
+
+• Integrated Cisco Software Manager (CSM) for XR and Nexus routers
+• Added new features in Cisco Software Manager like failure handling, off-box recommendation and
+ logging
+• Automated deployment and configuration of virtual machines on lab servers
+• Performed scale testing using 150 virtual machines to verify that CSM can manage the devices
+• Added a logging mechanism to Cisco Messaging Interface (CMI)
+• Optimized regression of CMI and reduced the run time by 8 hours
+
+Student Worker at Texas A&M University
+September 2012  -  May 2013  (9 months)
+
+• Worked on a research project with Cisco Systems, IP Communications Business Unit
+• Developed a tool to validate website for managing Cisco IP Phones
+
+Summer Intern at PayPal
+May 2012  -  August 2012  (4 months)
+
+• Designed and developed a multi threaded link checking tool to identify stale links
+• Devised a means to crawl dynamic links which are currently ignored by open source tools
+• Designed and automated tests for admin tool and reduced the regression time by 16 hours
+
+Summer Intern at Indian Institute of Technology, Bombay
+May 2010  -  July 2010  (3 months)
+
+• Worked on Implementation of Multimedia Integration tool for e-learning resources on JavaFX
+ platform
+• Developed software for synchronization of video lectures and lecture slides
+
+Education
+Texas A&M University
+Masters, Computer Science, 2011 - 2013
+Maulana Azad National Institute of Technology
+B.Tech, Information Technology, 2007 - 2011
+Activities and Societies:  1. Executive Member of “Indian Society of Technical Education”, the
+ technical society in India. 2. Executive member of “VISION”, the technical society of NIT-Bhopal
+ 3.Organized events in “NOESIS 09”, the annual technical fest by VISION
+SICA S. S. School Indore
+High School Graduate, Mathematics, 1993 - 2007
+Activities and Societies:  Head girl in class 12th. Deputy head girl in class11th .
+
+Ankita Girish Wagh
+San Francisco Bay Area
+Software Engineer II at Uber
+
+7 people have recommended Ankita Girish
+
+"Ankita is a very smart and effective automation engineer who requires little supervision to meet
+challenges. Her work is timely and of the highest quality. I would, without reservation, recommend
+her for any assignment requiring an automation testing or development”"
+—Luke Jiang, Senior Software Engineer,  PayPal,  managed Ankita Girish indirectly at PayPal
+
+"I worked with Ankita on the CSM software development. CSM is a Java Swing application which
+interoperates with the Chef server. Ankita has done many UI enhancements as well as Chef server
+troubleshooting. Ankita is a hard worker and fast learner. She can easily pick up a task and work
+until it is completed. She also was very willing to help me beyond her regular responsibility. I have
+no reservation to recommend her in any engineering position."
+—Alex Tang, Senior Technical Leader,  Cisco Systems, Inc.,  managed Ankita Girish at Cisco
+Systems
+
+"I got a chance to work with Ankita during my time at Symantec. She is a very cheerful person to
+work with. She was the lead engineer of the observability and metrics project of Cloud Platform
+Engineering team. This project was key to providing the visibility and insights into the Cloud
+Platform. Ankita took the lead in identifying and implementing several key metrics that helped us
+operate the Cloud Platform at large scale. As one can imagine, instrumenting and collecting the
+right metrics for Openstack and cloud platforms are daunting tasks. Ankita did this with lots of
+enthusiasm and patience. I would strongly recommend Ankita and wouldn't miss a chance to work
+with her again!"
+—Lakshminarayanan(LN) Renganarayana, Architect and Director of Engineering, ML Platform and
+Search,  Workday,  worked with Ankita Girish at Symantec
+
+"Ankita is an extremely intelligent, well-rounded, experienced and skilled DevOps engineer.
+During our short time at Symantec together we have worked closely on several initiatives and
+Ankita has never failed to impress us. She is constantly improving, growing, and ensuring that the
+best decisions get made. In addition, she encompasses strong coding ability, gives realistic time
+
+estimates, and always delivers on-time. She is a hard working rising star that any organization
+would be fortunate to have on their team. It has been an honor and a pleasure to work with Ankita
+and I would work with her, for her, or place her on my own team anywhere I am in the future without
+hesitation. "
+—Jason Riedel, Technical Director Architect/Manager - CPE,  Symantec,  managed Ankita Girish
+indirectly at Symantec
+
+"Ankita was a highly motivated, hard-working and very sociable intern at Paypal. She worked
+extremely hard on the Admin project and automated test cases at a high pace. She also developed
+a broken links program which will be very useful for the company. Ankita is very capable and
+I highly recommend her for her work and her dedication. Pierre Morel, Software Contractor at
+Paypal, Austin, TX"
+—Pierre Morel, SQA Engineer,  Dell,  worked directly with Ankita Girish at PayPal
+
+"Ankita was a Software Engineer on a scrum team that I was the PO (Product Owner) for, CSM
+(Cisco Software Manager) (writing code in Java). I was also her direct manager. Ankita is a very
+intelligent engineer, able to ramp up on new technologies very quickly. She has a great, positive
+attitude, and takes her work very seriously. She came into my team and was immediately thrown
+into IPC (interprocess communication) white box testing, where she was very quickly able to
+ramp up and be productive (in all areas, on the functional/dev code, the white box test code and
+testing, and on the automation). In the CSM project, she was one of two Engineers working in this
+scrum, very quickly ramping up on the Java code for CSM. I would very highly recommend her as a
+Software Engineer, and am excited to see where her career takes her."
+—Chris Kralik, Manager Software Development Engineering,  Cisco,  managed Ankita Girish at
+Cisco Systems
+
+"Ankita is an intelligent, hardworking, diligent engineer and has an eye for detail. Due to her quick
+grasping abilities she very soon started delivering results when she joined our team as a new
+grad. She is very prompt with her work and asks clarifying questions whenever necessary. It was a
+pleasure to be her mentor during her first few weeks in our project."
+—Archana Vinze, Software Engineering Specialist,  Globalstar,  worked directly with Ankita Girish
+at Cisco Systems
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

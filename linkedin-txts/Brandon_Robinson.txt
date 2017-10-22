@@ -1,0 +1,75 @@
+Brandon Robinson
+Austin, Texas Area
+Software Engineer @ CDK Global
+
+Summary
+“If people were super-optimistic about technology there would be no reason to be pessimistic about
+ the future.” ― Peter Thief
+
+I have always considered myself to be very optimistic about the future. As we all know, technology is
+ at the heart of what will propel our society into the stratosphere. For the last 6 years, I have focused
+ on accumulating as much knowledge I can about these very subjects: technology and innovation.
+ As a future professional, I plan to work alongside a results driven team that develops services and
+ products that outperform the competition. I bring a unique balance of knowledge and communication;
+ I believe that all great things are created by great teams. I consider myself as a leader and my
+ colleagues would consider me as being a calculated risk taker. If there’s one thing I have learned
+ over the last 6 years, it would be to not let the little things distract you from what is important. 
+
+Academically, I learned Java and C as they were the main languages taught at USF. To broaden my
+ portfolio, I expanded my knowledge by learning web technologies such as the MEAN stack which I
+ later applied in hackathons and personal projects. Long term I see myself developing software for the
+ logistics industry as I would take great pride in innovating new methods for people and computers to
+ be more efficient.
+
+https://about.me/brobinsonone
+
+Experience
+Software Engineer at CDK Global
+February 2017  -  Present  (9 months)
+
+Working on CDK's Client Delivery Team to customize software applications specific to our client's
+ needs utilizing the latest technology stacks and frameworks. 
+
+API & Appstore Security Intern at Autodesk
+May 2016  -  September 2016  (5 months)
+
+- Analyzed post-production REST API’s within a staged environment to discover any security
+ vulnerabilities. 
+- Wrote SQL injection queries, cross site scripting code, etc. and injected them within the different
+ project parameters to exploit security flaws.
+
+- Developed engineering solutions with individual development teams to resolve issues.
+
+Software Engineering Co-op at Ten-X
+January 2016  -  May 2016  (5 months)
+
+- Co-created a web application that allowed Ten-X employees to create Solr queries to index the
+ company's database of real estate properties. 
+- Backend development utilizing Express.js, a MongoDB instance, Ten-X's MySQL database, and
+ Solstice. 
+- Successful in allowing users to create, remove, update, and delete queries. 
+- Successful in rendering properties using the Google Maps API, Bootstrap, and distinctive
+ AngularJS modules. 
+
+Technician at Apple
+January 2013  -  May 2016  (3 years 5 months)
+
+- Diagnose and troubleshoot user's equipment to either repair or replace Apple products.
+- Worked alongside a large team that promoted a feedback culture.
+- Felt empowered to take risks, innovate new ideas, and be a leader for my peers.
+
+Education
+University of San Francisco
+Bachelor’s Degree, Computer Science, 2012 - 2016
+Activities and Societies:  St. Anthony's Technology Lab - Volunteer
+University of California, Santa Cruz
+Summer course, Computer Science, 2013 - 2013
+
+Brandon Robinson
+Austin, Texas Area
+Software Engineer @ CDK Global
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

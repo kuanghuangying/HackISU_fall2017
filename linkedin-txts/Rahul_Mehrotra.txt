@@ -1,0 +1,137 @@
+Rahul Mehrotra
+San Francisco Bay Area
+Site Reliability Engineer: Platform Infrastructure & Self Driving Cars at Uber
+
+Summary
+A highly motivated Cloud & DevOps Engineer with hands on skills in architecting highly scalable and
+ fault tolerant cloud architecture, automating infrastructure deployment and orchestration, continuous
+ integration, rolling updates for application and monitoring.
+
+Current expertise and experience include but not limited to
+
+Cloud Technologies: Amazon Web Services (AWS), OpenStack, Google Cloud Engine
+DevOps Technologies: Packer, Terraform, Ansible, Chef, Docker, Vagrant, Cobbler, Splunk, Jenkins
+Virtualization Technologies: KVM, Virtualbox, ESXi, HyperV
+Monitoring: Nagios, WatchMouse
+Database: MySQL, Redis, MongoDB
+Languages: Python, C/C++, Java
+
+Certifications:
+AWS Certified Solution Architect - Associate
+AWS Certified SysOps Administrator - Associate
+CCNA
+CCENT
+
+Experience
+Site Reliability Engineer at Uber
+April 2016  -  Present  (1 year 7 months)
+
+Working on scaling out Uber's datacenter to cloud & making Uber's Self Driving car Infrastructure
+ more reliable
+
+• Winner of MVP (Most Valuable Peer) Award
+• Nominated member of SRE culture working group to help provide recommendation to SRE
+ Leadership & Uber's Executive Leadership team on improving overall culture of Uber's SRE org. 
+• Part of Uber's Emergency Response Team (Uber Hero Team)
+
+Software Engineer: Cloud & DevOps at Nokia Technologies
+
+February 2015  -  March 2016  (1 year 2 months)
+
+• Architect a highly available, scalable and fault-tolerant infrastructure on AWS
+• Automate infrastructure creation, deployment and recovery using Ansible/Salt, Docker, Terraform
+ & Jenkins.
+•       Jenkins and Ansible based large-scale deployment of java and nodejs application
+• Implement zero-downtime rolling updates for applications in cloud.
+• Automate multiple VPC pairing across same and different AWS accounts to facilitate resource
+ sharing and communication.
+• Owned and managed cloud-server components such as Docker-registry, iPython-server ,Crash-
+log server, Mesos and Salt Master.
+• Co-coordinating with development team for efficient Cloud-Based predictions for popular Z-
+launcher.
+• Service status monitoring using DataDog & New Relic to provide complete overview of system
+ health.
+• Code analysis using coverity & code-coverage using jacoco
+• Scrum Master: Facilitate release planning, daily scrum meetings, reviews, user story selection and
+ task definition using Rally Agile Project Management Software.
+
+Cloud Application / Infrastructure Developer Intern at Juniper Networks
+June 2014  -  November 2014  (6 months)
+
+• Established continuous integration environment using Packer and Jenkins.
+• Performed configuration management, system orchestration and application deployment using
+ Ansible and Ansible Tower
+• Constructed a continuous infrastructure and application deployment pipeline on Amazon Web
+ Services (AWS)
+• Performed stress testing on automation pipeline and active environment change tracking using
+ Edda.
+
+Web Master at Renu Skin Care
+January 2009  -  April 2013  (4 years 4 months)
+
+Collaborated with client to identify the requirements within their budget, designed a rough layout
+ and submitted it to client for evaluation.
+Designed the final layout and developed the website. Added a few features based on clients
+ changed requirements. Purchased and registered the domain for client. Hosted the website on the
+ server
+
+Branch Councellor & Tutor at MT Educare Limited
+June 2010  -  August 2012  (2 years 3 months)
+
+• Worked in a corporate environment, responsibility was to handle incoming inquiries and increase
+ admissions, Target a customer base and to make them purchase course packages.
+
+• The organization witnessed twice as much admission than previous year. I was appreciated by my
+ seniors for my work.
+•       Worked on tutoring high-school students in subjects like Physics, Chemistry, Maths and
+ Computer Science.
+
+Networking Trainee at ViaWeb Technologies
+June 2010  -  July 2010  (2 months)
+
+During my internship at ViaWeb Technologies I learnt
+•  How to Design a Structured Network
+•  Installing and Configuration of Router
+•  Defining rules in configuration of a Fire-wall
+along with use of Linux Operating System.
+
+Education
+San Jose State University
+Master's degree, Computer Engineering, 2013 - 2015
+Activities and Societies:  Society Of Computer Engineers
+University of Mumbai
+B.E., Computers, 2009 - 2013
+Activities and Societies:  NSS-TSEC, IEEE-TSEC, ISTE-TSEC, CSI-TSEC
+
+Rahul Mehrotra
+San Francisco Bay Area
+Site Reliability Engineer: Platform Infrastructure & Self Driving Cars at Uber
+
+3 people have recommended Rahul
+
+"Rahul build and manages the website for Renu Skin Care (Renusskincare.com). He has ingenious
+web skills with an eye for detail. He was able to complete the task timely and continues to manage
+it properly, keeping up with the changes and updates we want to add. Our website has received a
+lot of complements over the years and it is because he keeps it user friendly and up to date."
+—Suhani Mehrotra, Clinical Student ,  Intellectual Property Clinic,  managed Rahul at Renu Skin
+Care
+
+"It was a pleasure working with Rahul over the summer. Both his passion and "can do" attitude
+is a welcome to any team. He establishes a high standard for quality and is not satisfied until
+he exceeds all his objectives without compromise. Rahul did a fantastic job with his challenging
+summer project taking automation to the next level for us in a cloud environment. "
+—Jerry Ibrahim, Sr Director Software Engineering & Architecture,  Tesla,  managed Rahul indirectly
+at Juniper Networks
+
+"Rahul joined my team as a new graduate but had built essential experience in tools and services
+such as AWS and Ansible both during his previous internship and through self-motivated study -
+a factor that made his hire an easy decision. Rahul has subsequently continued to prove me right.
+He is keen and quick to learn, taking on many new technologies and driving their implementation
+forward. If your team needs a hard-working dev ops. engineer with infrastructure-as-code, cloud
+orchestration, containerization and deployment experience then I highly recommend Rahul."
+—Simon Turvey, VP Engineering,  Trint,  managed Rahul at Nokia Technologies
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

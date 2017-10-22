@@ -1,0 +1,100 @@
+Fan Jin
+Vancouver, Canada Area
+Software Developer at QHR Technologies
+
+Summary
+Self-motivated software developer. Currently, I am a full-stack Web developer at QHR Technologies. I
+ simply like coding and turning ideas into products.
+
+Experience
+Software Developer at QHR Technologies
+May 2017  -  Present  (6 months)
+
+Junior Software Developer at QHR Technologies
+June 2016  -  May 2017  (1 year)
+
+Development of Medeo's Video conferencing application, specializing in WebRTC field. Contributor
+ of the Medeo web application and Medeo's multi-user conferencing component. 
+
+Transitioned Medeo's existing video technology(WebRTC) from one to one video conferencing to
+ multi-user video conferencing. It allows patients see many practitioners at the same time and open
+ up some new business areas for the company.
+
+Development of the Medeo Virtual care product for patients. This single-page application consists
+ of an appointment system, a real-time chat and video conferencing component, as well as a secure
+ messaging service for asynchronous communication.
+
+Maintain the existing Medeo stack including provider web application, the backend services, live
+ chat system and Signaling service.
+
+Software Developer at Pangu Holdings Corp(Vansky)
+March 2015  -  June 2016  (1 year 4 months)
+
+Maintain current services - Current servers were built using Javascript and are maintained using
+ nodeJS. I am required to fix any bugs or problems reported by customers, and keep the current
+ code updated to ensure that no more bugs arise; Update, add or remove advertisements and
+ banners on the website using HTML, CSS and some Javascript; Ensure that the admin page and
+ administration services are running appropriately and fixed through use of Java; Make required
+ changes to the database using MySQL.
+
+Develop new features - Use HTML, CSS and Javascript to add new features to the website to
+ ensure better usage for our clients. Currently working on implementing the gallery for the buy and
+ sell page so users can view images of products; Change all existing Java restful API’s to NodeJS
+ API’s to increase loading speeds because the Java web services consumed too much system
+ memory, and to reduce on maintenance costs as the whole application would be running on one
+ language - Javascript; Enabling discount features to clients who use one of our mobile product
+ applications to retail clients that use our website.
+Testing - Ensuring whenever new features are added that there are no bugs introduced by them,
+ making sure that the features are working as expected, and ensuring that new features work well
+ with existing features. 
+Security -  Identify and prevent security breaches on the website by regularly checking processes
+ on the linux server environment. When a process is found to be acting out of order by either
+ consuming too much memory or too much CPU power, an analysis is made on that process to
+ verify whether it is suspicious or not. if suspicion, the cause of the malfunction is verified and
+ the necessary steps are taken to place on contraint on the cause of the problem so it does not
+ happen again; Ensure information on the website is kept safe by installing and maintaining security
+ mechanisms such as firewalls and data encryption.
+Linux system/server configurations
+
+SSG Programmer at Intel Corporation
+April 2013  -  September 2013  (6 months)
+
+I worked for Intel as an intern in a group under Intel SSG(Software Solution Group). I was
+ responsible to the ITS client manager UI code design (2nd edition). I used the Java swing
+ technology to design the prototype of the ITS client manage and took parted in the requirement
+ analysis and use case discussion. I took all the code design and bug fix work of the complex UI
+ part. 
+The project has received the Intel developer forum innovation award in September 2013 in
+ San Francisco. I was a key contributor of the project. Also I have learn not only professional
+ programming skills but also how to communicate with my team members and work as a team is the
+ key to success. Coordinate and collaborate with team members to achieve the goal.
+
+Web Developer at LeEco
+April 2012  -  September 2012  (6 months)
+
+I had an internship with LeEco in China Beijing during April 2012 to September 2012. I was involved
+ in the Web UI development for the online store STB(Set Top Box) using mostly HTML5, JavaScript
+ and CSS3.
+
+Education
+Thompson Rivers University
+
+Bachelor of Computing Science Degree (BCS), Computing Science, 2008 - 2014
+
+Fan Jin
+Vancouver, Canada Area
+Software Developer at QHR Technologies
+
+1 person has recommended Fan
+
+"I had a great experience working with Fan. He is very helpful and a great team player. I learnt a
+lot from him.. Fan’s attention to detail is impressive. He has a great passion to learn new stuff and
+a will to constantly improve. He is a very valuable addition to any team and I strongly recommend
+him."
+—Aamir Islam, Software Developer,  QHR Technologies,  worked directly with Fan at QHR
+Technologies
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+

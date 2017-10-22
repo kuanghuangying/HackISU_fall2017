@@ -1,0 +1,100 @@
+Eugene Udezi, MBA
+Greater Minneapolis-St. Paul Area
+Sr. Application Developer, Business Intelligence & Analytics
+
+Summary
+Results driven Business Intelligence & Analytics  professional with a knack for product & process
+ improvement.
+
+To offer suitable solutions to a myriad of business problems, I perpetually draw from my business and
+ technical background, coupled with knowledge gained from continuous research & experimentation.
+
+Experiences with: 
+- T-SQL, DAX, MDX, Power BI, MS Azure, SSAS Tabular Models, QlikView & Netezza
+- ETL, SSIS package development, 
+- .NET Development in C# and VB.NET 
+- HTML, CSS, XML, JSON, Javascript, AngularJS
+- Database Development in SQL Server 2000 - 2016, PDW & Teradata EDW.
+- SSRS Report design and Development
+- Crystal Reports Design & Development
+- Systems Analysis & Design
+- Agile/Scrum Development Experience
+- Query Optimization, Stored Procedures, Triggers
+
+COLLABORATION TOOLS: 
+Microsoft TFS, CVS, Git, Tortoise SVN, 
+SourceGear, Apache Subversion w/Trac
+
+Experience
+Sr. Application Developer at Best Buy
+June 2014  -  Present  (3 years 5 months)
+
+Business Intelligence solutions design & development resource for Best Buy {North America}
+ Analytics and Reporting initiatives.
+
+Sr. Software Engineer at New York Mint
+February 2014  -  June 2014  (5 months)
+
+Lead Development Resource for Data Quality and Reporting.
+
+- Evaluate business requirements & provide recommendations for appropriate tools/ tech to develop
+ solution.
+- Design, code, test, and analyze software programs and applications 
+- Perform code reviews 
+- Recommend, schedule, manage or perform process/software improvements and upgrades
+
+Software Developer at Data Recognition Corporation
+March 2008  -  February 2014  (6 years)
+
+Development Resource for building proprietary apps used to action on new and current business.
+
+- Develop and maintain .NET applications in an Agile/Scrum environment.
+- Develop stored procedures for reporting & application data needs, using T-SQL.
+- Design & develop SSIS packages for varied data transformation and transfer needs
+- Design & develop custom web reports using SSRS to meet internal and external client reporting
+ needs
+- Perform planned and ad-hoc application behavior modifications to meet changing business needs.
+- Provide peak season system wide support for imaging and handscoring clients.
+
+IS Analyst Intern at Valspar
+May 2007  -  October 2007  (6 months)
+
+- Subledger and GL Month-End process automation for Valspar Canada, Swiss and UK. 
+- Requirements gathering.
+- Process Analysis, Design & Testing.
+- Process & Test Case Documentation.
+- Functional specifications review.
+- User acceptance testing.
+
+Education
+St. Cloud State University
+MBA, Information Systems, 2010 - 2012
+St. Cloud State University
+Bachelor, Computer Information Systems, 2004 - 2008
+
+Eugene Udezi, MBA
+Greater Minneapolis-St. Paul Area
+Sr. Application Developer, Business Intelligence & Analytics
+
+2 people have recommended Eugene
+
+"Eugene was great to work with at Data Recognition Corporation. He was one of the developers I
+could count on to complete his work correctly and on time. When it came to support, he was one
+of the few developers who would do his homework on an issue and figure out the details before
+escalating an issue."
+—Brian White, Senior Developer,  Hodges-Mace, LLC,  managed Eugene indirectly at Data
+Recognition Corporation
+
+"Eugene was an IT Finance Business Analyst intern that I supervised at Valspar. He did a great
+job helping me implement a Finance project during the summer that he was an intern there. He
+caught on very quickly and was able to work without supervision a good portion of the time. He
+has a friendly personality and was liked by everyone. I was hoping that there would have been a
+full time position available at Valspar when he graduated but unfortunately there wasn't. I know he
+would have been an asset."
+—Leslie Scharafanow, Oracle EBS IS Business Analyst - Financials,  Graco,  managed Eugene
+indirectly at Valspar
+
+Profile Notes and Activity (1)
+10/22/2017—View by Shane Ong
+
+
