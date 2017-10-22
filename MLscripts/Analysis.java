@@ -6,7 +6,7 @@ import java.io.FileWriter;
 class Analysis {
 	private static final String COMMA_DELIMITER = ",";
 	private static final String NEW_LINE_SEPARATOR= "\n";
-	private static final String FILE_HEADER = "name,comp0,tt0,descrip0,comp1,tt1,descrip1,comp2,tt2,descrip2,comp3,tt3,descrip3,comp4,tt4,descrip4,school,degree,skill_score";
+	private static final String FILE_HEADER = "name,company0,job_title0,descrip0,company1,job_title1,descrip1,company2,job_title2,descrip2,company3,job_title3,descrip3,company4,job_title4,descrip4,school,degree,school_score,skill_score";
 
 
 	/* findSchoolScore()
@@ -17,20 +17,20 @@ class Analysis {
 	 */
 	String[] all_txt_files = {"Smit_Shah.txt", "Mavin_Martin.txt", "Sina_Ariyan.txt", "Chase_Ziwen_Cao.txt", "XiangbingJiProfile.txt", "Anurag_Bitton.txt", "p1.txt", "HaoGaiProfile.txt", "Zhou_Yu.txt", "Yufan_Lu.txt", "Zidong_Liu.txt", "Shiv_Patel.txt", "Aaron_Iglesias.txt", "Qing_Zhang.txt", "Jinal_Shah.txt", "Michael_Bediako.txt", "Tao_Ning.txt", "Alexey_Klishin.txt", "Lei_Wang.txt", "Alen_Kubati.txt", "Zach_Dischner.txt", "Xiwen_Zhang.txt", "Rohit_Sinha.txt", "Jerry_Luo.txt", "Swaroop_Manjunath.txt", "Bo_Yi.txt", "Dhrupad_Bhardwaj.txt", "Anshuman_Bansal.txt", "William_S._Fuller.txt", "Derrick_Chie.txt", "Mengfan_Chen.txt", "Zohaib_Iqbal.txt", "Alex_Vaky.txt", "Grace_Liu.txt", "Sharad_Banka.txt", "Aaron_Pankratz.txt", "Solaris_Nite.txt", "Feihong_Yang.txt", "Son_Pham.txt", "Sikai_Zhu.txt", "Shivani_Patil.txt", "Kevin_Nguyen.txt", "Tushar_Bhandari.txt", "Tyler_Bui-Palsulich.txt", "Mojtaba_Seyedhosseini.txt", "Shu_Wang.txt", "Michael_Taufen.txt", "Renchi_Yan.txt", "Akshay_Joshi.txt", "Raghav_Baldania.txt", "Michael_Bucher.txt", "Truman_Cranor.txt", "Luke_Lancaster.txt", "PJ_McNerney.txt", "Rundong_Lyu.txt", "Raisa_Cuevas.txt", "Ahmad_Zaraei.txt", "Shuguang_Han.txt", "Niharika_Ray.txt", "Animesh_Seth.txt", "Anuja_verma.txt", "Lingyun_Ruan.txt", "Hongyu_Song.txt", "Jialin_Yu.txt", "Ankit_Agarwal.txt", "Ribel_Fares.txt", "Morgan_Aw.txt", "Zhiwen_Fang.txt", "Hengchin_Yeh.txt", "Haitham_Gabr.txt", "Noah_Crocker.txt", "Anirudh_Subramanian.txt", "Liang_Tang.txt", "Harsha_Hassan_Somashekara.txt", "Li_Li.txt", "Ashish_Rathi.txt", "Ricardo_Alberto_Gaviria.txt", "Johann_Kerbrat.txt", "Cong_Qiao.txt", "Robert_Sperry.txt", "Madeleine_Esson.txt", "Vaishakh_Baragur_Narasimhareddy.txt", "Nathan_Stender.txt"};
 
-	String[] top_colleges = { "harvard university", "stanford university", 
-"princeton university new jersey", "yale university", "williams college massachusetts", "pomona california college", "brown university", "swarthmore college pennsylvania", "amherst college", "massachusetts college of technology", 
-"university of pennsylvania", "university of notre dame indiana", "darmouth college new hampshire", "columbia university in the city of new york", "northwestern illinois university", "duke university north carolina", "tufts university massachusetts", "claremont college california", "georgetown university", "cornell university new york", "wesleyan university connecticut", "university of chicago", 
-"davidson college north carolina", "wellesley college massachusetts", "rice texas", "washington lee university virginia", "carleton college minnesota", "technology institute california", "middlebury college vermont", "university of california berkeley", "university of virginia", "boston college massachusetts", "university of california los angeles", "william mary college virginia", "colgate university new york", "university michigan ann arbor", "barnard college new york", 
-"bucknell university", "colby college maine", "vanderbilt university tennessee", "johns hopkins university maryland", "kenyon college ohio", "university of north carolina chapel hill", "oberlin college ohio", "whitman college washington", "hamilton college new york", 
-"reed college oregon", "lafayette college pennsylvania", "holy cross college massachusetts", "washington university in st louis", "carnegie mellon university pennsylvania", "harvey mudd college california", "franklin and marshall college", "wake forest university north carolina", "university of rochester", "colorado college", "university of southern california", "grinnell college iowa", "macalester college minnesota", "university of illinois at urbana champaign", "university wisconsin madison", "bates college maine", "villanova university pennsylvania", "lehigh university pennsylvania", "brandeis university massachusetts", "university of washington", "new york university", "emory university georgia", "trinity college connecticut", "the university of texas at austin", "university of florida", "sewanee the university of the south", "santa clara california university", "dickson college pennsylvania", "skidmore college ny", "georgia institute of technology main campus", "centre college kentucky", "boston university massachusetts", "connecticut college", "university maryland college park", "occ college california", "mount holyoke college massachusetts", "denison university ohio", "wofford college south carolina", "rhodes college tennessee", "university of richmond", "trinity university texas", "university of georgia", "university of california santa barbara", "brigham young university utah", "university of california davis", "saint johns university minnesota", "saint olaf college minnesota", "colorado school mines", "northeastern university massachusetts", "case western reserver university", "gettysburg college pennsylvania", "southern method university", 
+	static String[] top_colleges = { "harvard university", "stanford university",
+"princeton university new jersey", "yale university", "williams college massachusetts", "pomona california college", "brown university", "swarthmore college pennsylvania", "amherst college", "massachusetts college of technology",
+"university of pennsylvania", "university of notre dame indiana", "darmouth college new hampshire", "columbia university in the city of new york", "northwestern illinois university", "duke university north carolina", "tufts university massachusetts", "claremont college california", "georgetown university", "cornell university new york", "wesleyan university connecticut", "university of chicago",
+"davidson college north carolina", "wellesley college massachusetts", "rice texas", "washington lee university virginia", "carleton college minnesota", "technology institute california", "middlebury college vermont", "university of california berkeley", "university of virginia", "boston college massachusetts", "university of california los angeles", "william mary college virginia", "colgate university new york", "university michigan ann arbor", "barnard college new york",
+"bucknell university", "colby college maine", "vanderbilt university tennessee", "johns hopkins university maryland", "kenyon college ohio", "university of north carolina chapel hill", "oberlin college ohio", "whitman college washington", "hamilton college new york",
+"reed college oregon", "lafayette college pennsylvania", "holy cross college massachusetts", "washington university in st louis", "carnegie mellon university pennsylvania", "harvey mudd college california", "franklin and marshall college", "wake forest university north carolina", "university of rochester", "colorado college", "university of southern california", "grinnell college iowa", "macalester college minnesota", "university of illinois at urbana champaign", "university wisconsin madison", "bates college maine", "villanova university pennsylvania", "lehigh university pennsylvania", "brandeis university massachusetts", "university of washington", "new york university", "emory university georgia", "trinity college connecticut", "the university of texas at austin", "university of florida", "sewanee the university of the south", "santa clara california university", "dickson college pennsylvania", "skidmore college ny", "georgia institute of technology main campus", "centre college kentucky", "boston university massachusetts", "connecticut college", "university maryland college park", "occ college california", "mount holyoke college massachusetts", "denison university ohio", "wofford college south carolina", "rhodes college tennessee", "university of richmond", "trinity university texas", "university of georgia", "university of california santa barbara", "brigham young university utah", "university of california davis", "saint johns university minnesota", "saint olaf college minnesota", "colorado school mines", "northeastern university massachusetts", "case western reserver university", "gettysburg college pennsylvania", "southern method university",
 "university minnesota twin cities", "indiana university bloomington" };
 
-	private int rateCollege(String college)
+	private static int rateCollege(String college)
 	{
 		for (int i = 0; i < top_colleges.length; i++)
 		{
 			// i under 25 : top 25 college best to worst rated
-			if (top_colleges[i].toLowerCase().equals(college.toLowerCase)) {
+			if (top_colleges[i].toLowerCase().equals(college.toLowerCase())) {
 				if(i < 25) {
 					return 3;
 				} else {
@@ -127,7 +127,7 @@ class Analysis {
 					exp_desc += resume[z] + " ";
 				}
 				exp_desc = exp_desc.replaceAll("\\W", " ");
-				resume[temp]=resume[temp].replaceAll("  "," ");
+				exp_desc= exp_desc.replaceAll("  "," ");
 
 				System.out.println(position_company);
 				System.out.println(time_range);
@@ -141,6 +141,7 @@ class Analysis {
 				else{
 				 	pos = position_company.substring(0,at_ind-1);
 				 	comp = position_company.substring((at_ind + 3), position_company.length());
+					comp = comp.replaceAll(",", " ");
 					System.out.println(pos);
 					System.out.println(comp);
 				}
@@ -188,9 +189,12 @@ class Analysis {
 				}
 
 				List<String> education = a.getEducation(t[i]);
-				fileWriter.append(education.get(0));  // school index 16
+				fileWriter.append(education.get(0));  // school
 				fileWriter.append(COMMA_DELIMITER);
-				fileWriter.append(education.get(1));  // degree index 17
+				fileWriter.append(education.get(1));  // degree
+				fileWriter.append(COMMA_DELIMITER);
+
+				fileWriter.append(String.valueOf(rateCollege(education.get(0))));  //school score
 				fileWriter.append(COMMA_DELIMITER);
 				fileWriter.append(NEW_LINE_SEPARATOR);
 			}
