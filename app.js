@@ -51,7 +51,7 @@ app.use(function(req, res, next) {
 app.use('/', index);
 app.use('/', auth.router);
 app.use('/db', db);
-app.use('/upload', upload);
+app.get('/upload', upload);
 app.get('/protected', ensureLoggedIn('/login'), function(req, res, next) {
   res.render('protected');
 });
