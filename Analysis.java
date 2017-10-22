@@ -1,7 +1,15 @@
 import java.util.List;
 import java.util.ArrayList;
+import java.io.IOException;
+import java.io.FileWriter;
 
 class Analysis {
+	private static final String COMMA_DELIMITER = ",";
+	16
+	private static final String NEW_LINE_SEPARATOR= "\n";
+	private static final String FILE_HEADER = "name,comp0,tt0,descrip0,comp1,tt1,descrip1,comp2,tt2,
+																descrip2,comp3,tt3,descrip3,comp4,tt4,descrip4,school,degree,skill_score";
+
 
 	/* findSchoolScore()
 	 * findGPA()
@@ -52,14 +60,60 @@ class Analysis {
 		return edu;
 	}
 
+
+
+
 	public static void main(String[] args)
 	{
 		Analysis a = new Analysis();
 		String[][] t = a.scanTxts();
-		List<String> education = a.getEducation(t[0]);
+		int numResume = t.length;
 
-		System.out.println(education.get(0));
-		System.out.println(education.get(1));
+
+		FileWriter fileWriter = null;
+
+		try {
+			fileWriter = new FileWriter("final.csv");
+
+			//Write the CSV file header
+			fileWriter.append(FILE_HEADER.toString());
+
+			//Add a new line separator after the header
+			fileWriter.append(NEW_LINE_SEPARATOR);
+
+			//Write a new student object list to the CSV file
+			for (int i =0; i<numResume; i++) {
+				fileWriter.append(t[i][0]);  //name
+				fileWriter.append(COMMA_DELIMITER);
+
+				// add work experience
+				List<String> experience = a.getExperience(t[i])
+				experience.forEach(a->
+						{fileWriter.append(a);
+						fileWriter.append(COMMA_DELIMITER);})
+
+				List<String> education = a.getEducation(t[i]);
+				fileWriter.append(education.get(0));  // school index 16
+				fileWriter.append(COMMA_DELIMITER);
+				fileWriter.append(education.get(1));  // degree index 17
+				fileWriter.append(COMMA_DELIMITER);
+
+			}
+			System.out.println("CSV file was created successfully !!!");
+
+		} catch (Exception e) {
+			System.out.println("Error in CsvFileWriter !!!");
+			e.printStackTrace();
+		} finally {
+
+			try {
+				fileWriter.flush();
+				fileWriter.close();
+			} catch (IOException e) {
+				System.out.println("Error while flushing/closing fileWriter !!!");
+                e.printStackTrace();
+			}
+		}
 
 	}
 
