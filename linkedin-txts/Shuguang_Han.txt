@@ -1,0 +1,70 @@
+Shuguang Han
+San Francisco Bay Area
+Software Engineer at Google
+
+Summary
+I am a PhD candidate from School of Information Sciences, University of Pittsburgh. I received both
+ Master and Bachelor degrees from Wuhan University, China. My research focuses on intelligent
+ information retrieval and recommender systems supporting complex information access tasks. 
+
+Experience
+Software Engineer at Google
+April 2017  -  Present  (7 months)
+
+Data Mining with Private Data, Personalization and Search
+
+PhD at University of Pittsburgh
+June 2011  -  April 2017  (5 years 11 months)
+
+PhD graduate from University of Pittsburgh, working on information retrieval techniques.
+
+Software Engineer Intern at Google
+July 2015  -  October 2015  (4 months)
+
+Understanding Mobile Attention at Google Research
+
+Research Intern at Yahoo
+April 2015  -  July 2015  (4 months)
+
+Working on mobile web search query analysis
+
+Research Engineer (Part Time) at Google
+December 2014  -  February 2015  (3 months)
+
+Technical Intern at Google
+June 2014  -  September 2014  (4 months)
+
+I am working on building a new Chrome extension named Wernicke that enables users to interact
+ with the DOM structure of a web page and annotate the page structures lively. To ensure the
+ annotation quality, Wernicke proposes a behavior-based method, in which the annotation quality
+ is predicted through users’ implicit behavioral features such as time spent on annotation, number
+ of mouse clicks, scrolls and etc. Results found that behavioral signals indeed predict annotation
+ quality more robust and reliable.
+
+Research Assistant at EdLab, Teachers College Columbia University
+June 2013  -  September 2013  (4 months)
+
+Working on algorithms for recommendation and search in implicit datasets.
+
+Research Assistant at Carnegie Mellon University
+July 2012  -  August 2012  (2 months)
+
+Internship on Geo-location analysis of Twitter
+
+Product Marketing (Intern) at Baidu, Inc.
+June 2009  -  December 2009  (7 months)
+
+Education
+University of Pittsburgh
+Information Science/Studies, 2011 - 2018
+Wuhan Universiy
+Master, Information Science, 2008 - 2010
+
+Shuguang Han
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

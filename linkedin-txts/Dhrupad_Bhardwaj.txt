@@ -1,0 +1,75 @@
+Dhrupad Bhardwaj
+Greater New York City Area
+Software Engineer at Google
+
+Summary
+I graduated from the University of Pennsylvania with a Bachelors of Science in Engineering majoring
+ in Computer Science. I also extensively pursued coursework in Finance, Operations Research and
+ Information Management. 
+
+My research interests include Graph Algorithms, Deterministic Reputation Systems, Qualitative
+ ranking in Social Networks and applications of predictive modelling in Securities Pricing.
+
+I'm currently working in Google NYC as a part of Google Cloud on the Stackdriver team.
+
+Experience
+Software Engineer at Google
+September 2016  -  Present  (1 year 2 months)
+
+Monitoring and logging systems for Google Stackdriver, part of Google Cloud Platform.
+
+CIS 160 Teaching Assistant at University of Pennsylvania
+August 2014  -  May 2016  (1 year 10 months)
+
+Member of the Teaching Assistant team for Mathematical Foundations of Computer Science Fall
+ 2014, Fall 2015 (CIS 160). Responsibilities include teaching a weekly 1 hour long recitation to a
+ class of around 20 students, grading exams and assignments, holding weekly office hours as well
+ as assisting the professor in developing course material as an when required.
+
+Software Engineering Intern at Google
+May 2015  -  August 2015  (4 months)
+
+Joined Google for the summer of 2015 as a part of their Social Data Infrastructure team. I worked
+ on writing large scale parallelized data processing pipelines for Social user data across a variety
+ of Google products. Pipelines were written in Java using internal libraries and implemented the
+ MapReduce programming model. Additionally worked to develop a Workflow management system
+ for the team’s periodic batch data processing jobs.
+
+CIS 121 Teaching Assistant at University of Pennsylvania
+January 2015  -  May 2015  (5 months)
+
+Member of the Teaching Assistant team for Algorithms and Data Structures Spring 2015 (CIS 121).
+ Responsibilities include teaching a weekly 1 hour long recitation to a class of around 20 students,
+
+ grading exams and assignments, holding weekly office hours as well as assisting the professor in
+ developing course material as an when required.
+
+InStep Software Development Intern at Infosys
+May 2014  -  July 2014  (3 months)
+
+Developed a POC for predicting Customer Churn in Telecom using Supervised Machine Learning
+ techniques and Algorithms. Developed the project using R, Python (Sci-Kit Learn) and Apache
+ Mahout . Also worked on a analytics platform for Topic Modelling and text analytics using Lucene,
+ Mahout and Python.
+
+Informatics Systems Developer at Sphaera Pharma Pvt. Ltd.
+June 2013  -  September 2013  (4 months)
+
+I worked on software to help query chemical substances using structural, pictographic search
+ queries.
+
+Education
+University of Pennsylvania
+Bachelor of Science in Engineering, Computer Science, 2012 - 2016
+Activities and Societies:  Model UN, Freelance Web Development
+La Martiniere for Boys
+High School Diploma, Science, 2007 - 2011
+
+Dhrupad Bhardwaj
+Greater New York City Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

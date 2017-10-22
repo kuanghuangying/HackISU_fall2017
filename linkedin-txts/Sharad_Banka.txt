@@ -1,0 +1,102 @@
+Sharad Banka
+San Francisco Bay Area
+Software Developer (C++ primarily)
+
+Summary
+Specialties: C++, Algorithms, Ads Serving/Ranking Infrastructure, Distributed Systems, Auction
+ Theory.
+
+A proficient C++ developer  interested in the field of Algorithms, Distributed Systems and Auction
+ Theory. I would like to pursue a career designing scalable infrastructure for low latency software
+ systems. I have extensive experience building/working on Ads Serving and Ranking infrastructure.
+
+Experience
+Software Engineer at Google
+July 2015  -  Present  (2 years 4 months)
+
+Data Sciences Engineer at Sumo Logic
+April 2014  -  June 2015  (1 year 3 months)
+
+Software Engineer at Facebook
+February 2013  -  March 2014  (1 year 2 months)
+
+Machine Learning, Ads Conversion Optimization Team
+
+Teaching Assistant at The University of Texas at Austin
+August 2012  -  December 2012  (5 months)
+
+TA of CS 314H: Data Structure Honors Course with Prof. Calvin Lin.
+
+Graduate Computer Science Student at University of Texas at Austin
+August 2011  -  December 2012  (1 year 5 months)
+
+Area of Interest: Machine Learning, Algorithms, Game Theory (Auctions).
+
+Courses: Machine Learning, Algorithmic Game Theory, Algorithms, Advanced Compilers and
+ Advanced Programming Tools.
+
+Projects:
+ i. Value Flow Graph based Flow Sensitive Pointer Analysis Implementation (Dr Lian Li et al. 2011)
+
+ ii. Flow Sensitive/Context Sensitive Pointer Analysis Implementation (Wilson & Lam PLDI 95).
+
+ Skills and Technology:  Advanced Compilers, Data Flow Analysis, Pointer Analysis, LLVM (C++)
+   
+      iii. Design of a location and time based event tracker Android Application (Java). 
+ Skills and Technology:  Java based Android Application. Backend hosted on Google App Engine.
+
+      iv. Design of a Movie Recommendation System using Bayesian Hierarchical Modeling.
+
+SDE Intern at Microsoft
+June 2012  -  August 2012  (3 months)
+
+Worked in the Windows Azure Mobile Services team on a prototype of one of their upcoming
+ features..
+http://www.windowsazure.com/en-us/develop/mobile/
+
+Graduate Teaching Assistant at University of Texas at Austin
+January 2012  -  May 2012  (5 months)
+
+I was the TA for the Graduate Engineering Programming Languages course offered in the Electrical
+ and Computer Engineering department. EPL is a graduate programming course which covers
+ advanced C++ concepts like Template Metaprogramming. My main responsibility was to help
+ students debug their projects and write efficient test programs and scripts to evaluate and grade
+ their projects.
+
+Senior Software Development Engineer at Shareaholic
+January 2011  -  July 2011  (7 months)
+
+Responsibility: Part of the start-up with just 3 employees then. So pretty much everything.
+         Technologies used: LAMP stack, JavaScript, jQuery, HTML, CSS, Elementary MongoDB,
+ CodeIgniter.
+
+Member of Technical Staff (s/w Developer) at Adobe
+May 2009  -  December 2010  (1 year 8 months)
+
+Responsibility: Making browser extensions for IE and Firefox to improve printing experience on the
+ web.
+         Technologies used: C++, JavaScript, jQuery, HTML, CSS, COM/XPCOM (for IE/Firefox
+ extension Development
+
+Summer Intern at Texas Instruments India Pvt. Ltd
+May 2008  -  August 2008  (4 months)
+
+Responsibility: Design of Smart Volume application for portable audio.
+            Technology used: Mostly a research based project with implementation in assembly
+ language.
+
+Education
+The University of Texas at Austin
+Master of Science, Computer Science, 2011 - 2012
+Jadavpur University
+BE, Electronics and Telecom., 2005 - 2009
+St. Lawrence High School
+
+Sharad Banka
+San Francisco Bay Area
+Software Developer (C++ primarily)
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

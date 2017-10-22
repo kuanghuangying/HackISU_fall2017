@@ -1,0 +1,62 @@
+Anurag Bitton
+Greater Seattle Area
+Software Engineer at Snapchat, Inc.
+
+Experience
+Software Engineer at Snapchat, Inc.
+February 2016  -  Present  (1 year 9 months)
+
+Software Developer at Snapchat, Inc.
+May 2015  -  August 2015  (4 months)
+
+Web/DataBase Applications Architect at NVIDIA
+September 2014  -  December 2014  (4 months)
+
+• Wrote both the UI and the REST end points which allows the user to perform GET, POST, PUT,
+ DELETE operation on any given URL and produce the data in a tabular format
+• Implemented dynamic package filtering for the REST Api, enabling it to send only requested
+ attributes in json as indicated in the url by adding ?include[]=“attribute”&include[]=“attribute”
+• Found and fixed behavioral and architectural issues in both UI and the back end
+• Created a new web UI for DataStore in order to provide a modern UI experience while making the
+ code more maintainable and testable by using Ember to enforce MVC architecture on the app
+• Languages used: CoffeScript, Java, JavaScript, HTML5 and CSS.
+• Learned and used tools like Ember, Ember-cli, BootStrap, Npm, Bower Jackson, Maven and
+ Perforce. 
+
+Software Developer - Cloud at Autodesk Inc.
+January 2014  -  April 2014  (4 months)
+
+• Created a REST end point which produced a JSON of change logs for a workspace, the language
+ used was Java in conjunction with Hibernate, Spring Jersey framework and PostgreSQL database.
+• Prototyped and designed both the front end (UI) and back end (database component) for script
+ versioning capability by integrating git into the product.
+• Prototyped intellisense for JavaScript specific to PLM and after business approval integrated it into
+ the product, will be soon released for customer use.
+• Tackled and solved problems related to code scalability and concurrency via reflection and
+ advance blocking feature in Java.
+• Languages used: Java, Javascript, SQL, HTML and CSS.
+• Learned and used tools like tomcat, spring, hibernate, JSP, JSON, Jira, Jenkins, gradle, and git.
+
+Java Software Developer at Embotics Inc.
+January 2013  -  April 2014  (1 year 4 months)
+
+• Used Java in combination with Hibernate and PostgreSQL to extract and analyze information from
+ the database, in order to output a processed snapshot of the data in an XML file.
+• Wrote custom XSL, XSL-FO code to process the XML file to produce html, pdf, csv file.
+• Prototyped and then integrated in vCommander (Embotics product), the ability to generate pdfs
+ from XML and the abilities to download, Email or schedule to auto generate and Email the pdf file.
+• Languages used: Java, HTML, CSS and XSL.
+• Learned and used: ant, tomcat, spring, hibernate, JSP, XML, Jenkins and git.
+
+Education
+University of Waterloo
+Bachelor of Computer Science, Mathematics and Computer Science, 2010 - 2016
+
+Anurag Bitton
+Greater Seattle Area
+Software Engineer at Snapchat, Inc.
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

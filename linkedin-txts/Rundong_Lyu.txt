@@ -1,0 +1,55 @@
+Rundong Lyu
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Experience
+Software Engineer at Airbnb
+February 2016  -  Present  (1 year 9 months)
+
+Teaching Assistant at Carnegie Mellon University
+September 2015  -  December 2015  (4 months)
+
+15-381 Artificial Intelligence: Representation and Problem Solving
+
+Software Engineer Intern at Google
+May 2015  -  August 2015  (4 months)
+
+• Greatly optimized current cache CPU and memory performance of the web search system
+• Designed and implemented a brand new type of cache, eliminating the current cache inefficiency
+ and greatly increasing hit rate without sacrificing CPU performance
+
+Research Assistant at The University of Hong Kong
+July 2014  -  July 2014
+
+• Worked under Professor Li, Victor On Kwok
+• Proposed and developed a Research Paper Recommendation algorithm based on citation graph
+• Applied Cosine Similarity Scheme for filtering the results
+
+Group Technology Summer Intern at UBS
+June 2013  -  August 2013  (3 months)
+
+• Worked on the Executive Services Portal in the Platform Services, Executive Services Team 
+• Designed process flows for the portal, managing data coming from existing systems
+• Minimized human work and maximized automation in the processes
+
+Education
+Carnegie Mellon University
+Master of Science (MS), Computer Science, 2014 - 2015
+The University of Hong Kong
+Bachelor of Engineering (BEng), Electronic and Communications Engineering, 2011 - 2014
+Activities and Societies:  HKU CSSAUD Soccer Team (won the Bronze Medal in the Hong Kong
+ Soccer League of Mainland Students)
+University of California, Santa Barbara
+Exchange Student, Electrical and Computer Engineering, 2012 - 2012
+Tsinghua University
+
+Preparatory Year, Electronics Engineering, 2010 - 2011
+
+Rundong Lyu
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

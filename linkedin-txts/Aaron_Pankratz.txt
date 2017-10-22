@@ -1,0 +1,55 @@
+Aaron Pankratz
+Austin, Texas Area
+Senior Software Developer at athenahealth
+
+Summary
+https://github.com/aaronpankratz
+
+Experience
+Senior Software Developer at athenahealth
+August 2016  -  Present  (1 year 3 months)
+
+ScrumMaster and developer of Population Health: Patient Self-Management
+
+Software Development Engineer at Amazon
+April 2015  -  July 2016  (1 year 4 months)
+
+iOS developer of Amazon Flex
+
+Software Engineer at Zilliant
+June 2013  -  April 2015  (1 year 11 months)
+
+• Team lead and ScrumMaster.
+• Full stack development. Salesforce front end, Java/MS SQL back end.
+• Unit, Functional, Selenium, Integration and Upgrade testing of MarginMax SaaS application.
+• Addressed security vulnerabilities including XSS, query injection and service request validation.
+• Administrator of Engineering’s Tableau Servers used for testing analytics integration in software
+ products.
+• Engineering delegate to 2014 Tableau Software Conference.
+
+Software Engineer Intern at Zilliant
+August 2012  -  May 2013  (10 months)
+
+• Worked on User Interface enhancements through all phases of the SDLC.
+
+Analyst Intern at Deutsche Bank
+June 2012  -  August 2012  (3 months)
+
+Group Technology & Operations
+• Application Services: Margin & Clearing
+• Worked on an automation scheduling system for a top 25 DB application. Included project
+ planning, testing, documenting requirements, writing knowledge base, coordinating and delegating
+ work with offshore team.
+
+Education
+The University of Texas at Austin
+Bachelor of Science (B.S.), Computer Science, 2013
+
+Aaron Pankratz
+Austin, Texas Area
+Senior Software Developer at athenahealth
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

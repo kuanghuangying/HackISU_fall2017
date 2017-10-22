@@ -1,0 +1,107 @@
+Tushar Bhandari
+San Francisco Bay Area
+Software Engineer 3 at eBay
+
+Summary
+It is our attitude and not our aptitude which determines our altitude in life. I have always believed that
+ the right attitude, the right effort and the right level of confidence can help you achieve contentment
+ and success in life. With this passion, I always aim at learning about new computer related
+ technologies and contributing to the emerging technologies.
+
+Specialties
+Languages: Java, Python
+Operating Systems: Linux, Mac OS, Windows
+Web Technologies: HTML, CSS, JavaScript, JQuery, ASP.NET, Silverlight, AJAX, XML
+Databases: MS SQL Server, Hive, HBase
+Software: Eclipse, NetBeans, Visual Studio, SQL Server Management Studio, Microsoft Test
+ Manager, SharePoint 2010
+Frameworks: Hadoop MapReduce, Spring DI, Mockito, JMockIt
+Source Control: Git
+
+Experience
+Software Engineer 3 at eBay
+May 2016  -  Present  (1 year 6 months)
+
+Software Development Engineer at Amazon Web Services (EFS)
+February 2014  -  May 2016  (2 years 4 months)
+
+Contributed to the development of a distributed file storage service for Amazon EC2 called Amazon
+ Elastic File System (EFS).
+
+Teaching Assistant (Algorithms and Data Structures) at Northeastern University
+September 2013  -  December 2013  (4 months)
+
+Conducted labs and assisted students for the course "Algorithms and Data Structures in C++" (CS
+ 1500).
+Graded homework and exams.
+
+SDE Intern at Amazon
+May 2013  -  August 2013  (4 months)
+
+Designed and developed a host identity service in Java using Spring Dependency Injection
+ framework which validates different hosts in Amazon that need access to other internal services.
+
+Implemented host authentication rules such as host certificate and signature validation using Java’s
+ Bouncy Castle, reverse DNS lookup and meta-data validation for hosts using AWS EC2 API.
+ Issued temporary credentials to the host once identified using AWS Security Token Service API.
+
+Implemented a command-line client for communicating with the service in Java.
+
+Tested service code using open source testing frameworks for Java such as Mockito and
+ PowerMockito and used Git as the primary version control system for managing the code.
+
+Graduate Teaching Assistant (Web Development) at Northeastern University, College of Computer
+and Information Science
+January 2013  -  April 2013  (4 months)
+
+Assisted graduate students in building a website for the course "Web Development" (CS 5610) and
+ gave weekly feedback for the same.
+
+Software Developer Co-op at BA Insight
+June 2012  -  December 2012  (7 months)
+
+Worked on BA Insight's product called "Longitude Search" for SharePoint 2010. Longitude has a
+ silverlight viewer for the documents in SharePoint and FAST Search.
+
+Added features such as inserting document previews on wiki pages in SharePoint 2010, blogging,
+ emailing and printing documents from Silverlight Viewer for Longitude for SharePoint and FAST
+ Search using Javascript COM, C#, Silverlight, Web Services. 
+
+Created and executed test cases for Longitude Search using Microsoft Test Manager 2010.
+
+Grader (Database Design) at Northeastern University, College of Computer and Information Science
+January 2012  -  April 2012  (4 months)
+
+Graded undergraduate students for the course "Database Design" (CS 3200) with Prof. Mirek
+ Riedewald.
+
+Software Developer Intern at Strata Geosystems (India) Pvt. Ltd.
+February 2010  -  March 2010  (2 months)
+
+Developed a database system for managing projects of the company which provides customized
+ reports to end users and notifications for the approaching deadline of the projects.
+
+Developed the class libraries, properties and front end User Interface in Visual Studio 2008.
+
+Education
+Northeastern University
+Master's degree, Computer Science, 2011 - 2013
+University of Mumbai
+Bachelor of Engineering (B.E.), Information Technology, 2007 - 2011
+
+Tushar Bhandari
+San Francisco Bay Area
+Software Engineer 3 at eBay
+
+1 person has recommended Tushar
+
+"He was in intern at BA-Insight and working for development. I often would consult with
+development on support issues. He always made himself accessible to the support team to help in
+any way he could. He was always easy to work with and was quick to learn the software. Tushar
+would be an asset in any organization."
+—Basma Soliman, Application Support,  Liaison International,  worked with Tushar at BA Insight
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

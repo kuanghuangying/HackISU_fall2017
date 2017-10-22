@@ -1,0 +1,109 @@
+Vaishakh Baragur Narasimhareddy
+San Francisco Bay Area
+Software Engineer
+
+Experience
+Software Engineer at Google
+November 2016  -  Present  (1 year)
+
+Edge Platform Security
+
+Software Engineer at Apigee (APIC)
+February 2016  -  November 2016  (10 months)
+
+Software Engineer in the Platform Security team.
+
+Software Engineering Intern at Virtual Instruments
+June 2015  -  September 2015  (4 months)
+
+- Built REST based micro-services that gathers application and network performance metrics from
+ AWS CloudWatch and sFlow and ingresses them into a Key Value Store (Redis). 
+- Conceptualized and implemented the first version of the SDK for building more such data
+ collectors.
+
+Associate Software Developer at Sabre Corporation
+July 2013  -  August 2014  (1 year 2 months)
+
+- Enhanced features & fixed bugs in Hotel, Air and Car, Policy and Site Admin modules of
+ GetThere, a corporate travel booking site with SaaS architecture that serves more than 12 million
+ transactions everyday.
+- Used best practices like Agile, TDD. Worked on the entire Java Stack.
+- Was part of the core team that started the initiative to bring in innovative ideas into the product.
+ Developed the idea submission website. 
+- Gathered metrics related to the functional and unit test code coverage of the product using
+ JaCoCo and SonarQube. Got feedback from various stakeholders and tailored the results
+ dashboard based on their requirements.
+
+Intern at Exeter Group
+February 2013  -  May 2013  (4 months)
+
+- Automated the build process of OneGate, the Obamacare Exchange website for the state of
+ Hawaii. 
+- Worked closely with the Deployment team to understand their requirement and presented a
+ feasible solution.
+
+Intern at IISc Medical Intelligence And Language Engineering(MILE) lab
+
+July 2011  -  September 2011  (3 months)
+
+- Reduced the size of the TTS database using on the ﬂy conversion of audio ﬁles.
+- Wrote the installer for IISc's Text to Speech Engine based on the requirements of the visually
+ challenged. 
+- Made minor code fixes to the Microsoft Speech API Wrapper of MILE Text to speech Engine
+
+Education
+University of California, Irvine
+Master's in Computer Software Engineering, Computer Software Engineering, 2014 - 2016
+RV College Of Engineering
+Bachelor of Engineering (B.E.), Computer Science, 2009 - 2013
+MES Kishore Kendra PU College
+PUC, PCMB, 2007 - 2009
+Parachute Regiment School
+CBSE, CBSE, 2002 - 2007
+Activities and Societies:  Debating, Dramatics, Mad Ads,
+
+Vaishakh Baragur Narasimhareddy
+San Francisco Bay Area
+Software Engineer
+
+5 people have recommended Vaishakh Baragur
+
+"Dedicated, result oriented problem solver, able to meet customer expectations, deliver complex
+requirements on time."
+—Sreenivasa Rao Tav, Team Lead,  Sabre Corporation,  managed Vaishakh Baragur at Sabre
+Corporation
+
+"I spent 3 months working with Vaishakh over the summer as his internship mentor. I was
+repeatedly impressed by Vaishakh's ability to take guidance and work independently towards a
+goal, doing the research necessary on his own, reviewing his findings and then setting off turning
+his research into reality. Over the course of three months, Vaishakh produced two key product
+features for us with production-ready quality. I hope to work with Vaishakh again after he graduates,
+but failing that I would recommend him highly in whatever he chooses to do."
+—Nicholas York, Product Architect, Data and Analytics,  Virtual Instruments,  managed Vaishakh
+Baragur at Virtual Instruments
+
+"He is a very talented, highly skilled individual with great technical skills.He is a quick learner and
+always comes up with straight-forward solutions. I highly recommend Vaishakh."
+—Janmejay Swain, Tech,  Sabre Travel Network,  managed Vaishakh Baragur indirectly at Sabre
+Corporation
+
+"Vaishakh’s work performance during his internship at Virtual Instruments was impressive: he
+implemented a component for a brand new product, and worked on integrating and testing his
+component with the main services. His project was completed in time and worked as expected
+to help the MVP of the new product. He showed great motivation, finished his project ahead of
+time, wrote complete documentation and gave TOI to the team. Vaishakh will definitely be a great
+contributor to any engineering team. "
+—Cindy Cao, Senior Software Engineer,  Twilio Inc.,  managed Vaishakh Baragur at Virtual
+Instruments
+
+"Vaishakh is a hard working and dedicated professional With Strong Problem Solving Skills. In my
+association with Vaishakh, I have observed him learning very fast and getting quickly comfortable
+in the area he is responsible.He does not require much supervision.He is a very friendly person to
+work with.I would strongly recommend Vaishakh for any software related job."
+—Khadar Basha Shaik, Senior Software Development Engineer,  Sabre Corporation,  managed
+Vaishakh Baragur indirectly at Sabre Corporation
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

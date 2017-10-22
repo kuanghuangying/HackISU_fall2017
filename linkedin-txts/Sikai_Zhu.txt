@@ -1,0 +1,45 @@
+Sikai Zhu
+San Francisco Bay Area
+Software Engineer
+
+Summary
+Full stack engineer with specialties in machine learning, recommendation system.
+
+Experience
+Software Engineer at Airbnb
+March 2015  -  Present  (2 years 8 months)
+
+Software Engineer at Facebook
+June 2012  -  March 2015  (2 years 10 months)
+
+Recommendation Ranking
+Ads
+Newsfeed
+Intern Mentor
+
+Software Engineering Intern at Google
+May 2011  -  August 2011  (4 months)
+
+Desigend, implemented and tested a recommendation tool backend server with Google Cases
+ Team. This tool is able to automatically provide recommended information to questions from
+ customers to enhance customer service. Utilized information retrieval and machine learning
+ techniques with Java
+Implemented the frontend user interface of the recommendation tool and integrated it to the project
+ of Google Cases Team with Java
+
+Education
+University of Southern California
+PhD, Computer Science, 2009 - 2012
+Penn State University
+Master, Physics, 2007 - 2009
+Tsinghua University
+B.S., Fundamental Science (Maths and Physics), 2003 - 2007
+
+Sikai Zhu
+San Francisco Bay Area
+Software Engineer
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

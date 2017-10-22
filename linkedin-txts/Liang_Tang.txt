@@ -1,0 +1,90 @@
+Liang Tang
+San Francisco Bay Area
+Software Engineer at Google
+
+Summary
+I am a machine learning researcher and engineer in the bay area. I currently work at Google display
+ ads team, which aims to deliver relevant and contextual ads for internet users. Prior to Google, I
+ worked at LinkedIn Feed Relevance team. I developed several features into LinkedIn feed ranking
+ models that significantly improved the user engagement on LinkedIn feeds. ome parts of my old work
+ are summarized in the blog "Making Your Feed More Relevant" : https://goo.gl/fvoSf5
+
+I am broadly interested in data and information analysis including data mining, machine learning and
+ information retrieval techniques. More specifically, I focus on user modeling and personalization in
+ recommender systems, online advertising, multi-arm bandit algorithms, event mining that discovers
+ and summarizes the hidden relations of the event data, streaming data, time series data and textual
+ data.
+
+Experience
+Software Engineer at Google
+September 2016  -  Present  (1 year 2 months)
+
+Deliver contextual and relevant display ads for internet users.
+
+Senior Software Engineer at LinkedIn
+June 2014  -  September 2016  (2 years 4 months)
+
+Develop large-scale data mining and machine learning techniques and optimize LinkedIn feed
+ relevance models to provide personalized feed activity streams for each LinkedIn member. In
+ particular, my projects include:
+  1) Viewer-ActivityType affinity in the LinkedIn feed ranking model, leading to 3.6% CTR lift on
+ LinkedIn mobile feeds and 2.5% CTR lift on LinkedIn desktop feeds.
+  2) A/B Testing experiments for impression discounting with capping for LinkedIn desktop feeds,
+ which provided 50%-60% repeatedness reduction without hurting CTR.
+  3) Near-realtime item popularity in the LinkedIn feed ranking model, leading to +7.4% CTR on
+ desktop and +5% CTR on mobile, +1.2% engaged feed session on desktop and +1.1% engaged
+ feed session on mobile, and +1.5% revenue on sponsored updates from mobile platform.
+
+Developed the "Browsemap" algorithm into the presentation recommendation in SlideShare,
+ leading to +43% CTR on logged-in users and +30% CTR on logged-out users.
+
+Applied Research Intern at LinkedIn
+May 2013  -  August 2013  (4 months)
+
+1) Investigated exploration/exploitation algorithms, such as UCB and Thompson Sampling, for Ads
+recommendation and news ranking problems in LinkedIn website.
+2) Implemented a Hadoop based replayer offline evaluation for exploration/exploitation algorithms.
+
+Research Intern at IBM Watson Research Center
+May 2012  -  August 2012  (4 months)
+
+Investigated methodologies for discovering false negatives (missing alerts) of IBM Tivoli monitoring
+system based on manual incident tickets. The aim is to optimize the configuration of IBM
+Tivoli Monitoring System in individual and dynamic IT infrastructures.
+
+Research Intern at IBM Watson Research Center
+May 2011  -  August 2011  (4 months)
+
+Proposed and designed a system component for IBM Tivoli Monitoring System for optimizing
+ monitoring situations based on the ticket resolutions to reduce the number of non-actionable
+ tickets.
+
+Software Engineering Intern at Microsoft Research Asia
+May 2007  -  December 2007  (8 months)
+
+*  Developed a tool of CART (Classification and Regression Tree) algorithm on a large-scale
+ parallel computing system, and applied it to analyze the Windows Vista boot time dataset to
+ discover causal knowledge about the bottleneck of Windows startup. In charge of implementation
+ using C++ and parallel version of algorithm design.
+    * Developed a middle querying engine MDA ( Multidimensional Data Access) to handle
+ multidimensional query on a BigTable system (a distributed data table), which was used by several
+ research teams in DIT group of MSRA. In charge of the architecture design and implementation of
+ kernel engine using C++.
+
+Education
+Florida International University
+Ph.D, Computer Science, 2009 - 2014
+Sichuan University
+Master, Computer Science, 2006 - 2009
+Activities and Societies:  Studying the areas of data mining and databases.
+High School Affiliated to Southwest University of China
+High School, 1999 - 2002
+
+Liang Tang
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

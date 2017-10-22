@@ -1,0 +1,87 @@
+Nathan Stender
+San Francisco Bay Area
+Software Engineer at Google
+
+Experience
+Software Engineer at Google
+June 2015  -  Present  (2 years 5 months)
+
+Display Ads Infrastructure Team
+
+Developing and launching a new high throughput, low latency key-value store serving framework.
+
+Relevant languages: C/C++, Python
+
+Graduate Research Assistant at University of Nebraska–Lincoln
+January 2014  -  May 2015  (1 year 5 months)
+
+• Developed methods for applying Constraint Processing algorithms to large combinatorial
+ problems.
+
+• Created Java program to generate XML constraint model descriptions from multiple input formats
+ and perform result analysis.
+
+• Contributed to a large existing C/C++ code base using Git.
+
+Relevant languages/tools: C/C++, Java, Git, Slurm, Eclipse
+
+Summer Research Intern at Adventium Labs
+May 2013  -  August 2013  (4 months)
+
+• Applied Constraint Processing techniques to develop resource allocation optimization software.
+
+• Collaborated with a research team on long-term company projects.
+
+• Assisted in the creation and maintenance of company software products.
+
+Relevant languages/tools: Java, ECLiPSe CLP, Prolog, Python
+
+Graduate Teaching Assistant at University of Nebraska–Lincoln
+August 2012  -  May 2013  (10 months)
+
+• Courses: CSCE 310 Data Structure and Algorithms, CSCE 155N Computer Science I.
+
+• Created and presented lecture slides in recitation and laboratory sections.
+
+• Wrote and graded tests, quizzes, and homework assignments.
+
+Undergraduate Research Assistant at Texas State University
+May 2011  -  August 2011  (4 months)
+
+• Used computer vision techniques to improve the results of an image search web-engine.
+
+• Created a 20,000 image database for experiment validation using a Java program to collect
+ images from online image searches.
+
+• Awarded “Excellent Research Award” for final project by REU faculty members.
+
+Relevant languages/tools: Matlab, Java, Javascript
+
+Undergraduate Research Assistant at University of Nebraska–Lincoln
+December 2009  -  December 2010  (1 year 1 month)
+
+• Performed independent research on data mining and hierarchical clustering .
+
+• Assisted in the creation and deployment of web-based learning objects as part of a research
+ experiment.
+
+Relevant languages/tools: R, C/C++, CSS3, HTML
+
+Education
+University of Nebraska-Lincoln
+Graduate Studies, Computer Science, 2012 - 2015
+Activities and Societies:  Graduate Representative of CSE Curriculum Committee, Association for
+ Computing Machinery, Association for Constraint Processing
+University of Nebraska-Lincoln
+Bachelor's Degree, Computer Engineering, 2008 - 2012
+Activities and Societies:  Eta Kappa Nu Int'l Honor Society for Electrical and Computer Engineers,
+ Sigma Alpha Lambda National Leadership and Honors Organization
+
+Nathan Stender
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

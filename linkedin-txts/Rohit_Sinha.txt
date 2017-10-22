@@ -1,0 +1,135 @@
+Rohit Sinha
+San Francisco Bay Area
+Software Engineer at Cask
+
+Summary
+Experienced Software Engineer with a demonstrated history of working in the computer software
+ industry. Skilled in Hadoop Platform, Hadoop Security, Apache Spark, Distributed System and Java.
+ Strong engineering professional with a Master of Science (M.S.) focused in Computer Science from
+ University of Minnesota-Twin Cities. 
+
+Resume: https://goo.gl/nVkcyA
+
+Experience
+Software Engineer at Cask Data
+July 2014  -  Present  (3 years 4 months)
+
+Overview
+• Designed and developed various features from scratch while working on different aspects of our
+ platform and Hadoop
+• Managed and delivered multiple product releases on time while working with the whole
+ engineering team
+• Worked on multiple PoCs to onboard new customers and mentored various summer interns over
+ the years
+• Provided production and developer support on rotation and contributed to the open source
+ community of CDAP
+
+Key Projects
+• Architectured and implemented CDAP Authorization model from scratch for enterprise grade
+ security
+• Designed and developed pluggable authorization extensions for Apache Sentry, Apache Ranger
+• Architectured and developed authorization annotations for enforcement through bytecode
+ rewriting
+• Implemented support for granular, application and dataset level impersonation in CDAP
+• Architectured and implemented Apache Spark integration allowing users to perform in-memory
+ cluster computing
+• Developed capabilities to collect logs and metrics from Spark and running jobs on schedule
+ through workflows
+
+• Designed and developed various Spark and Spark Streaming applications and ETL plugins
+• Designed and developed various ETL plugins for Cask Hydrator to interact with Hive, HDFS etc.
+• Designed and developed CDAP EDW Offloading tool for MS SQL Server and Oracle Database.
+• Designed and developed upgrade functionality for the core platform to enable seaming less
+ update for our customers
+• Enabled it across various different distributions and versions of Hadoop
+• Redesigned CDAP metadata system for faster and feature rich indexing and search
+
+Side Projects  
+• Integrated CDAP with Apache Ranger which later was incorporated as core authorization
+ extension
+• Designed and developed a testing framework for CDAP UI to automate layout and integration
+ testing
+• Designed and implemented test framework to automate security testing for various customer use
+ cases
+
+Research Assistant at University of Minnesota
+October 2013  -  May 2014  (8 months)
+
+• Developing an open source software that automates the analysis and visualization of large sets of
+ genetic data
+• Improvising the performance and usability of existing software to facilitate adoption by broader
+ scientific community
+
+Software Development Engineer (Intern) at Amazon
+May 2013  -  August 2013  (4 months)
+
+• Summer intern in Clickstream Browse History Team under Website Application Platform and
+ Builder Tools at Amazon. 
+• Designed and developed a self-service tool for channel assignment process – a part of web
+ analytics.
+• Simplified and converted Hadoop jobs to develop a standalone channel assignment simulator.
+• Worked with Amazon S3, Amazon DynamoDB, Hadoop, Ruby, Ruby on Rails, Java, Git, and
+ scalability and concurrency issues.
+• Wrote unit tests using TestNG and EasyMock frameworks.
+
+Web Manager at University of Minnesota
+October 2012  -  February 2013  (5 months)
+
+• Part-time job during master's degree.
+• Developed and administered Wordpress powered websites for IonE at University of Minnesota,
+ MN
+
+• Managed and collaborated with a team of editors and writers to create the website content
+
+Programmer Analyst at MindTree Ltd.
+August 2011  -  June 2012  (11 months)
+
+• Undertook industry training in Embedded Practices domain which develops software for
+ embedded devices.
+• Worked extensively with System level programming, C language, Linux device drivers and Socket
+ programming.
+• Responsible for testing, debugging and optimizing GPS module on OMAP 5 devices of Texas
+ Instruments.
+
+Education
+University of Minnesota-Twin Cities
+Master of Science (M.S.), Computer Science, 2012 - 2014
+B. V. Bhoomaraddi College of Engineering & Technology (Visvesvaraya Technological University -
+India)
+Bachelor Of Engineering, Computer Science, 2007 - 2011
+Loyola High School, Patna
+Intermediate, PCM + Information Technology, 2005 - 2007
+
+Rohit Sinha
+San Francisco Bay Area
+Software Engineer at Cask
+
+3 people have recommended Rohit
+
+"Amazing person to work with! Analytical in approach. Die hard programmer. Very passionate in
+using internet to solve business problems! Knows multiple languages and technologies in internet.
+Will hire him any time for programming job."
+—Padmanabhan Kalyanasundaram, Volunteer,  Isha Foundation,  managed Rohit at MindTree Ltd.
+
+"It gives me an immense pleasure to write this recommendation to a person whom I know from
+the very first day of my professional career. Rohit and I had went through the same training in
+Embedded Practices at Mindtree Ltd - India and worked there together for almost an year. He is
+a quick learner, enthusiastic, smart and hard working. Furthermore, he is technically very strong.
+Having all these qualities in one engineer is difficult and he has it all. It was a great pleasure
+working with Rohit. All the best Rohit and continue the good work."
+—Pushkar Singh, Senior Software Developer,  Sangoma Technologies,  worked directly with Rohit
+at MindTree Ltd.
+
+"Rohit has exceptional programming expertise. Given a problem, coming up with an optimal
+solution in less time and solving it is the talent within him. Doing everything in a professional way
+and achieving the deadlines for the tasks have always been accomplished. He has always been
+a team leader. He has been an inspiration to others around. He is very knowledgeable and has a
+strong foundation of all the technical concepts. Ask him anything and he knows it. I am glad to have
+worked with him. Best Regards, Neha"
+—neha gawas, Senior Software Engineer,  MindTree Ltd.,  worked directly with Rohit at MindTree
+Ltd.
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

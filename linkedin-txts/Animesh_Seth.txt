@@ -1,0 +1,76 @@
+Animesh Seth
+Greater Seattle Area
+Software Engineer II at Microsoft
+
+Experience
+Software Engineer II at Microsoft
+June 2017  -  Present  (5 months)
+Part of Azure Identity Platform
+
+Software Engineer II at Microsoft
+August 2015  -  June 2017  (1 year 11 months)
+
+I am part of Kaizala Services (Mobile Only Team) team in Microsoft. We own the backend service
+ which supports the chat App developed by Microsoft called Kaiala. I am part of the team from the
+ beginning and has developed the service from scratch. Work on enhancing and scaling the existing
+ service to handle more load than before and as well add new features in the service to support
+ new new and complex use cases in the chat app.
+
+Software Development Engineer at Amazon
+January 2014  -  August 2015  (1 year 8 months)
+
+I was part of the Shopping Cart team in amazon. Shopping cart is the service which handles the
+ customer's cart all aroung the world for amazon. Worked closely with managers and outside teams
+ to support new and enhance existing features in the Shopping cart
+
+Software Engineer at ibibo Web Pvt. Ltd.
+July 2012  -  January 2014  (1 year 7 months)
+
+- Handle Backend order processing and its automation.
+- created service for seller's and buyer's on tradus.com to communicate with each other with their
+ normal email accounts without any of them know each others real email accounts.
+- Service to provide seller's with their payouts and recovery calculations
+- service that provides the gift voucher on tradus.com
+
+College Intern at Cisco Systems, Bangalore
+June 2011  -  July 2011  (2 months)
+
+created an automated testing system for their CPT platform where they just need to select the
+ testcases and it will automatically be execute with the result being mailed to the owner of the test
+ executer
+
+Intern at Cisco Systems
+June 2011  -  July 2011  (2 months)
+
+Worked on the matrix sanity tool for CPT-600 and CPT-200. Used for testing the various features of
+ CPT.
+-Applied complete SDLC on the project & was offered a PPO at the end of my Intern. 
+-Tool to be run via CLI or Web. Result for both can be viewed on the web page or in a text file.
+
+Winter Trainee at Maruti Suzuki India Ltd
+December 2010  -  January 2011  (2 months)
+
+Successfully completed the project on “Customer Relation Management (CRM) and Dealer
+ Management System (DMS)”
+-Got insight into the development phase of CRM and DMS and analysed customer data to find out
+ various Trends.
+-Developed new ideas to improve CRM and also developed ways to integrate CRM with DMS.
+
+Summer Trainee at Bharat Electronics Ltd
+June 2010  -  July 2010  (2 months)
+
+Successfully completed the project on “VIRTUAL LAN”
+-Got insight into how Virtual network is setup and how it is beneficial over other networks.
+
+Education
+Netaji Subhas Institute of Technology
+Bachelor of Engineering (B.E.), infor, 2008 - 2012
+
+Animesh Seth
+Greater Seattle Area
+Software Engineer II at Microsoft
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

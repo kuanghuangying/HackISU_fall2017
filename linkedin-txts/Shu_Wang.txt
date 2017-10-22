@@ -1,0 +1,60 @@
+Shu Wang
+Greater Seattle Area
+Software Engineer at Vertafore
+
+Experience
+Software Engineer at Vertafore
+February 2015  -  Present  (2 years 9 months)
+
+Client Portal team
+
+The main work includes manage client portal agency setup page, allow agency to customize their
+ insured users' needs, offer various functionalities for insured user who can request policy changes,
+ print auto ID cards, manage certificates of insurance, upload/download documents, etc through
+ a secure portal via computer, tablet, or smart phone. (Full stack: C#, ASP.net, MVC, Web API,
+ OData, HTML, JavaScript, AngularJS, CSS, Bootstrap, JQuery, Git, RESTful Web Service, SQL)
+
+Software Development Engineer at Amazon
+March 2014  -  December 2014  (10 months)
+
+Marketplace Promise Experience (MPX) team
+
+The goal is to provide accurate and competitive shipping and delivery promise to ensure that
+ customers buying items from 3rd party sellers have an amazing experience.  (Java, Spring, XML,
+ UML, web service, Linux, Git, testNG, data warehouse, agile/scrum)
+
+Software Development Engineer at Cerner Corporation
+August 2012  -  February 2014  (1 year 7 months)
+
+The main work includes scanning, indexing and storing paper documents, along with providing
+ the ability to view, modify the document within the patient's chart, based on a large base of end
+ user applications, built primarily in VC++, C#, Java based services through EJS (for Millennium
+ applications). (C++, C#, Java, VB, SQL, JUnit, script, agile/scrum, Eclipse, Visual Studio, MFC,
+ Maven, Subversion, Citrix)
+
+Graduate Teaching Assistant at Arizona State University
+January 2011  -  May 2012  (1 year 5 months)
+
+Assist instructors to grade assignments and projects, help students to clarify doubts.
+
+Research Assistant at Nanjing Normal University
+September 2007  -  June 2010  (2 years 10 months)
+
+Interests: 3D GIS, GIS system Integration
+
+Education
+Arizona State University
+Master's Degree, Computer Science, 2010 - 2012
+Nanjing Normal University
+Master's Degree, Geographic Information Science and Cartography, 2007 - 2010
+Nanjing Normal University
+Bachelor's Degree, Geography Information System, 2003 - 2007
+
+Shu Wang
+Greater Seattle Area
+Software Engineer at Vertafore
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

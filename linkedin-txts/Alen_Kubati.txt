@@ -1,0 +1,72 @@
+Alen Kubati
+San Francisco Bay Area
+Software Engineer at Google
+
+Experience
+Software Engineer at Google
+July 2015  -  Present  (2 years 4 months)
+
+Working in backend data infrastructure in Mesa. More details about Mesa: http://
+static.googleusercontent.com/media/research.google.com/en//pubs/archive/42851.pdf
+
+Software Developer Engineer at Yahoo
+March 2014  -  June 2015  (1 year 4 months)
+
+• Joined Yahoo Gemini, a fast-paced team within Yahoo which aims to revamp Yahoo’s Native ads
+ serving and redesign Yahoo’s Mobile Search serving (#2 in Mobile Search in the market).
+• Worked on developing and maintaining the end-to-end testing infrastructure for Gemini from ad-
+creation to reporting during the first 6 months in order to enable to team to ship new features with
+ quality.
+• Currently working on the reporting side of Gemini, which aims to provide Yahoo’s leadership with
+ important information about Gemini marketplace conditions
+• Experience: Java, Tableau, Hive, Oracle, Python
+
+Software Engineering Intern at Facebook
+May 2013  -  August 2013  (4 months)
+
+• Developed and deployed a significant portion of a contact de-duplication system. It automatically
+ recognized duplicate user database entries (among several DBs) and, based on a certain
+ confidence level, merged similar users. We built it using mainly SQL and PHP and the most
+ interesting challenge was finding the right function to predict confidence level. The function was
+ trained on a DB of known duplicates and performed with 85-90% accuracy.
+• System was mainly used by the recruiting team, which used it to find duplicate candidate
+ information in the system. The system was able to remove ~10,000 duplicates on a database of
+ ~1,000,000 users.
+
+Tutor at University of Pennsylvania
+September 2010  -  May 2013  (2 years 9 months)
+
+During the past 3 years as a student at the University of Pennsylvania I worked part time as a tutor
+ in Computer Science and Mathematics. Subjects ranged from Calculus I - III and many entry to
+ mid-level computer science classes.
+
+Undergraduate Research at University of Pennsylvania
+
+May 2011  -  August 2011  (4 months)
+
+Worked on ways of enforcing security on a hardware level with Dr. Andre DeHon
+
+Software Engineer at Venmo
+January 2010  -  May 2010  (5 months)
+
+• Joined Venmo very early on when it was pioneering text-based monetary transfers.
+• Built a system using Python and MySQL that measured and predicted important metrics such as
+ active users, monetary transfers, &
+market growth. The business made several important business decisions based on these metrics,
+ which helped grow the number of users. The main challenge was finding the most important
+ metrics.
+
+Education
+University of Pennsylvania
+Masters in Computer Science, Computer Science, Mathematics, 2009 - 2013
+Activities and Societies:  Chess Club
+New Providence High School
+
+Alen Kubati
+San Francisco Bay Area
+Software Engineer at Google
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

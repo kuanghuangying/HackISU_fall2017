@@ -1,0 +1,112 @@
+William S. Fuller
+San Francisco Bay Area
+Front End Engineer
+
+Summary
+I am a Front End Developer working to be a Full Stack Developer. I'm fascinated with every level
+ there is to web development from inception to design to development and to release. My tools of
+ the trade are HTML5, CSS3 (SCSS), JavaScript, jQuery, Git, Wordpress and soon to be Django,
+ AngularJS, and MySQL. Always looking and implementing latest trends but keeping a close eye on
+ graceful degradation and cross-browser/device experiences. I love waking up everyday to the tasks I
+ have at hand at work, and excited to learn with projects I'm creating personally.
+
+Experience
+Software Engineer at Airbnb
+February 2017  -  Present  (9 months)
+
+Design and develop front end application  for internal tool to help with on boarding and off boarding
+ users on particular platforms/services.
+
+- Create an attractive UI using Airbnb's design language, within Sketch. 
+- Build prototype of application in InVision for User Experience and Business Requirement
+ fulfillment. 
+- Develop application using React + Redux + React-Router + Webpack + Babel.
+- Provide support in building out backend Rails API and RESTful API architecture. As well support
+ in development environments (Vagrant) and  deployment into AWS.
+
+Front End Web Developer at ASUS North America
+February 2016  -  February 2017  (1 year 1 month)
+
+Create sites of online campaigns, maintain in house applications, and develop WordPress sites for
+ news blogging and an internal e-commerce portal.
+
+- Develop/maintain sites using HTML5, CSS3(Sass), JavaScript, Bootstrap, Grunt/Gulp,
+ WordPress, AngularJS, Bower, NPM, and Git. Support existing ASP.net, PHP, and MySQL/MS
+ SQL applications.
+- Manage development projects and scheduling
+- Work with different marketing sub departments and design team on site development, design
+ direction, and user experience input.
+
+- Create Quarterly Business Reviews containing site analytics, visual representation models, and
+ site feedback to enhance user experience and better understand user audience. 
+
+Front End Web Developer at Incentive Networks
+August 2013  -  February 2016  (2 years 7 months)
+
+Develop responsive web sites within proprietary Content Mangement System for online loyalty
+ programs. 
+ 
+-Create custom JavaScript, jQuery widgets, and script library.
+-Develop sites using HTML, CSS, JavaScript, jQuery, and mobile frameworks.
+-Test for cross browser and iOS/Android mobile device compatibility .
+-Provide mobile and responsive development consulting to marketing team and fellow development
+ team.
+-Develop flexible dynamic parent templates that can be restyled according to 
+client needs as child templates.
+
+UX/Front End Web Developer Intern at Volumebee
+May 2013  -  July 2013  (3 months)
+
+Rebranding and developing current website and mobile application for Volumebee.com, to focus on
+ the new product and services.
+
+Responsibilities:
+-Provide UI/UX architecture, consulting, usability, and development to manager, marketing team
+ and fellow development team.
+-Create detailed mockups using Photoshop 
+-Create functional prototypes for desktop and mobile devices.
+-Develop site using HTML, CSS, JavaScript, and jQuery on PHPStorm.
+-Implement Responsive Web Design for full site compatibility.
+-Troubleshoot and fix any site issues for Cross Browser/Device Compatibility.
+
+Technology Associate at EDMC
+October 2011  -  July 2013  (1 year 10 months)
+
+Use of Microsoft 2010 Outlook, Excel, and Word. Monitoring and controlling distribution of video,
+ audio,
+software, and animation equipment to students and faculty. Customer service and tier one tech
+ support
+for Windows, Macintosh, and computer peripherals.
+
+Seasonal Design Associate & Quality Control at Minted
+November 2012  -  December 2012  (2 months)
+
+Proofing online orders from customers using Adobe Photoshop, Illustrator, and InDesign. Making
+ necessary adjustments to various orders for highest customer satisfaction.
+
+Education
+Free Code Camp
+Full Stack Web Development Certification, Computer Software Engineering, 2016 - 2017
+The Art Institute of California-San Francisco
+Bachelor's degree, Web Page, Digital/Multimedia and Information Resources Design, 2011 - 2013
+Activities and Societies:  Photo Club - Officer, The Society of Web Artists and Programmers
+ (S.W.A.P.) - Officer
+ITT Technical Institute-Dayton
+Associate of Science (AS), Design and Visual Communications, General, 2008 - 2010
+
+William S. Fuller
+San Francisco Bay Area
+Front End Engineer
+
+1 person has recommended William S.
+
+"For the time I worked with William I saw his work to be exemplary. The attention to detail was
+coupled with follow through that included communicating to companies outside of Incentive
+Networks to ensure a polished product that all parties agreed on. I have no hesitation with
+recommending William and I hope I'm lucky enough to work with him in the future."
+—David Evans, Operations Engineer,  A9,  worked with William S. at Incentive Networks
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+

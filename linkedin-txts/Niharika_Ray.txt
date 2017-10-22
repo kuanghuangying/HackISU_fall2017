@@ -1,0 +1,60 @@
+Niharika Ray
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Experience
+Software Engineer at Airbnb
+March 2015  -  Present  (2 years 8 months)
+
+I'm a software engineer on the Data Engineering team at Airbnb, working on visualization and data
+ tools. 
+
+During this time, I've worked on our experimentation platform, and open sourced: https://
+github.com/airbnb/knowledge-repo
+
+I also spoke about this at Grace Hopper Conference 2016.
+
+Software Engineering Intern at Airbnb
+June 2014  -  August 2014  (3 months)
+
+I was a software engineering intern on the Data Science team at Airbnb. I worked on creating
+ different types of visualizations, including heat maps and monitor dashboards, abstracted plot
+ building into a library, and created an internal webpage that showed core company metrics and
+ updated weekly.
+
+Parallel and Sequential Data Structures and Algorithms (15-210) Teaching Assistant at Carnegie
+Mellon University
+August 2013  -  May 2014  (10 months)
+
+I was a TA for this class for two semesters. Responsibilities including modifying existing labs and
+ recitations to match this semester's schedule, holding office hours, teaching recitation, and grading
+ students' homework.
+
+Intern in the Innovations and Infrastructure Group at The Blackstone Group
+June 2013  -  August 2013  (3 months)
+
+Interned at the Innovations and Infrastructure team.
+
+Principles of Functional Programming (15-150) Teaching Assistant at Carnegie Mellon University
+January 2013  -  May 2013  (5 months)
+
+Intern at CivicScience
+May 2012  -  August 2012  (4 months)
+
+I interned here for about 3 months, working on fixing various front-end bugs that existed in the
+ website.
+
+Education
+Carnegie Mellon University
+Bachelor of Science (B.S.), Computer Science, 2011 - 2015
+Activities and Societies:  President and Captain of CMU's Mock Trial Team
+West Windsor Plainsboro High School South
+
+Niharika Ray
+San Francisco Bay Area
+Software Engineer at Airbnb
+
+Profile Notes and Activity (1)
+10/21/2017—View by Shane Ong
+
+
