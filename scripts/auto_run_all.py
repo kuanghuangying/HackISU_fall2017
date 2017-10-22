@@ -7,4 +7,5 @@ all_pdfs = [p for p in os.listdir("ENTER PATH HERE")]
 #convert to pdf
 for x in all_pdfs:
 	text_file = x.replace(".pdf", ".txt")
+	# pdf2txt.py -o OUTPUTFOLDER/output.txt pdf_folder/pdf_name.pdf
 	os.system("pdf2txt.py -o " + text_file + " samps/" + x)
