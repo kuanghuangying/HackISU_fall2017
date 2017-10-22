@@ -37,7 +37,7 @@ Provide solutions for servers, allowing clients to standardize, consolidate and 
 • Provide OS Provisioning across Windows and Linux.
 • Manage VM platforms. (VCenter, VSphere, EXSi)
 
-• Patching, Audits and Software deployment.
+• Patching, Audits and Software deployment.
 • Resolve complex issues and provide On-call Support.
 • Recruitment, Coaching and Training.
 • Guide and motivation in order to achieve team targets.
